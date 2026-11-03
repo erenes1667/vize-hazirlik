@@ -1,0 +1,373 @@
+# GRF191 Tipografi: Gemini dosyası
+
+**Gemini'ye şunu yaz (ilk mesaj olarak, bu dosyayla birlikte):**
+
+> Bu dosya, GRF191 Tipografi dersinin vize öncesi 3 ders kaydının notlarını ve konuşma metinlerini, ayrıca ders planını içeriyor. Sadece bu dosyaya dayanarak cevap ver. Bilmediğin bir şeyi uydurma; dosyada yoksa 'derste geçmiyor' de. Bana kısa ve sade anlat. İstersem bana soru sorarak beni sına.
+
+Önemli: Kayıtlar sadece 16 Ekim 2026'daki anlam tasarımı (semantik tipografi) çalışmasını anlatıyor. Harf anatomisi, serif sınıflandırması, espas gibi konular bu dosyada yok. Sınav formatı bilinmiyor (tahmin: test ve kısa cevap, ya da uygulama çalışması).
+
+---
+
+# Ders planı (EBS ders tanıtım formu, GRF191 Tipografi)
+
+Bu sayfa derste anlatılan bir şey değil. UBIS EBS'deki resmi formdan alındı.
+
+- Ders: **GRF191 Tipografi**. Hoca: Öğr. Gör. **Mete Yalçın**.
+- **0+2** (uygulama), **1.0 kredi**, **4.0 AKTS**. Zorunlu, yüz yüze.
+- Amaç: yazı ve tipografi konusunda temel teorik bilgiler ve terminolojinin öğretilmesi.
+
+## Haftalık konular
+1. Tipografinin tanımı, işlevi, grafik tasarımdaki önemi
+2. Temel kavramlar, tipografinin temelleri, tarihsel gelişim
+3. Yazı ve dil, harf biçimleri, kelimeler ve paragraflar, hiyerarşi
+4. Öncü ve çağdaş uygulamacıların çalışmaları, sanatsal ifade olarak tipografi
+5. **Harfin anatomisinin detaylı incelenmesi**, harf anatomisi uygulamaları
+6. Yazı karakterleri, türleri, sınıflandırılması. Paragraf yapısı. Serifli, serifsiz, kaligrafik yazılar
+7. Majiskül-minüskül yazılar, hiyerarşik düzen
+8. Paragraf yapısının detaylı incelenmesi
+9. **ARA SINAV**
+10. Espaslar, harf boşlukları, uygulama
+11. Metin düzenleme biçimleri, bloklamalar, okunabilirlik
+12-14. Harf biçimi oluşturma, tasarımı alfabeye uyarlama (uygulama)
+
+## Not verme
+- Yarıyıl içi: **Ara sınav %80** + **4 ödev %20**.
+- Not hesabında: yarıyıl içi **%60**, yarıyıl sonu sınavı **%40**.
+- Buradan hesap (formdaki oranların çarpımı): ara sınav toplam notun yaklaşık **%48**'i, ödevler **%12**.
+- 'Uygulama Sınavı' satırı formda boş. Sınav türü yazmıyor.
+
+## Kaynaklar
+- Çağdaş Tipografinin Temelleri (Namık Kemal Sarıkavak)
+- Modern Sanat ve Yeni Tipografi (Emre Becer)
+- Tipografinin Temelleri (Gavin Ambrose, Paul Harris)
+- Ders notu: Yazı Karakteri Çalışması (Bezier)
+
+## Uyarı
+Kayıtlar sadece 16 Ekim'deki anlam tasarımı çalışmasını anlatıyor. Planın 1-8. haftalarındaki harf anatomisi, serif sınıflandırması, majiskül-minüskül gibi konuların anlatımı elimizdeki kaynaklarda yok. Bu konular için kitaplara ya da hocanın slaytlarına bak.
+
+
+# Kayıt 1 (16 Ekim 2026): Anlam tasarımı, 'fall' örnekleri (23 dk)
+
+Ders online yapıldı. Hoca uygulamalı bir ders olduğu için verimli olmayacağını söyledi (00:00). Kaydı UBIS'ten paylaşacak (04:24).
+
+## Çalışmanın adı
+- **Anlam tasarımı**. Başka adları: **semantik tipografi**, **ekspresif tipografi** (01:52).
+- Daha önce öğrenilenler kullanılır: tipografinin temel kuralları, **üç çizgi kuralı**, yazı karakterleri ve duyguları (02:09).
+- Bir kelime bulunur. O kelime tipografiyle anlatılır (02:37).
+
+## Amaç
+- Sadece tipografik malzeme kullanılır.
+- **Okunurluk** korunur. **Görsel özellik** de korunur (04:47).
+- Tipografinin kuralları bilerek bozulur (05:08).
+
+## 'Fall' (düşme) örnekleri
+Hoca aynı kelimenin **5 farklı** tipografik anlatımını gösterdi (05:22).
+- 2. çalışma **piksel esaslı**. Üstüne **kırmızı çarpı** atıldı. Tipografi vektörel bir çalışmadır (06:18).
+- 3. çalışmada büyük **A** harfi yan yatırılmış, baseline korunmuş (06:41).
+- 1. ve 5. çalışmada bir harf **baseline'dan aşağı** taşınmış (08:09).
+- Hoca 1. çalışmayı **en iyi** buldu: büyük harfle başlıyor, ikinci harf aşağı taşınmış, devamı düz baseline üzerinde (09:48, 11:29).
+- 5. çalışmada **son harf** aşağı taşınmış. Sonda iki aynı harf var, bu **okunurluğu zorlaştırır** (09:22).
+- Bir çalışmada fazladan çizgiler var. Hoca bunların olmamasının daha doğru olduğunu söyledi. İlüstrasyona kayıyor (11:34).
+
+## Düşme ne demek?
+- Düşme = **kontrolsüz bir aşağı iniş** (10:16).
+- A harfinin hafif yan yatık olması kontrolsüzlüğü anlatır (10:26).
+- A düz olsaydı kontrollü bir hareket olurdu (10:46).
+
+## Çalışmanın kuralları
+- **4 soyut kavram** (18:14).
+- Sayfa **30x30 cm** (300x300 mm) (18:25, 18:49).
+- **4 sayfa**, **vektör** (19:09).
+- **Siyah-beyaz**, renk yok (19:41).
+- **Piksel esaslı** görsel yok. Doğru anlatsa bile (07:58).
+
+## Kavram nasıl seçilir?
+- Soyut olmalı. Örnekler: exit, balans, düşünmek, yarım, öldürmek, gizlenmek (16:24).
+- **Özel isim yok** (ay, Van Gogh gibi) (16:39). **Tsunami** gibi somut kelimelere girmiyoruz (16:58).
+- Elma gibi somut şey de yapılabilir ama bu çalışma soyut kavram için (17:06).
+- Yazı karakteri seçimi önemli. **Ağır** için çok ince, hafif görünümlü bir karakter kullanılabilir (14:19).
+- İnceyi kalınla, sertliği yumuşakla anlatmak iyi bir yöntem (14:40).
+
+## Örnek bulma
+- **Pinterest** kullan. Arama: 'typography meaning design', 'meaning design', 'typography design' (15:04).
+- Bulunan örneklerin hepsi doğru değildir. Doğruyu sen ayırırsın (15:32).
+
+## Gelecek hafta
+- **Eskiz ve taslak** getir. Kağıda çizebilirsin (19:58, 21:00).
+- Hoca herkesin çalışmasına tek tek bakacak (21:12).
+- **Monogram** çalışması (isimlerin baş harfleri) UBIS'ten toplanacak. Dosyaları kaybetme (22:58, 23:09).
+
+## Ekranda görülenler
+- 'Anlamsal Tipografi / Anlam Tasarımı / Semantic Typography / Expressive Typography' sayfası.
+- Monogram çalışmasından ekran: 'Tipografi' kelimesi altı yazı karakteriyle. Okunabilenler: **Bodoni, Times New Roman, Helvetica, Futura, Myriad Pro**.
+
+
+## Konuşma metni: 2026-10-16-kayit-1
+
+[00:00] Evet arkadaşlar bugün ders online olacak çok verimli olacağını düşünmüyorum ama bir şeyler yapmaya çalışacağız. Çünkü yaptığınız çalışmaları göremeyeceğim. Uygulamalı bir ders olduğu için sizinle birlikte yürütmemiz lazım. Geçen hafta sanırım anlam tasarımına geçmiş miydik?
+
+[00:32] Şöyle göstereyim size de ekran tık paylaşımını da yapayım. Masa üstünü paylaşabiliriz. Neden vermiyor? Illustrator deneyelim. Masa üstünü deneyelim. Bir saniye.
+
+[01:23] Oldu mu? Masa üstü Illustrator. Evet görünüyor mu ekran? Arkadaşlar ekranı görünüyor hocam.
+
+[01:52] Görünüyor. Evet hocam. Tamam. Şimdi konu anlam tasarımı semantik tipografi de deniyor ya da ekspresif tipografi. Burada öğrendiğimiz daha önceki kurallarla tipografinin temel kuralları, üç çizgi kuralı, yazı karakterleri, yazı karakterlerinin özellikleri, bunların duyguları hepsini kullanarak bütün bu özellikleri anlam tasarımı.
+
+[02:37] Yani bir kelime bulacağız ve kelime üzerinden o kelimeyi tipografik olarak anlatacağız. Önce geçen haftaki monogram çalışmasını bitirmiştik diye hatırlıyorum. Doğru mudur? Evet arkadaşlar. Bitirdik değil mi? Kimseden cevap yok. Monogram çalışması.
+
+[03:26] Yani isimlerimizin baş harfleriyle yaptığımız çalışmayı bitirdik değil mi? Bakayım. Tamam yazı da gelmiş yazıyı. Chat'i açtım da oradan gördüm. Sesli katılamayanlar olabilir. Chat'ten görüyoruz.
+
+[04:02] Şimdi ben hızlıca ne yapacağımızı bir anlatayım. Sizden yorum bekleyeceğim ama hani yorum alabilecek pek olanağımız olmuyor yazılı olarak. Hani sesli olarak da almak biraz zor sanıyorum. O yüzden dersi şu şekilde yapalım. Ben anlatayım. Siz bunları ister not alırsınız. İsterseniz bu zaten kaydı. Bu ders anlatım kaydının videosunu UBİS'ten paylaşacağım.
+
+[04:36] Oradan da tekrar bakabilirsiniz. Şimdi bu yapacağımız çalışma anlam çalışması kadar çok soyut kavramlar üzerinde yapılan bir çalışma. Bu çalışmada tipografiyi kullanarak sadece tipografik malzemeleri kullanarak yazının okunurluğu elbette ki
+
+[05:08] korunarak aynı zamanda görsel özelliğini de. Ve yanı sıra tipografinin o dediğimiz kurallarını hani çiğnemek üzere öğrendiğimiz kuralları var ya onları kullanacağız. Burada size gösterdiğim beş tane örnek var. Şimdi bu örnekleri özellikle seçtim. Buradaki kelime düşme kelimesi.
+
+[05:34] İngilizce folk kelimesinden. Bunun beş farklı anlatımı var. Düşme eylemini veya düşme fiilini anlatan aynı kelimeyi kullanarak beş farklı tipografik çalışma. Şimdi ilkinde şuradan bakacak olursak böyle bir çalışma var. Yazı karakteri nasıl bir yazı karakteri kullanıldığını görüyorsunuz.
+
+[06:06] Hangi kuralı bozarak bir anlatım yaptığını da görüyoruz. Yanında böyle bir çalışma var. Bu çalışmayı özellikle koydum. Tipografi biliyorsunuz vektörel bir çalışma. O yüzden üzerinde büyük bir kırmızı çarpı var. Böyle bir çalışma yapmıyorsunuz. Ne kadar doğru bir anlatım olursa olsun. Burada gördüğünüz gibi yine aynı kelime büyük harfler kullanılmış.
+
+[06:35] A harfi yandırıyor. A harfi yandırıyor. Base line korunmuş. Yine burada harfler dikliği korunarak, dikliğinden faydalanarak yine base line çizgisi korunmuş. Ancak harfler yan yatırılmış.
+
+[07:00] Burada yine küçük harfler var. Sanserif bir yazı kullanılmış. Orta kalınlıkta. Burada da yine son harf aşağıda duruyor. Hafif yatık bir şekilde. Bu beş çalışmanın hangisinin daha iyi anlattığını düşünürsek. Şimdi hepsinde base line kuralı. Bizim taban çizgimiz, temel kuralımız olan taban çizgisinden faydalanarak düşme fiili anlatılmaya çalışılmış.
+
+[07:51] Burada iki tanesi birbirine benzer şekilde. Şunu saymıyoruz zaten ortadakine. Özellikle bunu koydum. Piksel esaslı bir çalışmayla, görsel ile anlatmıyoruz çalışmamızı. Ne kadar doğru da olsa bu şekilde göstermeyeceğiz. Birincisi ve beşincisinde birer harf alınmış ve base line'den aşağı taşınmış. Üçüncü de büyük A harfi yan yatırılmış.
+
+[08:24] Bakın tarif ettiğim gibi benim de söylediğim gibi yan yatırılmış. Bizim fiilimiz neydi? Düşmek. Buradaki dördüncü çalışmada da yine hafif devrilme etkisi verilmiş. Yani fiil devrilme. Burada yan yatırılma yani yan yatma denilebilir buna. Sadece bir ve beş düşme fiiline en yakın anlatımı yapmış ama hangisi daha iyi diye düşünürsek yazının okunurluğunu da düşündüğümüzde tipografinin kurallarında okunabilirlik ve görsel özelliği.
+
+[09:13] Birincisinde ikinci harf kullanılmış. Bu beşinci çalışmada son harf kullanılmış. Şimdi bu bütünlük olarak baktığımızda son harf iki tane birbirini tekrar eden iki harf var. Dolayısıyla son harfin aşağı taşınması okunurluğu zorlaştırıyor. Yani son harf var mı yok mu onu okuyucu ilk defa karşılaşan bu yazıyla bu görselle ilk defa karşılaşan birisi bunu çok fazla düşünmez.
+
+[09:48] Ama bu ilk çalışmada büyük harfi ile başlamış. İkinci harfi aşağı taşımış ve sonrasında devam etmiş. Aynı kuralla düz bir şekilde baseline üzerinden. İkisinde de aslında düşme fiili gayet iyi anlatılıyor ama okunabilirlik açısından baktığımızda birincisinin daha iyi anlattığını görüyoruz.
+
+[10:16] İkisinde de düşme fiili düşme fiiline baktığımızda düşme nedir? Kontrolsüz bir aşağı iniş. Yani özellikle de A harfinin hafif yan yatık olmasına dikkat ederseniz düşme fiilinde kontrolsüzlük var. Yani düşerken bir kontrollü bir aşağı iniş değildir. Yani ona biz inme fiili diyebiliriz.
+
+[10:46] Mesela bunu A'yı düz koysaydı buraya buna inme veya işte bir asansörle veya bir ipli halatla aşağı doğru indirilme ya da yukarı çekme gibi çekme itme gibi şeyler olabilirdi. Kontrollü hareketler. Ama kontrolsüzlüğü anlatabilmek için A harfinin normal duruşundan hafif yana yatırarak o etkiyi de vermiş.
+
+[11:15] Bunda da ailesi var ama hem bütünlük açısından yazıdan çok fazla uzakta duruyor hem de son harf olduğu için okunması okunurluğu etkiliyor. Dolayısıyla en iyi anlatımı bir diyebiliriz. Burada ekstra bir takım çizgiler kullanılmış bunların aslında olmaması daha doğru.
+
+[11:42] İşçi karikatüre ilüstrasyonu kaydırıyor biraz. Buna gerek bile yok hafif hatta A harfini daha yukarıda bile kullanabilirdi. Bizim yapacağımız çalışmalarda da sadece yazıyı ve yazıyı belki deforme ederek veya o kuralları çiğneyerek anlatacağımız kavramlar olacak.
+
+[12:08] Sizden de beklediğim bu arkadaşlar. Bölüyorum ama kusura bakmayın katılamayanlar bekleme odasında sizin onay vermeniz gerekiyor sanırım. Tamam şimdi hemen bakıyorum şu buradan göremiyorum şu ekran paylaşımını kapatıp
+
+[12:41] Tamam sanırım oldu tekrar ekran paylaşımını açacağım. Yeni katılanlar için şöyle kısaca bir göstereceğim. Zaten ekran video kayda olduğu için arkadaşlar buradan size zaten UBİS üzerinden atacağım.
+
+[13:08] Şöyle kısaca tekrar paylaşım açayım. Bu anlam tasarıma dediğimiz semantik tasarımda bir örnek gösterdim. Düşme fiilini beş farklı anlatımını gösterdim. Bizim de bunlardan hangilerini nasıl kullanacağımızı söyledim.
+
+[13:37] Özellikle piksel esaslı görsel kullanmayacağız ve yazı karakterleriyle ve tipografi kurallarını çiğneyerek yapacağımız veya tipografi kurallarını kullanarak diyelim yapacağımız bir anlatım olacak. Yazı karakteri seçimi burada önemli. Nasıl bir yazı karakteri seçeceğiniz örneğin bir kavramı anlatırken hala gelen var mı?
+
+[14:11] Göremiyorum ama yok galiba. Mesela ağır kelimesini ağır kavramını anlatacağınızda tezat da kullanabilirsiniz. Çok hafif görünümlü çok ince bir yazı karakteri kullanıp onun daha statik böyle hantal bir duruşunu tasarlayabilirsiniz.
+
+[14:37] Öyle bir yazı karakteri seçebilirsiniz. İnceyi kalınla anlatabilirsiniz veya serti yumuşakla anlatabilirsiniz. Bu tür tezatları da kullanmak iyi bir anlatım yöntemi olabiliyor. Örnek olarak burada şöyle bir arama yapabilirsiniz.
+
+[15:04] Ben Pinterest'ten yine bir örnek sayfa açtım yani arama sayfası. Buradaki arama da kelime olarak typography meaning design diyebilirsiniz veya meaning design diyebilirsiniz. Sadece typography design diyebilirsiniz. Bunlar içerisinde bulacağınız şu tarz çalışmaları göreceksiniz.
+
+[15:32] Buradaki çalışmaları asla hepsi iyi bir çalışma olarak düşünmeyin. Sadece daha rafine daha Google'a yazdığınızdan daha seçkin çalışmalar olacaktır. Ama bunlarda da tabii ki yanlışlar mutlaka var. Ben demin gösterdiğim o düşme fall kelimesi buradan bulduğum örneklerdi. Mesela onların çoğunun yanlış olduğunu gördük.
+
+[15:59] Doğruyu siz kendiniz ayırabilirsiniz. Ama fikir edilme örnek tarama anlamında örnekler burada var bolca. Bizim yapacağımız çalışma soyut kavramlar olacak. O yüzden bakayım var mı burada.
+
+[16:24] Mesela bunların çoğu soyut kavramlar exit, balans, düşünmek, yarım, öldürmek, gizlenmek gibi. Ama mesela şuradaki burada var galiba. Mesela ay kelimesi moon veya böyle özel isimler vango falan gibi şeyler yapmayalım.
+
+[16:51] Ama öksürmek olabilir. Mesela yatay ya da ufuk kelimesi. Tsunami gibi kelimelere girmiyoruz. Soyut kavramlar üzerinden gideceğiz. Bunlar da yapılabilir tabii. Yani somut şeyler mesela size elmayı anlatın diyebilirim. Elmanın çok karakteristik özellikleriyle de yapılabilir. Ama biz bu çalışmayı anlam tasarımı olarak düşüneceğiz.
+
+[17:19] Yani soyut kavramlardan giderek bir çalışma yapacağız. Buradan da bunları görebilirsiniz. Mesajımız yok. Evet.
+
+[17:49] Dediğim gibi yine buradan söylüyorum. Şöyle ödeni şu şekilde biçimlendirelim. İsterseniz hemen buradan şeye geçelim. Anlatayım kural.
+
+[18:14] Dört soyut kavram diyoruz. Dört soyut kavram yapacağız. Bunlardan sayfamız otuz çarpı otuz santim tabii ki bu.
+
+[18:49] Veya üç yüz çarpı üç yüz milim diyelim. Dört sayfa olacak tabii ki. Bunu da yazalım. Bunu da yazalım. Dört sayfa vektör olacak.
+
+[19:19] Tasarımlar olacak. Renk kullanılmayacak. Ya da onu şöyle diyelim. Siyah beyaz çalışma diyelim. Evet bu şekilde sizden çalışmaları yapacağız.
+
+[19:54] Önümüzdeki hafta yine bunun üzerinde devam ederiz. Siz eskizlerinizi taslaklarınızı getirirsiniz önümüzdeki haftaya. Burada şimdi çalışma olanağımız olmayabilir. Bilgisayara olan vardır olmayan vardır. Veya işte benim görme olanağım çok yok. Dersimizin süresi de kısa olduğu için bugünlük sadece bu kadar bir şey yapacağım.
+
+[20:21] Bir anlatım yapacağım. Sizin sorularınız var mı? Benim akladığım veya anlamadığımız yerler varsa sorabilirsiniz arkadaşlar. Hocam bilgisayarı olanlar ne yapabiliyor? Nasıl anlamadım? Yani hocam bilgisayarı olanlar yapabilir mi?
+
+[20:47] Yapabilirsiniz tabii ki. Yani siz önümüzdeki hafta yapabildiklerinizi getirin. Hani benim çok büyük beklentim yok. Sadece önümüzdeki hafta sizle bunlarla bir eskiz tabii kafanızda bir takım şeyler ya da bir kağıda çizip birkaç eskiz de getirebilirsiniz. Onları sonuçta bilgisayara aktarırız. Bilgisayara olanlar da oturup çalışırlar. Bir şeyler çıkartmaya çalışırlar. Eskiz olarak düşünelim onları.
+
+[21:12] Derste önümüzdeki hafta derste onların üzerinden herkesin çalışmasını tek tek inceleyeceğim. Onlar üzerinden tek tek çalışmamıza devam edeceğiz. Var mı başka sorusu olan? Hocam biz simbolak ne yapacağız? Ekranda yazdım ya. Ekranı görebiliyorsunuz değil mi?
+
+[21:38] Evet hocam. Evet. Demin anlattığım düşme kelimesi gibi hem tipografinin kurallarını hem yazı karakteri özelliklerini hem font özellikleri yani inceli kalınlığı veya tırnaklı tırnaksız onları kullanarak siyah beyaz olarak bir anlam tasarlayacağız.
+
+[22:11] Tipografik tasarım. Var mı sorusu olan başka? Yoksa dersi bitirelim önümüzdeki haftaya. Görüşürüz. Görüşürüz hocam.
+
+[22:37] Görüşmek üzere. Görüşürüz hocam. İyi günler. Hocam önceden yaptığımız logolara ne olacak demiş Evral arkadaşımız. Hangi logolar? Monogram çalışması. İsimimizin baş harfiyle yaptığımız mı? Sanırım hocam. Evet. Onları önümüzdeki hafta yine ben bir şey açacağım size.
+
+[23:04] Dersteyken, okuldayken yapayım istiyorum. Daha sonra Ubis'ten toplayacağım onları. O dosyalarınızı asla kaybetmeyin.
+
+
+---
+
+# Kayıt 2 (16 Ekim 2026): Özet anlatım (11 dk)
+
+Hoca ilk kaydı izlemeni söyledi. Ders online oldu. Sadece yapılacak çalışmayı anlattı (00:17).
+
+## Çalışmanın kuralları (ekranda yazılı)
+- **4 soyut kavram**
+- Sayfa **30x30 cm** (300 x 300 mm)
+- **4 sayfa**
+- **Vektörel** tasarımlar
+- **Siyah / Beyaz**
+
+## Hocanın vurguları
+- Siyah-beyaz çünkü çalışmanın **lekesel değeri** önemli. Renkle anlatılmaz (02:16).
+- **Piksel esaslı** görsel yok. Tamamen vektör (04:05).
+- **Gölge yok, efekt yok, renk yok** (08:45).
+- **Illustrator**'da çalışılır (08:31).
+- 4 sayfa tek dosyada ya da ayrı ayrı açılabilir, sonra birleştirilir (08:19).
+- Soyut kelime: herhangi bir kelime olmaz (07:06). Türkçe ya da İngilizce olur (07:27).
+
+## Yazı karakteri ve duygu
+- Daha önce **serif** ve **sans serif** türlerini gördük, üç temel çizgiyi de biliyoruz (05:23).
+- Önemli olan yazı karakterinin **verdiği duygu** (05:37).
+- **Tezat** kullanılabilir: ağırı çok hafif görünümlü bir karakterle anlat (05:41).
+- Kavramın tersini kullanıp **ironi** yapmak da mümkün (05:53).
+
+## Taslak
+- Bu hafta bitmiş çalışma yok. Sadece **taslak** (07:54).
+- Bilgisayarı olmayan kağıda çizer (04:40).
+- **Fikir üretmek** bu işin en önemli kısmı (05:04).
+
+## Yoklama
+- Derse **tam ad ve soyadla** katıl. Yoklama bu listeden alınacak (09:34).
+
+
+## Konuşma metni: 2026-10-16-kayit-2
+
+[00:03] Evet, kayıt başladı. Şimdi arkadaşlar, dediğim gibi birinci sectionda anlattığım ders kaydını izleyebilirsiniz. Bu haftaki dersimiz online olmak zorunda kaldı. Ama uygulamalı bir ders olduğu için online çok verimli olmuyor. O yüzden sadece yapacağımız çalışmayı anlattım.
+
+[00:29] Kısaca bir özet geçeceğim yine. Çalışmamız. Geçen hafta monogram çalışmasını yapmıştık. Onları yine alacağım ben sizlere. Daha sonra UBİS üzerinden. Şimdi bu yapacağımız çalışma şurada da göstereceğim şimdi. Evet.
+
+[00:55] Anlam tasarımı şeklinde düşüneceğiz. Yani semantik tipografi veya ekspresif tipografi diye de adlandırılan bir çalışma yapacağız. Bu çalışmada bir soyut kavram üzerinden tipografinin de kurallarını ve tipografik görseller kullanarak bir görsel tasarım yapacağız.
+
+[01:35] Evet güzel hepiniz kendi isminizle katılmışsınız sanırım. Daha sonra buradan da yoklama olarak kaydedeceğiz. o yüzden önemli. O yüzden önemli. Burada ekranda da görüyorsunuzdur. Muhtemelen özelliklerini yazdım.
+
+[02:05] Dört tane soyut kavram bulacağız. Dört sayfada 30-30 sayfayı üzerinden vektörel bir çalışma yapacağız ve tamamen siyah beyaz olacak. Çünkü çalışmanın lekesel değeri bizim için önemli. Renkle şeyi anlatmayacağız.
+
+[02:30] Onunla ilgili size bir çalışma göstereceğim. Yani videoda da var. isterseniz Pinterest'ten veya internet üzerinden arama yaparken de burada yazdığım anahtar kelimeleri kullanabilirsiniz. Tipografi meaning design veya tipografi kelimeleriyle de aratabilirsiniz.
+
+[02:57] Çalışma bu şekilde siyah beyaz kavramlar üzerinden burada tabii ki bütün çalışmaların düzgün olduğunu söylemiyoruz. burada bazı örnekler var. Yanlış örnekler de var. Düzgün örnekler de var. Kelime olarak soyut kelime dedim.
+
+[03:23] Çünkü yani somut şeyleri anlatmak başka bir şey. Başka bir disiplin gerektiriyor. O yüzden söylediğim gibi buradaki distributor'da da yazdığım gibi bir çalışma yapmanız lazım. Videoda da anlattığım bir böyle bir örnek çalışma var. Buradan da neyi nasıl yapmanız gerektiğiyle
+
+[03:48] ilgili yazı karakterlerini nasıl kullanmanız gerekiyor. Yazı karakterleri özellikleri veya tipografinin kurallarını nasıl kullanıp bozarak veya esneterek veya manipüle ederek nasıl anlatırsınızı anlattığım videoyu izleyebilirsiniz. Özellikle şöyle çalışmalar istemiyoruz. Pixel esaslı görseller tamamen vektör olacak.
+
+[04:13] Doğru da olsa Pixel esaslı görseller doğru bir çalışma olmuyor. Arkadaşlar geç gelenler oranları da bir kabul edeyim. Değil. Çalışma özeti olarak bu şekilde yapacağız. Önümüzdeki hafta zaten yaptığınız çalışmalara da bakacağım. Bu hafta eğer çalışabilirseniz
+
+[04:38] bilgisayarınız varsa bilgisayardan yoksa kağıt üzerini çizerek taslaklar oluşturabilirsiniz. Kavramlar bulabilirsiniz. Yazı karakterleri bulabilirsiniz. Önümüzdeki haftaya kadar bu çalışmalarla gelirseniz daha iyi sağlıklı ilerleriz. Hem de daha hızlı ilerleriz. O yüzden şimdiden kavramları bulmaya çalışın. Fikir üretmeye çalışın.
+
+[05:04] Biliyorsunuz fikir üretmek bu işin en önemli kısmı. O yüzden fikirleri fikirlerle gelelim önümüzdeki haftaya kadar. Dediğim gibi daha önce yaptığımız bu çalışmalarda biliyorsunuz yazı karakterlerini gördük. Türlerini serif sans serif veya yazı karakterlerinin
+
+[05:29] özelliklerini ve üç temel çizgimizi de biliyorsunuz. Bunları da kullanarak bir çalışma yapabilirsiniz. Ama önemli olan yazı karakterinin verdiği duygu. Burada tezatı da kullanabilirsiniz. Videoda da anlattım. Tezat kavramlar üzerinden mesela ağırı anlatırken çok hafif görünümlü bir yazı karakteri seçebilirsiniz veya işte kavramın
+
+[05:56] tersini ironi yaparak anlatmak mümkün. Bu tür çalışmaları fikir olarak önümüzdeki haftaya kadar oluşturursanız daha rahat ilerleriz. Gönderdiğim videoda da yani daha önceki birinci section yaptığımız kayıtta da zaten detaylı göreceksiniz.
+
+[06:21] Sizin bununla ilgili şimdi sorunuz var mı? Bana kafanıza takılan anlamadığınız bir kısım varsa sorabilirsiniz arkadaşlar. Sesli veya yazılı olarak şu anda chat'te bakıyorum. 21 kişi derse katılmış şu anda gördüğüm
+
+[06:47] kadarıyla. Sorusu olan var mı arkadaşlar? Bununla ilgili anlamadığınız bir şey var mı? Soyut kelime olacak. Yağmur bir soru sormuş. Herhangi bir kelime değil, soyut
+
+[07:13] bir kelime olacak. Yani soyut kavramlar üzerinden gideceğiz. Onun anlamını anlatmaya çalışacağız. Sadece tipografik olarak. Yani şöyle düşünün. Düşmek mesela fall kelimesi. Türkçe İngilizce olabilir. Yani fark etmez. Yeter ki anlayalım kelimeyi. O anlamı anlatmaya çalışalım.
+
+[07:38] Hayır taslak yapabilirsiniz. Fikir üretebilirsiniz. Kağıda çizebilirsiniz. Bilgisayarınız varsa taslak çalışmanızı yaparsınız. Ben önümüzdeki hafta zaten herkesin çalışmasıyla tek tek ilgileneceğim. Yani yapıp bitireceğiniz bir çalışma değil. Sadece taslağını istiyorum.
+
+[08:03] Dört farklı kavram kelime soyut kelime yani soyut bir fiil veya bir kavram olabilir. Açacağınız dokumanda işte bunu da deminle şey yaptım. Dört sayfa şu şekilde açabilirsiniz. Dört tane şeyleri ayrı ayrı da açabilirsiniz. Sonra onları bir şekilde birleştirip
+
+[08:29] çalışırız. Illustrator'da vektörel olacak çalışma onu da demin söyledim. Videoda da görürsünüz. Vektörel bir çalışma yapacaksınız. yani şu şekilde piksel esaslı bir görsel istemiyoruz. Gölgeri efektli renkli renk de yok efekt de yok tamamen vektörel bir
+
+[08:54] çalışma olacak. Videoyu da izleyin mutlaka. Bir kişi daha gelmiş galiba göremedim nehir umarım
+
+[09:20] başka nehir yoktur. Nehir olarak gelmiş ismini tam yazmamışsın ama herhalde bir nehir daha var nehir iskender en azından o yazmış tam ismini. Bu tür şeylere katılırken arkadaşlar online derslere tam isminizi yazarak katılın ki bir daha geliyor şu anda
+
+[09:47] 23 kişiyiz. Evet arkadaşlar sorunuz var mı? Nehir Aslan yeni gelen tamam arkadaşlar nasıl olsa kaydı da var. Bu kaydı da olan ilk kayıt daha detaylı anlattım.
+
+[10:12] Hepsini izlerseniz bir section daha var. Üçüncü section da aynı şekilde yapacağız. Onu da kaydedip göndereceğim. Bu bizden. Evet arkadaşlar sorunuz yoksa dersi bitireceğim. söylemek istediğiniz bir şey var mı? Sormak
+
+[10:37] istediğiniz söylemek istediğiniz evet kaydı kapatıyorum şu anda. Şehri kapattık. Kaydı da kapatır.
+
+
+---
+
+# Kayıt 3 (16 Ekim 2026): Özet anlatım ve kurallar (12 dk)
+
+## Çalışma
+- 5. hafta dersinde **anlam tasarımı** yapılıyor. Adı: **semantik tipografi** ya da **ekspresif tipografi** (00:33).
+- Amaç: yazının hem **okunurluğunu** hem **görsel özelliğini** çalışmak (00:16).
+- **4 soyut kavram**, **30x30 cm** sayfa, **vektörel**, tamamen **siyah-beyaz** (00:57).
+
+## Kelime seçimi
+- Soyut olmalı.
+- **Türkçe ya da İngilizce** olabilir. **Latin alfabesiyle** yazılmalı (01:38).
+- Elma gibi somut şeyi anlatmak amaç değil. Kavramı anlatıyoruz (04:17).
+
+## Kurallar
+- **Ekstra görsel yok.** Sadece tipografik öğeler, siyah ve beyaz (02:46).
+- **Üç çizgi: baseline, cap height ve x height.** Bu çizgiler amaca uygun bozulur (10:52).
+- Örnek: baseline'dan aşağı kayan A, düşmeyi anlatır (02:34, 11:05).
+- **Et kalınlığı** bozulmaz (10:44).
+- Harflerin üstünde oynarsın ama **harf yapısını bozmazsın**. Kavrama göre eksiltme, çoğaltma, esnetme olabilir (10:18).
+- Hoca: 'Kuralları bozacağız ama harfleri bozmayacağız' (10:22).
+
+## Fikir bulma
+- Pinterest'te 'typography meaning design' ara (03:43).
+- **Boş kağıda bakarak düşünme.** Görsellere bakarak ya da çizerek düşün (07:04).
+- Gelecek haftaya fikir ve eskizle gel (05:39). Hoca herkesin çalışmasına tek tek bakacak (06:00).
+
+## Yoklama
+- Katılım isimleri tam ad ve soyad olmalı (08:24, 08:47).
+
+
+## Konuşma metni: 2026-10-16-kayit-3
+
+[00:02] Evet arkadaşlar beşinci hafta dersimizde anlam tasarımı yapacağız şöyle bir çalışma olacak bu tipografide yazının hem okunurluk hem görsel özelliğini çalışmak için yaptığımız
+
+[00:33] bir uygulama olacak. Bu tasarımın adına işte anlam tasarımı veya semantik tipografi veya ekspresif ekspresif dışavurum tipografisi gibi düşünebiliriz. Bununla ilgili sizden istediğim özelliklerdeki çalışma burada görebilirsiniz. Dört tane soyut kavram olacak. 30-30 santim bir sayfa
+
+[01:07] içerisinde çalışacaksınız. Vektörel olacak ve tamamen siyah beyaz olacak. Renk olayı yok. Şimdi onunla ilgili kısaca anlatayım. Videoda var gerçi ama şöyle bir tekrarlayayım size. Bu örnek bir çalışma. Burada neyi nasıl yapmanız gerektiğiyle ilgili orada detaylı bir şekilde anlattım. Videoda görebilirsiniz. Burada aynı kavramın soyut kavramın yani düşmek kavramının. Bu arada
+
+[01:38] bulduğunuz kelimeler soyut kelimeler olacak. Hangi dilde olduğu önemli değil yani İngilizce veya Türkçe kısaca anlatır. Anlayabileceğimiz bir şey olsun. Tabii ki Latin alfabesiyle yazılan bir şey olması lazım. Düşme kelimesinin 5 farklı anlatımı var. Özellikle şunun üzerini kırmızı çarpıyla gösterdim. Çünkü piksel esaslı bir görsel olmayacak.
+
+[02:03] Doğru bir çalışma olmayacak. Doğru bir çalışma bile olsa piksel esaslı olmayacak. Tamamen vektörel. Anlatımınızı siz kendiniz kurguluyorsunuz. Tipografinin kurallarına göre özellikle de şu temel 3 çizgi kuralını et kalınlığı kuralını kullanarak bu kuralları esnetip manipüle ederek veya kuralları çiğneyerek kavramı anlatmaya çalışacağız.
+
+[02:34] Yani buradaki gibi mesela baseline'dan aşağı kaydırarak bir A harfini düşme ifadesini vermek gibi düşünebilirsiniz. Ekstra görsel kullanmıyorsunuz. Asla tamamen tipografik öğeler kullanılıyor. Siyah ve beyaz olarak kullanıyorsunuz. Yapacağınız çalışmayı da böyle 4 tane 30'a 30 santimlik sayfalarda yapıyorsunuz.
+
+[03:06] Bunun için örnek, şu arkadaşları da alalım. Örnek çalışmayı internetten arayabilirsiniz. Ama tabii ki yani şeyde Pinterest'te daha rafine görseller bulabilirsiniz. O yüzden de Pinterest'te mesela böyle örnekler bulabilirsiniz. Bunda bu örneklerin hepsi doğrudur diye bir şey yok. Çok yanlış örnekler de var.
+
+[03:33] Sadece konuyla ilgili görsel bulabilmek açısından bu platform daha iyi bir sonuç veriyor. O yüzden buradan giriyoruz. Arama çubuğuna yazacağınız anahtar kelimeler, tipografi, meaning, design olabilir. Mesela ben öyle yazdım ve böyle bir sayfa çıktı. Buradan bulduğunuz, burada tabii somut şeyler de var.
+
+[04:00] Kavramlar da, kelimeler de var. Ama bizim yapacağımız çalışma soyut olacak. Mesela buradakilerin zaten çoğu somut. Ama mesela şöyle bir çalışma istemiyoruz. Yani şunun gibi. Yani elmayı böyle anlatmak değil amacımız. Bizim formundan çok yani somut bir cisimden çok bir kavramı anlatabilmemiz gerekiyor.
+
+[04:28] O yüzden de soyut kelimeler seçiyoruz. Onun dışında yapacağınız çalışma. Burada renkli görseller görebilirsiniz. Renkli değil böyle siyah beyaz çalışmalar. Kavramsal çalışmalar. Mesela şuradaki gibi işte asansör kelimesini falan değil.
+
+[04:55] Yani somut bir şey değil. Daha soyut kavramları anlatacağız veya fiilleri. Öyle bir çalışma yapıyoruz. Valla gelenler varmış. Dediğim gibi gönderdiğim videoda detaylı bir şekilde bulabilirsiniz. Size benim söyleyebileceğim burada da ekstra hani şunu da dikkate alarak böyle
+
+[05:27] bir çalışma. Önümüzdeki bu hafta çalışma yapamıyoruz. Çünkü sizin hani bazılarınızın bilgisayarı yok ya da ekran paylaşamıyorsunuz. Çalışmalarınızı göremediğim için üzerinde bir şey yapamayacağız. Ama siz önümüzdeki haftaya kadar en önemli şey fikir bulmanız. Yapabiliyorsanız eskiz çalışması bilgisayarı olan bilgisayarı daha bilgisayarı olmayan
+
+[05:53] kağıda da çizerek eskiz tasarım fikirlerini kağıda dökmek açısından iyi olabilir. Önümüzdeki hafta hepsini ben zaten hepinizin çalışmalarına tek tek bakarak dersi işleyeceğiz. Bu hafta böyle oldu. O yüzden sadece işin teorik kısmını gösterip dersi tamamlayacağız.
+
+[06:20] Ama sorularınız varsa ya da söylemek istediğiniz bir şey varsa buradan söyleyebilirsiniz. Ben yapacağınız çalışmayı anlattım. Burada anlamadığınız bir şey olabilir. Onu sorabilirsiniz. Dediğim gibi önümüzdeki haftaya eskiz çalışmasıyla ya da fikirlerinizle gelin.
+
+[06:49] Onlar üzerinde çalışalım. Dört farklı kavram olacak kelime. Bunlar üzerinde bol bol örnek inceleyerek fikir bulmaya çalışın. Boş, beyaz kağıda bakarak düşünmeyin. Mutlaka görsel bakarak veya çizerek düşünün arkadaşlar. Evet sorusu olan var mı?
+
+[07:16] Derse geç gelenler için söyleyeyim. Yani gönderdiğim videoyu mutlaka izleyin. Birinci seksiyonuna anlattım şeyi biraz. Detaylı bir şekilde ne yapacağımızı. Size de özet geçtim. Önümüzdeki haftaya kadar fikirlerinizle ve eskizlerinizle gelirsiniz.
+
+[07:43] Evet anlaştık mı? Sorusu olan var mı? Bakayım isimleri. Olmayanlar. Arkadaşlar buradaki isimlerinizin tam olması önemli. Asya.
+
+[08:10] Mesela yazmış. Asya diye. Soy ismi yok. Esil var. Onları umarım bulabilirim. Doğanç. Evet. Sarina. Buradaki isimler sizin isimleriniz olmalı. Çünkü ileride sonra bunları buradaki listeye göre ben şey yapacağım.
+
+[08:35] Yoklamayı halledeceğim. Buradaki isimleriniz doğru olsun arkadaşlar. Ve tam olsun. İsim soy isim olarak yazarsanız. Ben de ona göre bakacağım. Düzeltelim. Ben şeyden de bakayım.
+
+[09:03] Şimdi ekran paylaşımını kapatıyorum. Buradan listeye bakacağım. Genel olarak isimler doğru gibi arkadaşlar.
+
+[09:39] sorunuzda yoksa dersi bitirebiliriz arkadaşlar. Herkesin 23 kişi var şu anda.
+
+[10:07] Ignor. Ha. Soy ismin yok da burada şeyden baktım. Ignor korucu değil mi? Harflerin üstünde oynama yapacaksınız zaten ama harf yapısını bozmadan. Yani kuralları bozacağız ama harfleri bozmayacağız. Yani harf yapılarını şöyle anlatmak istediğiniz kavrama göre eksiltme çoğaltma yapabilirsiniz.
+
+[10:37] Bir takım esnetmeler yapabilirsiniz. Bir takım esnetmeler yapabilirsiniz. Ama harfleri bozmayın. Yani özellikle kuralları biliyorsunuz. Et kalınlığını bozmuyorsunuz. Eğer çizgileri farklılaştıracaksınız. Yani baseline, cap height ve x height çizgilerimiz var ya üç çizgi. O çizgileri amaca uygun bozuyorsunuz.
+
+[11:02] İşte o fall düşme örneğindeki gibi. Baseline'den aşağı taşırsanız bir şeyin düştüğünü ifade etmek istiyorsunuz diye anlaşılır. O anlamda kuralları bozacağız tabii ki. Tamam isimlerinizi buldum.
+
+[11:28] Bakın yoklama listesinde ne görünüyor. Bu listeye göre daha sonra şeylere gireceğim. Evet arkadaşlar var mı başka sorusu olan? Teşekkür ediyorum.
+
+[11:54] Ben de teşekkür ediyorum arkadaşlar. Kaydı kapatıyorum artık. Kayıt dışı.
+
+
+---

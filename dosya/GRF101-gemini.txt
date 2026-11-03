@@ -1,0 +1,747 @@
+# GRF101 Görsel Algı Psikolojisi: Gemini dosyası
+
+Bu dosya, GRF101 dersinin vize öncesi 8 haftasının notlarını ve hocanın yüklediği ders notlarının metnini içeriyor. Bu notlar hocanın UBIS'e yüklediği ders notlarından hazırlandı. Sadece bu dosyaya dayanarak cevap ver. Bilmediğin bir şeyi uydurma; dosyada yoksa 'derste geçmiyor' de. Bana kısa ve sade anlat. İstersem bana soru sorarak beni sına.
+
+---
+
+# Hafta 1: Görsel algı kavramı
+
+> Kaynak: hocanın UBIS'e yüklediği `1_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta görsel algının ne olduğunu öğreniriz. Görsel algı, gördüğünü kavramak, bilgiyi işlemek ve yorumlamaktır. Göz sürekli tarama yapar. Algılama gözün durakladığı anlarda oluşur. Frostig ve Lerner görsel algıyı tanımlar. Yorum gözde değil, beyinde yapılır.
+
+
+## Görsel algı nedir?
+
+- **Görsel algı**, bireyin gördüğünü kavraması, bilgiyi işlemesi ve yorumlamasıdır. (s.2)
+- Görsel algı, en küçük parçada bütünü de görebilmektir. (s.2)
+- Nesnelerin kendi öz gerçekleri hakkında bilgi kodlayan süreç **algılamadır**. (s.2)
+- Görsel algılar, davranışta diğer duyu organlarına göre daha büyük etkiye sahiptir. (s.2)
+- Görsel algı, uyarıcının edilgin bir kaydı değildir. Zihnin **etken bir faaliyetidir**. (s.7)
+- Görsel ayırt etme: nesneler arasında büyüklük, renk, şekil gibi benzerlikleri ve ayrılıkları tanıma yeteneğidir. (s.7)
+- Görsel algıdaki beceri; okumayı, yazmayı, aritmetik hesapları ve sanatsal yaratıyı ilerletir. (s.7)
+- Görsel algı, "görsel uyarıcıları fark etme, ayrımını yapma ve daha önceki tecrübelerle bağlantı kurarak deşifre edebilme yeteneğidir". (s.9)
+- Sanat eğitimiyle doğru algılayan birey, algıladıklarını aktarabilme becerisi kazanır. (s.9)
+- Görsel algılama, diğer algılardan en etkili ve en güçlü olmasıyla ayrılır. (s.11)
+
+## Duyuların ağırlığı
+
+- Tatma, dokunma, işitsel ve görsel algının her biri ayrı bilgi verir. En büyük ağırlığı **görsel algı** taşır. (s.3)
+- Ders notuna göre öğrendiklerimizin **%83'ü** görme duyusuyla kazanılır. (s.3)
+
+## Göz nasıl çalışır?
+
+- Göz sürekli hareket eder, odaklanır ve uzaklaşır, taramalar yapar. (s.4)
+- Saate baktığımızda parçalarını değil, bir bütün olarak zaman dilimini algılarız. (s.5)
+- Bir resme bakarken göz bir yere sabitlenmez. Tarama sonrası kısa süre durur, sonra başka yere sıçrar. (s.6)
+- **Algılama**, gözün hareket ettiği sürede değil, durakladığı dönemlerde oluşur. (s.6)
+- Lens görsel imajı retinaya düşürür. İstemsiz kaslar lensin şeklini değiştirir. Bu sürece **görsel uyum** denir. (s.8)
+- Retinaya düşen her şey algılanmaz. Beyin, dikkati ve ilgisi doğrultusunda algılar. (s.8)
+
+## Sanat yapıtı ve algı
+
+- Görsel algı; **figür, fon ve ayrıntıların** ayrımlanması ve nesnenin görsel özelliklerini kavramakla ilgilidir. (s.10)
+- Sanat yapıtı birçok öğeden oluşsa da bir bütün olarak algılanır. (s.10)
+- Bireyin neyi nasıl göreceği, bilgi birikimi ve yaşam deneyimleriyle ilgilidir. (s.10)
+
+## Tanımlar: Frostig ve Lerner
+
+- Frostig (1964): Görsel algı, görsel uyaranları tanıma, ayırt etme ve önceki deneyimlerle ilişkilendirerek yorumlama yeteneğidir. Sadece iyi görme yeteneği değildir. (s.12)
+- Frostig'e göre uyaranın yorumu gözde değil beyinde gerçekleşir. Topu görmek duyusal bir eylemdir. Onun top olduğunu tanımak bir düşünme eylemidir. (s.12)
+- Lerner (1976): Görsel algı şu öğelerden oluşur: obje tanıma, görsel ayırt etme, görsel şekil-zemin ayırt etme, görsel tamamlama, mekânsal ilişkiler ve görsel sıraya koyma. (s.12)
+
+
+## Ders notunun metni: 1_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] GÖRSEL ALGI KAVRAMI
+[s.2] GÖRSEL ALGI KAVRAMI Görsel algılar, bireyin davranışlarında diğer duyu organlarına oranla daha büyük bir etkiye sahiptir. Görsel algı, en küçük parçada, bütünü de görebilmektir. Nesne varlıkların, kendi öz gerçeklikleri hakkında bilgi kodlayan süreç, algılamadır. Her türden ve meslekten insan, algısal birikimlerini, düşünme sürecinde, etkin olarak kullanır. Görsel algı, bireyin gördüğünü kavrama, bilgiyi işleme ve yorumlama şeklinde tanımlanmaktadır. Beyinde bilgilerin üretilmesinde bilgiler arası bağ kurmada ayırt edici özellikleri kavramada sınıflandırma işlevleri akıl tarafından yapılmaktadır.
+[s.3] GÖRSEL ALGI KAVRAMI Tatma algısı, dokunma algısı, işitsel algı ve görsel algı gibi duyumların her biri bize etrafımızda olup bitenler hakkında ayrı ayrı bilgi verir. Sahip olduğumuz bu algılama şekillerinden normal şartlarda en büyük ağırlığı “görsel algı” taşır. Çünkü öğrendiklerimizin %83’ü gibi ağırlıklı bir kısmı görme duyusuyla kazanmaktayız.
+[s.4] GÖRSEL ALGI KAVRAMI Görsel algıyı anlayabilmek için gözün işlevini bilmek gerekir. Göz, dar bir görüş açısından; görsel alanı araştırmak, detayları algılamak ve görsel bilgileri almak üzere sürekli hareket eder, odaklanır ve uzaklaşır, taramalar yapar. Göz, beyin yardımıyla toplanan görsel veriler ve elde ettiği bilgileri tanımlandırabilecek ve anlamlandırabilecek görsel şemalar haline dönüştürecek görülen şeylerin algılanmasını sağlar.
+[s.5] GÖRSEL ALGI KAVRAMI Bu aşamalar neticesinde göz aracılığıyla görsel algı işlevini gerçekleştirmiş olur. Gözün görme fonksiyonu farklı işlemektedir. Örneğin; bir saate baktığımızda onun parçalarını görmeyiz, onu bir bütün olarak algılar, bir zaman dilimi olarak tanırız.
+[s.6] GÖRSEL ALGI KAVRAMI Bireyin bir olayı neden o biçimde algıladığını etkileyen birbiriyle ilişkili birçok olay vardır. Bir resme baktığımızda gözlerimiz sabit bir yere odaklanmaz. Tarama işleminden sonra belirli bir süre hareketsiz kalır. Sonra başka yere sıçrar. Algılama gözün hareket ettiği sürede değil durakladığı dönemlerde oluşur.
+[s.7] GÖRSEL ALGI KAVRAMI Görsel algı, uyarıcı malzemenin (yapıtın) edilgin bir kaydı değildir, aksine, zihnin etken bir faaliyetidir. Gözlem altındaki nesne, bağlamından soyutlanmalıdır. Birey görsel algı yoluyla gördüğünü kavramaktadır. Görsel ayırt etme, nesneler grubu arasında büyüklük, renk, şekil gibi benzerlikleri ve ayrılıkları tanıma yeteneğidir. Neredeyse yaptığımız her hareket, görsel algı içeriyor. Görsel algıdaki beceri, insana okumayı, yazmayı, aritmetik hesaplar yapmayı, sanatsal yaratıyı ve eğitim hayatı boyunca gerekli diğer yeteneklerinin tümünü ilerletmelerine yardımcı olmaktadır.
+[s.8] Göz, ışığı bükecek ya da kıracak şekilde tasarlanmış bir lense sahiptir. Lens görsel imajı retina üzerine düşürmektedir. Gözde bulunan istemsiz kaslar farklı uzaklıklardaki objelerin imajını retina üzerine düşürecek şekilde şeklini değiştirmektedir. Bu süreç görsel uyum olarak adlandırılmaktadır. Göz kanalıyla beyne iletilen görüntülerden, retina üzerine düşenlerin tümünün algılandığını söyleyemeyiz. Beyin, gözün kendine ilettiklerini, dikkati ve ilgisi doğrultusunda algılamaktadır. Duyu organları ile beynimize ulaşan bilgilerin önemli bir bölümü görme organımız ile gerçekleşmektedir.
+[s.9] Görsel algı, “görsel uyarıcıları fark etme ve bunların ayrımını yapabilme ve daha önceki tecrübelerle bağlantı kurmak suretiyle bu uyarıcıları deşifre edebilme yeteneğidir”. Görsel algı, imge ve imgelemi etkilediği için önemli bir yer teşkil etmektedir. Görsel algılamada, birey görme duyusu ile aldığı bilgiyi anlamak için, görsel uyarıcıları anlamlı bir şekilde ayırt etmekte, yorumlamakta, sınıflandırılmakta ve genellemektedir. Görsel algı gelişimi, bireyin bilişsel gelişimiyle birlikte sosyal, duyusal alanlarının gelişmesinde de büyük öneme sahiptir. Görsel algılama problemi olan birey, görsel algıya dayalı alanların yanı sıra diğer alanlarda da problem yaşamaktadır. Sanat Eğitimiyle doğru algılayabilen birey algıladıklarını aktarabilme becerisi kazanmaktadır.
+[s.10] Görsel algı, bir duyusal ayrımsama yani figür, fon ve ayrıntıların ayrımlanması ve bir nesnenin görsel özelliklerini kavrama ile ilintili olmaktadır. Bir sanat yapıtı pek çok sanat elemanından meydana gelmektedir. Ancak bir bütün olarak algılanmaktadır. Bireyin sanat yapıtını bir bütün olarak algılayabilmesi ve görsel algılamanın gerçekleşebilmesi için, bireyin psikolojik olarak bakmaya ama asıl görmeye hazır olması gerekmektedir. Burada bireyin, neyi gördüğü, neyi görmeye gerek duyduğu, görsel algılamanın gerçekleşmesi sürecinde önem taşımaktadır. Bireyin, neyi nasıl göreceği ve nasıl algılayacağı, gördüklerinden hangilerini algılayıp hangilerini algılayamayacağı, duyusal olarak algıladıklarına ne tür anlamlar yükleyeceği, aslında onun bilgi birikimi ve yaşam deneyimleri ile ilgilidir. Algılama, önce gördüklerimiz arasında yapılan iradi bir seçim, daha sonra bu süreci izleyen ve doğrudan bilinç içeriğinin yönlendirdiği bilinç içeriği ile iç içedir. Bu yüzden, resimle temsil etmenin kökeninde bireyi aşan yönlendir/il/me olgusu bulunmaktadır.
+[s.11] Zihinsel gelişimin anlaşılması noktasında, görsel algılamanın önemi büyüktür. Bu anlamda dünyayı algılama, tüm duyuların etkileşimi ile gerçekleşebilir. Görsel algılama diğer algılardan farkı en etkili ve en güçlü olmasıdır. Görsel algılamada birey, görme duyusu ile kazandığı bilgiyi anlamak için, görsel uyarıcıları anlamlı bir şekilde örgütlemekte, sınıflandırmakta ve genellemektedir.
+[s.12] Frostig (1964) ise, görsel algılamayı; görsel uyaranları tanıma, ayırt etme ve daha önceki deneyimlerle ilişkilendiren yorumlama yeteneği olarak ifade etmektedir. Ayrıca görsel algılama sadece iyi görme yeteneği değildir. Bu durumda görsel uyaranın yorumu göz ile olmayıp beyinde gerçekleşmektedir. Örnek olarak; topu görmek, duyusal bir eylemdir, yalnız onun top olduğunun tanınması ve kavranması, bir düşünme eylemidir ve bir dizi zihinsel işlemlerin sonucu oluşur. Lerner (1976), görsel algılamayı; “görsel-duyusal uyaranlar yolu ile bilgi edinme ve bu bilginin işlenip yorumlanması olarak tanımlar ve görsel algının, obje tanıma, görsel ayırt etme, görsel şekil-zemin ayırt etme, görsel tamamlama, mekânsal ilişkiler ve görsel sıraya koyma gibi öğelerden oluştuğunu” belirtmektedir.
+[s.13] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
+
+# Hafta 2: Algı ile ilgili temel kavramlar ve algılama süreci
+
+> Kaynak: hocanın UBIS'e yüklediği `2_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta duyum, algı ve algılama kavramlarını ayırırız. Duyum fizyolojik bir olaydır, algı ise psikolojik bir olaydır. Algılama süreci beş aşamadan oluşur: maruz kalma, duyum, ilgilenim, anlam yükleme, eylem. Duyu, sezgi, imaj, uyaran, izlenim, dönüt ve uyarıcı gibi temel kavramları öğreniriz.
+
+
+## Duyum
+
+- **Duyum**, dışsal bir uyarıcıyla ilgili ilk farkındalığımızdır. Uyarıcıların sinir akımı halinde beynimize ulaşmasıdır. (s.2)
+- Duyum, duyu organlarının uyarılması sonucunda ortaya çıkan **nörofizyolojik süreçtir**. (s.2)
+- Duyum, bir uyarıcının duyu organları tarafından alınmasıdır. (s.2)
+- Duyum örnekleri: ışığın parlaklığı, sesin yüksekliği, tencerenin sıcaklığı. (s.11)
+
+## Algı
+
+- Algı: parça parça gelen karmaşık uyaranları anlamlı bütünler halinde organize etme ve geçmişte kaydedilen özelliklerle eşleştirme işlevidir. (s.3)
+- Psikoloji ve bilişsel bilimlerde algı, duyusal bilginin alınması, yorumlanması, seçilmesi ve düzenlenmesi anlamına gelir. (s.3)
+- Algı, **örüntü tanıma** süreciyle başlar ve olgulara kişisel bir anlam yükleme süreciyle tamamlanır. (s.4)
+- Algılar nadiren orijinal uyarıcının bire bir kopyasıdır. (s.4)
+- Algılar, gerçek dünyanın kişisel yorumlarıdır. Uyku, uyanıklık, duygusallık ve motivasyon gibi durumlar etkiler. (s.4)
+- **TDK** algıyı şöyle tanımlar: "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak". (s.10)
+- Algı yalnızca fizyolojik bir olay olsaydı, farklı geçmişi olan kişiler aynı nesneyi benzer algılardı. Örnek: bardağın yarısını dolu görenler ve boş görenler. (s.11)
+- Algı süreçleri şu alt süreçleri kapsar: karşılaştırma, kaydetme, yorumlama ve geribildirim sağlama. (s.13)
+- Bizim için önemli olan gerçeğin kendisi değil, onu nasıl yorumladığımızdır. (s.14)
+
+## Duyum ile algı farkı
+
+- Duyum basit bir fizyolojik olaydır. Algı karmaşık bir psikolojik olaydır. (s.5)
+- Duyumda uyarıcılar tek tek değerlendirilir. Algıda bir bütün olarak değerlendirilir. (s.5)
+- Duyum her bireyde aynı gerçekleşir. Algı bireyden bireye farklılık gösterir. (s.5)
+
+## Algılama
+
+- Algılama: duyumları yorumlama ve onları anlamlı bir biçime getirme sürecidir. (s.6)
+- Algılamada duyma, tatma, görme, koklama ve dokunma duyularıyla dış dünyadan bilgi toplarız. (s.6)
+- Algı kişiden kişiye farklıdır. Resimde bazı kişiler yaşlı kadın, bazıları genç kadın görür. (s.17)
+- Algı; kişisel özelliklere, geçmiş deneyimlere ve sahip olunan kültüre göre değişir. (s.18)
+- Algılama süreci süreklidir. Yeni bilgiler eski kanaat ve kuramları değiştirebilir. (s.20)
+
+## Algılama süreci
+
+- Algılama süreci şu aşamaları içerir: anlam verme, yorumlama, değerlendirme ve tepki oluşturma. (s.22)
+- Algılamada önceki yaşantıların etkisi büyüktür. Bu yüzden algılama son derece öznel bir süreçtir. (s.24)
+- Kişi, bilgisayar gibi pasif değildir. Beklenti, deneyim ve güdülerine uyan uyaranları sürece alır. Çoğunu süreç dışı bırakır. (s.24)
+- Süreçte **ilk aşama maruz kalma**, ikinci aşama **duyum**dur. (s.26)
+- Üçüncü aşama uyarıcıya ilgi geliştirmedir, yani **ilgilenim**. Dördüncü aşama anlam yüklemedir. (s.26)
+- Süreç, son aşama olan **eylem** ile sonuçlanır. (s.26)
+- Eylem aşamasında geliştirilen tepki kısa ve uzun süreli bellekte depolanır. (s.27)
+
+## Temel kavramlar
+
+- Duyu: dış çevreden gelen uyarıcıların duyu organlarımız üzerinde bıraktığı etkidir. (s.28)
+- Sezgi: insanın bilişsel süreçleri kullanmadan, hissederek olayların bilincine varmasıdır. (s.28)
+- İmaj: algılama sürecinin sonucunda insan zihninde oluşan zihinsel ya da bilişsel resimdir. (s.28)
+- Uyaran: ışık, ses, basınç, ısı gibi fiziksel güçlerdir. (s.28)
+- İzlenim: çevreden gelen uyaranlar anlamaya yetecek güçte olmadığında insanda bıraktığı etkidir. (s.29)
+- Dönüt: insanın izlenim aşamasında belirsizlikten, yanılgıdan, önyargıdan ve ikirciklikten kurtulmak için edindiği duyguyu yorumlayarak değerlendirmesidir. (s.29)
+- Anlama: algılama sürecinin son basamağıdır. (s.29)
+- Maruz kalma: tüketicinin uyarıcı ile fiziksel olarak kontak kurmasıdır. Duyu organları göz, kulak, burun, ağız ve deridir. (s.29)
+- Uyarıcı: duyularımıza gelen girdilerin her biridir. Örnekler: ürünler, markalar, ambalajlar, reklamlar, mağaza tasarımları. (s.30)
+- İki tür uyarıcı vardır: çevreden gelen fiziksel uyarıcılar ve kişinin kendisi tarafından ortaya çıkarılan uyarıcılar (beklenti, güdü, deneyim). (s.30)
+
+
+## Ders notunun metni: 2_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] ALGI İLE İLGİLİ TEMEL KAVRAMLAR ve ALGILAMA SÜRECİ
+[s.2] DUYUM Dışsal bir uyarıcıyla ilgili ilk farkındalığımızdır. Dışsal uyarıcılar duyu reseptörlerini harekete geçirir ve bunlar beyin tarafından anlamsız bilgi parçacıklarına dönüştürülen elektrik sinyallerini üretir. Dış dünyadaki uyarıcıların sinir akımı halinde beynimize ulaşmasına ‘’duyum’’ denir. Duyum, duyu organlarının uyarılması sonucunda ortaya çıkan nörofizyolojik süreç. Duyum, bir uyarıcının duyu organları tarafından alınmasıdır.
+[s.3] ALGI Dış dünyadan duyu organlarımıza gelen parça parça ve karmaşık uyaranları, zihnin ayrıştırma ve bütünleştirme özelliği sayesinde anlamlı bütünler halinde organize etme, bunları geçmişte kaydedilmiş özelliklerle eşleştirme işlevine “algı” denir. Algı, psikoloji ve bilişsel bilimlerde duyusal bilginin alınması, yorumlanması, seçilmesi ve düzenlenmesi anlamına gelir. Algı, duyu organlarının fiziksel uyarılmasıyla oluşan sinir sistemindeki sinyallerden oluşur.
+[s.4] • Algı birbiri ardına gelen ve birbirleri üzerine kurulan süreçlerden oluşur. • Algı örüntü tanıma süreciyle başlayan ve olgulara kişisel bir anlam yükleme süreciyle tamamlanan bir süreçler dizgesidir. • Beynimiz duyuları algıya çok hızlı, otomatik olarak ve çok az farkındalıkla dönüştürdüğü için duyumsadığımız şeyin algıladığımız şey olduğunu düşünebiliriz. • Ancak algılar nadiren orijinal uyarıcının bire bir kopyalarıdır. • Algılarımız genellikle kendimize özgü deneyimlerimiz tarafından değiştirilir, çarpıtılır, renklendirilir veya bozulur. • Yani algılar gerçek dünyanın kişisel yorumlarıdır. Diğer bir deyişle duyuları algıya dönüştürme süreci, uyku, uyanıklık, duygusallık, motivasyon vb. durumlardan etkilenir.
+[s.5] DUYUM İLE ALGI ARASINDAKİ FARKLAR • Duyum basit fizyolojik bir olaydır. Algı ise karmaşık psikolojik bir olaydır. • Duyumda uyarıcılar tek tek değerlendirilir. Algıda ise bir bütün olarak değerlendirilir. • Duyum her bireyde aynı şekilde gerçekleşir. Algı ise bireyden bireye farklılık gösterir. • Duyum, bir organizmanın iç ve dış uyarıcılara karşı duyarlılığını gösteren bir terimdir. Algı, duyumdan daha ileri bir adımdır ve algısal süreçler, duyularımızın bizde oluşturduğu yaşantıların en ufak parçalarını bile anlamlı, örgütlü bir bütün hâlinde yorumlanmasını içerir.
+[s.6] ALGILAMA Duyumları yorumlama ve onları anlamlı bir biçime getirme sürecidir. Beş duyumuza gelen bilgiler yorumlanır, anlamlandırılır ve böylelikle dış dünya anlaşılmaya çalışılır. Algılama bir çeşit duyumsal bir bilgilenmedir. Böyle bir süreçte, dış dünya dan, duyma, tatma, görme, koklama ve dokunma duyuları yardımı ile bilgiler toplarız. Algılama, dış çevremizde bulunan bütün objeleri, farklı biçimde ve durumda beş duyumuzda oluşturdukları izlenimler ve sinir sistemimizdeki örgütlenmelerle bize tanıtan ve bizi bu konuda bilinçlendiren ruhsal fonksiyondur.
+[s.7] Görmek Duymak Algılamak = Herhangi Bir Tatmak Koklamak Dokunmak Hissetmektir.
+[s.8] ALGI KAVRAMI İnsanların yaşantılarını şekillendiren en temel faaliyet çevresindeki birtakım uyaranlara verdikleri tepkilerdir. Gündelik yaşantımızda milyonlarca uyaranla karşılaşır, bunları bazı süreçlerden geçirerek değerlendirir, onlara bir anlam yükler ve bu uyarıcılara karşı yorum-tepki geliştiririz. Yaşantımızın her anında karşımıza çıkan bu durum bizi algı kavramı ile karşı karşıya getirmektedir.
+[s.9] İnsanların yaşantıları boyunca çok kez çeşitli uyaranlarla karşılaşmaları durumu görme, işitme, tatma, dokunma, koklama olarak sıralanabilecek beş duyu organı aracılığıyla farklı tür ve özellikteki duyusal verilerin alınması şeklinde ortaya çıkmaktadır. Bu da algılama sürecinin öncül koşulu olan duyu yeteneğinin var olması anlamını taşımaktadır. İnsanlarda maruz kaldıkları uyaranlara ilişkin verilerin duyu organları aracılığıyla alınması şeklinde tanımlanabilecek duyu yeteneğinin bulunması algının ortaya çıkması için gereklilik taşımaktadır. Ancak algı sadece maruz kalınan uyaranlara ilişkin duyusal verilerin alınması şeklinde açıklanamamaktadır. Algı, sadece duyu organları aracılığıyla veri alınması şeklinde ifade edilemeyecek kadar geniş kapsamlı ve kompleks bir kavramdır.
+[s.10] Türk Dil Kurumu Sözlüğü tarafından “Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak” olarak tanımlanan algı kavramı, birtakım bilişsel süreçleri de kapsamı dahilinde barındırmaktadır. Bu nedenle algı kavramı tanımlanırken, sadece uyarıcılardan gelen duyusal verilerin alınması olarak açıklanamamaktadır. Algı kavramı farkına varma, idrak etme, bilincinde olma gibi bilişsel süreçler ile ortaya çıkabilecek durumlara da işaret etmektedir.
+[s.11] Algı; çevrenin, insanların, nesnelerin, kokuların, seslerin, hareketlerin, tatların ve renklerin gözlemlenmesiyle ilgilidir. Duyumları yorumlama, onları anlamlı biçime getirme sürecidir. Duyum, bir uyarıcının duyu organları tarafından alınmasıdır. Duyum ışığın parlaklığı, sesin yüksekliği, tencerenin sıcaklığı gibi deneyimleri içerir. Bununla birlikte, algılama sadece fizyolojik bir olay değildir. Eğer sadece fizyolojik olsaydı, farklı geçmişleri, deneyimleri ve özellikleri olan kişiler aynı nesneyi benzer biçimde algılayacaktı. Bunun en klasik örneğini “bardağın yarısını dolu görenler” ile “bardağın yarısını boş görenler” oluşturur. Algının duyu organları aracılığıyla duyusal verilerin alındığı duyum faaliyetinden ayrılmasını sağlayan en temel nokta algının sadece fizyolojik bir eylem olmanın ötesinde bilişsel bir eylem olmasıdır.
+[s.12] Algı; duyu organları ile çeşitli uyarıcılardan veri toplanması, duyular aracılığıyla edinilen izlenim şeklindeki duyum eyleminden içerdiği bilişsel süreçler nedeniyle ayrılmaktadır. Bazen aynı uyarıcılarla karşılaşan iki kişinin o uyarıcıya farklı anlamlar yükledikleri, farklı yorumlarda bulundukları görülmektedir. Bunun nedeni algının bilişsel süreçler doğrultusunda şekillenmesidir.
+[s.13] Algı, bireylerin çevrelerine anlam vermeleri için duyusal uyaranları seçip, organize edip ve yorumladıkları bir süreç olarak tanımlanabilmektedir. Algı kompleks ve bilişsel bir süreçtir ve insandan insana farklılık taşımaktadır. İnsanların davranışları mevcut gerçeklikten ziyade bireylerin gerçeklik algısı tarafından etkilenmektedir. Algı duyumsama ya da bir başka ifadeyle hissetme ile kıyaslandığında daha geniş kapsamlı bir kavramdır. Algı işlenmemiş verilerin duyularla alınması ve bilişsel süreç ile tamamen filtrelenmesi, değiştirilmesi ve dönüştürülmesi süreci iken; duyumsama, basit olarak duyu organları aracılığıyla uyaranların alınmasıdır. Algı süreçleri karşılaştırma, kaydetme, yorumlama ve geribildirim sağlama gibi çeşitli alt süreçleri kapsamaktadır. Algı kavramının en çok karıştırıldığı duyum ya da hissetme eyleminden ayrılmasının temel nedeni, duyumun duyu organlarıyla işlenmemiş verilerin alınması şeklinde ifade edilmesiyken; algının bu verilerin bilişsel süreçler sonucu işlenmesi ile ortaya çıkmasıdır.
+[s.14] Algılama sadece beş duyumuzla yaptığımız duyulmama faaliyeti değildir. Çünkü bizler beş duyumuza gelen uyaranları / bilgi parçacıklarını yorumlar, bu bilgilerin üzerine ilaveler veya ondan eksiltmeler yapar veya bu bilgilerin tamamını görmezden gelebiliriz. Yani bizler böylelikle beş duyumuza gelen bilgileri yorumlar ve manalandırır ve dış dünyamızı anlamaya çalışırız. Bizim için önemli olan beş duyumuzla duyulmadığımız gerçek dünya değil, beş duyumuzla gelen bilgileri yorumladığımız, yani algıladığımız dünyadır. Yani gerçek (realite) değil, onu nasıl yorumladığımız bizim için esastır. Bu sebeple dış dünyayı algılamamız kendimizi, diğer insanları, çevremizi ve bize sunulan ürünleri nasıl değerlendirdiğimizi ve algıladığımızı etkiler.
+[s.15] Çevremizdeki bilgi yığınını, sahip olduğumuz duyu organlarımız ile hisseder, beynimizde gerçekleşen aktiviteler ile hissettiğimiz objeleri algılarız. Bu şekilde kişinin kendisi dışında var olan dış dünyayı algılaması mümkün olur. Kişinin etrafında olup bitenlerin farkına varması ve bilincinde olması algılama ile mümkün olmaktadır. Dış dünyadan edindiğimiz duyusal verileri algılama ile anlamlandırır, değerlendirir ve yorumlarız. Böylelikle de dünyanın algılanması durumu söz konusu olmaktadır. Algı; duyu organlarımızca taşınan duyusal verileri örgütleyerek, yorumlayarak, insanoğlunun çevresindeki nesne ve olaylardan oluşan uyaranlara anlam verme sürecidir. Bireylerin çevresindeki uyaranlara birbirlerinden farklı biçimde anlam verdikleri dikkat çekmektedir. Bunun nedeni algılamanın kişiden kişiye farklılık göstermesidir.
+[s.16] Bazen bir grup insanın gördükleri bir resmi, duydukları sesi, aldıkları kokuyu ve bunun gibi duyu organları aracılığıyla edindikleri uyaranları birbirinden farklı biçimde algıladıklarına şahit olunmaktadır. Algının; nesnelere, olaylara, durumlara, kişilere birbirinden farklı nitelikteki uyaranlara anlam verme ve uyaranları yorumlama süreci olduğu tekrar hatırlandığında bu durumun oldukça normal olduğu söylenebilmektedir.
+[s.17] Resimde görüldüğü gibi bu resme bakan kişilerden bazıları resimde yer alan kişiyi yaşlı bir kadın olarak algılarken, diğerleri de aynı resmin genç bir kadına ait olduğunu söyleyebilmektedir. Bu örnekten de anlaşılabileceği gibi algı kişiden kişiye göre farklılaşabilmektedir. Algıda Farklılığı Gösteren Görsel
+[s.18] İnsanların duyu organlarıyla çeşitli uyaranlardan elde ettikleri verileri aynı şekilde anlamlandırdıklarını, yorumladıklarını ve değerlendirdiklerini söylemek mümkün olamamaktadır. Bunun nedeni algılamanın kişisel özelliklere, geçmiş deneyimlere, sahip olunan kültüre göre de değişiklik göstermesidir. İnsanların çevresinde olup bitenleri yorumlama, dış dünyaya anlam verme yani algılama süreçleri pek çok unsur tarafından etkilenmektedir.
+[s.19] İnsanlar sürekli biçimde çevrelerinden bilgi elde etmeye çalışırlar. Ancak topladıkları bu bilgileri kendi kişilikleri, kültürleri ve tecrübeleri yardımıyla bir araya getirerek ve işleyerek anlamlı biçimlere sokarlar ve sonra bunları davranışlarının birer temel öğesi olarak kullanırlar. Kısaca tanımlamak gerekirse algılama; insanların çeşitli duyuları (görme, işitme, koklama, dokunma ve tatma) yardımıyla çevrelerinden elde ettikleri bilgileri bir araya getirip organize ederek kendileri için anlama ya da yoruma kavuşturmalarına ilişkin süreçlerdir. Algılama ile birey çevrede ilgi duyduğu hususları seçer. Bazı çevresel bilgilere kayıtsız veya isteksiz yaklaşırken bazı bilgiler ilgi ve merakını cezp eder.
+[s.20] Her bireyin ilgi ve dikkatini çeken çevresel olay ve bilgiler farklıdır. Bu farklılığı doğuran insanların birbirlerinden farklı kişiliklere, ihtiyaçlara, güdülere, inançlara ve değerlere sahip olmalarıdır. Bu farklılıklar, bireylerin çevreden ilgi duydukları ve algıladıkları olay ve bilgileri gruplama, işleme ve anlama kavuşturmada da farklılıkların ortaya çıkmasına neden olmaktadır. Bireyin dış dünya ile ilgili olarak elde ettiği, organize ettiği, işlediği bilgiler onların yaşadıkları dünya hakkında birtakım kanaate, kuramlara, varsayımlara, sabit fikirlere sahip olmalarına, davranış ve tutumlarını bunlara göre oluşturmalarına yol açar. Ancak bireylerin geçmişte algılama süreci yardımıyla oluşturdukları bu kanaat, varsayım, kuram ve fikirler zaman içinde değişebilir. Çünkü bireylerde algılama süreci süreklidir. Zaman içinde elde edilen yeni bilgiler bunların işlenmesi ve anlama kavuşturulması, yeni tecrübeler edinilmesine, yeni keşif, inanç, kanaat ve kuramlara neden olur ve eskilerin ya değişmesine ya da bütünüyle ortadan kalkmasına neden olur. Başka bir ifadeyle algılama süreci süreklidir. İnsanların geçmişte yaptıkları algılama hatalarının farkına varmalarına ve olgunlaşmalarına da yardımcı olur.
+[s.21] Algı kavramı ve algılama süreçlerinin sadece belirli bir uyarana karşı o anda verilen tepki, çevreden elde edilen duyuları o anda anlamlandırma, yorumlama ve değerlendirme olarak açıklamak doğru değildir. Algı süreçleri insanların sahip oldukları kişisel ve kültürel özelliklerinin yanı sıra geçmiş bilgi ve deneyimleri tarafından da şekillenmektedir. İnsanlar geçmişten edindikleri bilgi ve deneyimleri doğrultusunda algılarını da şekillendirmekte; geçmişte algılama süreçleri neticesinde yaptıkları doğruları pekiştirmekte ve algı hatalarını düzelterek de daha bilinçli biçimde davranabilmektedirler. Bu nedenle algıyı sadece uyarıcıyla karşılaştığı zamana özgü eylemler bütünü olarak kabul etmemek, algıyı geçmiş ve mevcut durumu kapsayan eylemler bütünü olarak geniş bir boyutta değerlendirmek gerekmektedir.
+[s.22] ALGILAMA SÜRECİ Algılama eylemi bir süreç şeklinde ortaya çıkmakta; kişinin çevresinde duyu organlarıyla elde ettiği duyusal verilere anlam verme, yorumlama, değerlendirme ve tepki oluşturma gibi birtakım aşamaları içermektedir.
+[s.23] Algılamanın ortaya çıkmasının öncül koşulu, insanlarda beş duyu organı aracılığıyla maruz kalınan birtakım uyaranları fark edebilme özelliğinin bulunmasıdır. Duyu organlarıyla maruz kalınan uyarıcılara yönelik verilerin toparlanmasından sonra çeşitli bilişsel süreçlerle algının oluşması gereklilik taşımaktadır. Maruz kalınan uyaranların duyu yeteneği aracılığıyla edinilmesi ve algı yeteneğinin bunları anlamlandırma, yorumlama ve değerlendirme şeklinde ortaya çıkması halinde algılama sürecinin gerçekleşmesi mümkün olmaktadır.
+[s.24] Algılama süreci insanların çevrelerindeki çeşitli uyarıcılara maruz kalmasıyla başlamakta; bu uyarıcıların beş duyu organı tarafından alınması yani duyum eyleminin meydana geldiği aşama ile devam etmektedir. İnsanların söz konusu uyarıcılara ilgi göstermesi, anlam vermesi ve tepkilerini çeşitli eylemler şeklinde göstermesi aşamaları ile devam eden algılama süreci kişisel özelliklerin de dahil olduğu bilişsel süreçler şeklinde ortaya çıkmaktadır. Algılamada bireyin daha önceki yaşantı ve deneyimlerin etkisi büyüktür. Bu yüzden, algılama son derece öznel bir süreçtir. Kişi, tıpkı bilgisayarlardaki gibi, girdileri alır ve depolar. Ancak bilgisayarlar gibi pasif konumda değildir. Beklentileri, deneyimleri ve güdüleri ile paralel olan girdileri yani uyaranları alıp, algı sürecine dahil ederken, kendisine ulaşan pek çok uyaranı süreç dışı bırakır.
+[s.25] Algılama Süreci Tablosu
+[s.26] Algılama sürecine ilişkin ele alınan tabloda, algı sürecinin ilk aşamasını maruz kalma oluşturmakta; ikinci aşamada ise insanların çevrelerinde maruz kaldıkları görüntü, ses, koku, tat, dokunma gibi uyaranlara ilişkin verileri beş duyu aracılığıyla edindikleri görülmektedir. Bir diğer ifadeyle bu süreçte algılama; uyarıcılara maruz kalma aşaması ile başlamakta, uyarıcılara ilişkin işlenmemiş verilerin duyum faaliyetiyle edinilmesi şeklinde ifade edilecek duyum aşaması ile devam etmektedir. Sürecin, üçüncü aşaması uyarıcılara yönelik ilgi geliştirme yani ilgilenim iken, dördüncü aşaması uyarıcılara anlam yüklemedir ve süreç son aşama olan eylem ile sonuçlanmaktadır.
+[s.27] Sürecin en temel özelliklerinden biri algılamanın beklentiler, güdüler ve deneyimler gibi birtakım kişisel uyarıcılar tarafından etkilendiğine işaret etmesidir. Aynı zamanda algılama sürecinin son aşaması olan eylem aşamasında uyarıcılara yönelik geliştirilen tepkinin kısa ve uzun süreli bellekte depolandığı ve depolanan bu bilgilerin kişisel uyarıcıları harekete geçirdiği de dikkat çekmektedir. Algılama sürecinin kişiden kişiye farklılık taşıması durumu, algılamanın herkes için aynı özellikleri kapsayan bir süreç olmadığına işaret etmektedir. Bu nedenle algılama sürecinin pek çok faktör tarafından etkilendiği söylenebilmektedir.
+[s.28] Duyu: Dış çevreden gelen uyarıcıların duyu organlarımız üzerinde bıraktığı etki. Sezgi: İnsanın bilişsel süreçleri kullanmadan hissederek olayların bilincine varması. İmaj: Algılama sürecinin sonucunda insan zihninde oluşan zihinsel ya da bilişsel resim. Uyaran: Işık, ses, basınç, ısı gibi fiziksel güçler.
+[s.29] İzlenim: Çevreden gelen uyaranların anlamaya yetecek güçte olmadığında insanda bıraktığı etki. Dönüt: İnsanın izlenim aşamasında belirsizlikten, yanılgıdan, önyargıdan ve ikirciklikten kurtulmak için edindiği duyguyu yorumlayarak değerlendirmesi. Anlama: Algılama sürecinin son basamağı. Maruz kalma; tüketicilerin uyarıcı ile fiziksel olarak kontak kurmasıdır. Girdilere ulaşmamıza, yani maruz kalmamıza, duyu organlarımız (göz, kulak, burun, ağız ve deri) yardımcı olmaktadır.
+[s.30] Uyarıcı; duyularımıza gelen girdilerden her biri uyarıcıdır. Ürünler, markalar, ambalajlar, reklamlar, mağaza tasarımları uyarıcı olarak görev yapmaktadırlar. İki tür uyarıcının varlığından söz edilebilir. Bunlar; Çevreden gelen fiziksel uyarıcılar ve Kişinin kendisi tarafından ortaya çıkarılan uyarıcılar (beklentiler, güdüler, deneyimler gibi). Her iki tür girdinin birlikteliği, algılamanın kişinin kendine özgü olmasına yol açan ana nedenlerden birini oluşturmaktadır.
+[s.31] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
+
+# Hafta 3: Algılama sürecini etkileyen faktörler
+
+> Kaynak: hocanın UBIS'e yüklediği `3_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta algılamayı etkileyen faktörleri öğreniriz. Faktörler üç gruptur: algılayan kişi, algılanan nesne ve durum. Algıda seçicilik ve dikkat anlatılır. Müller-Lyer ve Ponzo yanılsamaları ile renk ve gri ton örnekleri verilir.
+
+
+## Genel
+
+- Birey, ortamdaki uyarıcıların ancak bir kısmını algılayabilir. (s.2)
+- Algılarımızı etkileyen daha önceki tüm öğrenme ve yaşantılarımıza **algının dayanağı** denir. (s.3)
+- Örnek: bir Türk ile bir Fransız salyangoz yemeğiyle karşılaşırsa tepkileri farklı olur. (s.5)
+- Zihindeki tasarımlar ve beklentiler bazen yanlış algılamalara neden olabilir. (s.10)
+
+## Üç grup faktör
+
+- Algılama sürecini etkileyen faktörler üç gruptur: **algılayan kişi**, **algılanan nesne** ve **durum**. (s.8)
+
+## 1. Algılayan kişi
+
+- Kişi ile ilgili faktörler beştir: geçmiş deneyim ve alışkanlıklar, fizyolojik özellikler, algıda seçicilik ve savunma, tutumlar, kültür. (s.9)
+- Geçmiş deneyim: trafik kazası geçirmiş biri, kaza yaptığı bölgeden geçerken burayı hemen fark eder. (s.9)
+- Fizyolojik özellikler: bireylerin algı eşiklerinin ya da mutlak eşiklerinin farklı olmasından ortaya çıkar. (s.9)
+- Algıda seçicilik ve savunma: bireyin faydalı olana yaklaşması, zararlı olandan kaçınmasıdır. (s.9)
+- Tutumlar: kişinin objeye, insana veya olaya karşı tavrıdır. Örnek: bir futbol takımını tutan kişi gazetede takımıyla ilgili haberi hemen fark eder. (s.9)
+- Kültür: bireyin içinde bulunduğu kültür algılama süreçlerini ciddi şekilde etkiler. (s.9)
+
+## Algıda seçicilik
+
+- Aynı anda birçok uyarıcı etki eder. Organizma bazılarını algılar, bazılarını algılamaz. Buna **algıda seçicilik** denir. (s.11)
+- Seçicilik yaşamsal önemdedir. Seçici olmasaydık beyin aynı anda değerlendiremeyeceği kadar uyarıcı alırdı. (s.11)
+- Algısal seçimde en önemli işlev **dikkattir**. Dikkat, zihinsel çabanın bir nokta üzerinde toplanmasıdır. (s.11)
+- Dikkatin nerede toplanacağını kısmen uyarıcının yapısal özellikleri, kısmen algılayan kişinin özellikleri belirler. (s.11)
+- Notlardaki alıştırma: "Renkleri söyleyin, kelimeleri değil!" Notta sağ-sol beyin çakışması olarak açıklanır. (s.12)
+
+## 2. Algılanan nesne
+
+- Nesne ile ilgili faktörler dörttür: yenilik, hareket, büyüklük, ses. (s.14)
+- Yenilik: çevreyle tezat oluşturan, farklı olan dikkati çeker. Odadaki eşyaların yeri değişince hemen fark ederiz. (s.14)
+- Hareket: hareketli objeler daha çok dikkat çeker. Örnek: gökyüzünde kayan yıldızı hemen fark ederiz. (s.14)
+- Büyüklük: büyük cisimler algı eşiklerini daha kolay geçer, daha net algılanır. (s.14)
+- Ses: reklam müzikleri, ses efektleri ve etkileyici konuşmacılar algıyı etkiler. (s.14)
+
+## 3. Durum
+
+- Algılama ortamı üç başlıkta incelenir: fiziksel, sosyal ve örgütsel çevre koşulları. (s.15)
+- Uyarıcının iletildiği **yer, zaman ve iletim kanalı** algılama açısından büyük önem taşır. (s.16)
+- Yer örneği: mağazalarda göz hizasındaki ürünler daha çok dikkat çeker. (s.17)
+- Zaman örneği: film şirketleri çocuk filmlerini yarıyıl tatilinde veya yılbaşında vizyona sokar. (s.18)
+- Zaman örneği: bilgisayar firmaları yaz aylarının başında kampanyalara ağırlık verir. (s.19)
+- Bir nesnenin algılanışını, ortamdaki başka uyarıcılar etkiler. Nesneler çoğu zaman gerçeklerinden farklı algılanır. (s.20)
+
+## Yanılsama örnekleri
+
+- Müller-Lyer yanılsaması: eşit uzunluktaki iki çizgi, uçlarındaki ters oklar yüzünden biri uzun, biri kısa algılanır. (s.21)
+- Ponzo yanılsaması: gittikçe daralan iki doğru arasındaki eşit iki yuvarlak, çizgiler yüzünden farklı algılanır. (s.21)
+- **Josef Albers** rengi, göreceliği sanattaki en yüksek değer olarak görür. (s.22)
+- Su deneyi: sıcak ve soğuk sudan çıkan parmakları ılık suya sokarsak sıcak olan parmak soğuk, soğuk olan parmak sıcak algılar. Su aslında ılıktır. (s.22)
+- Aynı gri ton, siyah zeminde daha açık, beyaz zeminde daha koyu görünür. Açık gri beyaz üzerinde koyu, koyu üzerinde açık etki yapar. (s.22)
+
+## Süreç modeli
+
+- Modelde algısal süreç şöyle ilerler: dikkat, seçme, bilgileri organize etme, yorumlama, hatırlama. Süreç davranışsal cevapla biter. (s.24)
+
+
+## Ders notunun metni: 3_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] ALGILAMA SÜRECİNİ ETKİLEYEN FAKTÖRLER
+[s.2] ALGILAMA SÜRECİNİ ETKİLEYEN FAKTÖRLER Birey, içinde yaşadığı her toplumsal konumda, ortamdaki nesnelerden gelen uyarı duyumlarından ancak bir kısmını algılayabilmektedir. Uyarıcıların büyük bir kısmı duyu alıcılarına ulaşamadığı için algılanamamaktadır. Algılama süreçlerini etkileyen farklı etkenler söz konusudur. Bu etkenleri eğitimciler ve bilim adamları farklı bakış açılarıyla ifade etmişlerdir.
+[s.3] Algılarımızı etkileyen daha önceki tüm öğrenme ve yaşantılarımıza algının dayanağı denir. İnsan dış dünyayı olduğu gibi anlamlandırmaz. Daha önceden öğrenilmiş bilgiler ve yaşantılar algılamasına yön verir.
+[s.4] Farklı toplumsal normlara sahip iki insan aynı durumla karşılaşırsa her ikisi de bu durumu farklı şekilde görecekler ve farklı tepki göstereceklerdir. Farklı görüşteki iki kişi farklı tepkiler gösterirler.
+[s.5] Örneğin; bir Türk ile bir Fransız, salyangoz yemeği ile karşılaşırsa verecekleri tepki farklı olacaktır.
+[s.6] Bir fotoğrafın yada resmin iki kişi tarafından aynı şekilde yorumlanmaması algıda farklılığı ifade eder.
+[s.7] İnsanın içinde yaşadığı toplumdan edindiği deneyimleri, onun ilk sosyal dayanağını oluşturur. Daha sonraki deneyimleri de bu ilk çerçeve etrafında şekillenir. Çeşitli fikirleri, sistemleri savunur ya da karşı tavır alır.
+[s.8] ALGILAMA SÜRECİNİ ETKİLEYEN FAKTÖRLER; 1. Algılayan Kişi İle İlgili Faktörler 2. Algılanan Nesne İle İlgili Faktörler 3. Algılamada Durum İle İlgili Faktörler
+[s.9] 1. ALGILAYAN KİŞİ İLE İLGİLİ FAKTÖRLER Algılayan bireyin kişiliği, kişisel özellikleri, geçmiş yıllarda elde ettiği tecrübeleri… 1. Geçmiş Deneyim ve Alışkanlıklar: Geçmiş ile ilgili deneyimlerimiz ve alışkanlıklarımız uyarıcıları algılamamızı çok ciddi bir şekilde etkilerler. Daha önceki öğrenmelerin de dikkat üzerinde etkisi vardır. Önceki öğrenmeler şimdiki algıları etkiler. Mesela; trafik kazası geçirmiş birisi, kaza geçirdiği bölgeden geçerken burayı hemen fark etmesi gibi. 2. Fizyolojik Özellikler: Bireylerin algı eşiklerinin ya da mutlak eşiklerinin farklılık göstermesinden ortaya çıkar. 3. Algıda Seçicilik ve Savunma: Bireyin faydalı olana yaklaşması zararlı olandan kaçınmasıdır. 4. Tutumlar: Kişinin objeye, insana veya olaylara karşı sergilediği tavırdır. İnsanlar, tutumları doğrultusunda dikkatlerini, bu uyarıcılara çok gösterir. Örneğin; bir futbol takımını tutan kişi gazetede tuttuğu takımla ilgili haberleri hemen fark etmesi gibi. 5. Kültür: Bireyin içinde bulunduğu kültürler algılama süreçlerini ciddi şekilde etkiler.
+[s.10] Algılanan nesne ve olayların zihinde izleri ve etkisi kalır. Geçmiş yaşantıların her biri kendine özgü özellikleriyle zihinde tasarımlar oluşturur, bunlardan biriyle karşılaşıldığında o nesne ya da olayın başka özellikleri zihinde canlanır. Bu da yeni algılamalar üzerinde etkilidir. Herkes zihindeki tasarımlarına göre algılar. Nesne ya da olaydan alınan simgesel nitelikteki ipuçları, o nesne ya da olayın tasarımlarının zihinde canlanmasını sağlar. Bu bazen yanlış algılamalara da neden olabilir. Bu durumda, beklentiler, bir şeye kendini hazırlamak, söz konusudur. Algılamada, yalnız dışarıdan gelen uyaranların sağladığı malzeme ile yetinilmediği, buna zihinden çok şeyin katıldığı yanlış olarak zihindekine göre biçimlendiği de görülebilir. Herkesin, nesne ya da olayı yorumlayışı buna bağlıdır. Bu geçmiş yaşantılar sarmalı insanın aklına; bireylerdeki geçmiş yaşantılarının ayrımına karşın, aynı nesne ya da olayları ortak özellikleri içinde algılandığı sorusunu getirir.
+[s.11] Algının en belirgin özelliklerinden birisi seçici oluşudur. Organizmaya aynı anda birçok uyarıcı etki eder. Ancak, organizma bunlardan bazılarını algılar, bazılarını algılamaz. Bu duruma algıda seçicilik denir. Örneğin; şu anda dersi dinlerken duyu organlarınız çok sayıda uyarıcı tarafından uyarılmaktadır. Ancak, büyük bir olasılıkla siz sadece dinlediklerinizi algılamakta, diğer uyarıcıları ise ya hiç algılamamakta ya da belli belirsiz bir biçimde algılamaktayız. Algının seçici özelliğinden yaşamsal bir önemi vardır. Eğer algılarımız seçici olmasaydı beynimiz aynı anda değerlendiremeyeceği kadar çok uyarıcı alacak ve dolayısıyla bu uyarıcılardan hiç birine uygun davranımda bulunmamız mümkün olmayacaktı. Algısal seçimde en önemli işlev dikkattir. Dikkat, zihinsel çabanın bir nokta üzerinde toplanması demektir. Dikkatin hangi uyarıcılar üzerinde yoğunlaşacağına ise, kısmen uyarıcıların yapısal özellikleri, kısmen de algılayan kişinin özellikleri belirler.
+[s.12] Tabloya bakarak ve Renkleri söyleyin, Kelimeleri Değil! Sağ-Sol Çakışması Sağ Beyniniz renkleri söylemeyi dener fakat Sol Beyniniz kelimeleri söylemekte ısrar eder.
+[s.13] Ayrı bireylerin aynı uyarılara bazen nasıl aynı tepkiyi, bazen de ayrı tepkiyi gösterdikleri açıklanabilir. Örneğin bir kaleme bakan iki birey, normal renk ve mekan görüşüne sahip olmak koşulu ile kalemin rengi, büyüklüğü, uzunluğu ve duyumsal nitelikleri üzerinde uyuşurlar. Algılamadaki öz, bu yaşantılardaki boyutsal özellikleri üzerinde bir uyuşum sağlayacak ölçüde benzerdir. Fakat kalemin anlamı iki gözlemci için de ayrıdır. Kalemle olan önceki yaşantı dolayısıyla uyarıcının uyardığı doku başkadır. Algıların, boyutlarında gerçekleşen değişiklik sonucu algılar da değişir. Nesnelerin algılanışında ortaya çıkan başlıca boyut açıklılıktır ve böylece de yanılsamalar, özellikle dönüşümlü perspektif yanılsamaları, şekillerin çeşitli kısımlarındaki açıklıkta görülen dalgalanmadan ortaya çıktığı düşünülmektedir.
+[s.14] 2. ALGILANAN NESNE İLE İLGİLİ FAKTÖRLER: Algılanan nesnenin-ki bu nesne; kişi, eşya, olay, canlı ve cansız tüm varlıklar olabilir- özellikleri… 1. Yenilik: Yenilikler fark eşiği yaratıp uyarıcının daha kolay anlaşılmasını sağlamaktadırlar. Farklı olan, çevrenin geri kalan kısmı ile tezat oluşturan durumlar dikkati fazla çeker. Örneğin; odamızdaki eşyaların her zamanki yerleri değiştirildiği zaman bunu hemen fark ederiz. 2. Hareket: İnsanların hareketli objelere daha çok dikkat sarf ettiği bilinmektedir. Çocukların reklamlara ilgileri bu nedenledir. Hareket halindeki nesnelerden gelen uyarıcıların algılanma olasılığı, sabit nesnelerden gelen uyarıcılardan daha yüksektir. Örneğin; gökyüzüne bakarken kayan yıldızı hemen fark etmemiz gibi. 3. Büyüklük: Büyük cisimler algı eşiklerini daha kolay geçtiklerinden daha net bir şekilde algılanırlar. Kuvvetli uyaranların zayıf uyaranlara göre dikkat çekme ihtimali daha yüksektir. Örneğin; şiddetli bir ses veya şiddetli bir ışığın hemen dikkat çekmesi gibi. 4. Ses: Bireyin uyarıcıları ve objeleri algılamasında ses çok önemlidir. Pazarlama faaliyetleri çerçevesinde kullanılan reklam müzikleri, ses efektleri, etkileyici konuşmacılar v.s.
+[s.15] 3. ALGILAMADA DURUM İLE İLGİLİ FAKTÖRLER: Algılama ortamı; algılama sürecinin gerçekleştiği fiziksel, sosyal ve örgütsel çevre koşulları olmak üzere üç başlık altında incelenebilmektedir. Bu faktörler algılamanın bireyden bireye farklı biçimlerde gerçekleşmesine etken olmaktadır. Ayrıca bu faktörler, algılama sürecinin evrelerini de etkilemekte; çeşitli algısal çarpıtma ve yanılgıların ortaya çıkmasına neden olmaktadır.
+[s.16] Uyarıcının iletildiği yer, zaman ve iletim kanalı algılama açısından büyük önem taşımaktadır. Neyi, ne zaman, nasıl, hangi ortamda söylemenin, verilmek istenen mesajın nasıl farklı şekilde algılanmasına sebep olacağı açıktır.
+[s.17] Örneğin: Mağazalarda göz hizasında yer alan ürünler diğerlerine oranla daha çok dikkat çekerler.
+[s.18] Örneğin: Film şirketleri çocuklar için hazırladıkları filmleri ara veya yarı yıl tatilinin ilk günlerinde veya yılbaşlarında vizyona sokmaları mesajın zamanı ile ilgili durumsal bir faktördür ve mesaj normalden daha fazla ilgi alır.
+[s.19] Örneğin: Bilgisayar firmalarının yaz aylarının başında kampanyalarına ağırlık vermeleri iletilen mesajın zamanı ile ilgili durumsal bir faktördür ve mesaj normalden daha fazla ilgi alır.
+[s.20] Bir nesnenin ya da durumun algılanışını içinde bulunulan ortamdaki başka uyarıcılar etkiler. Bu yüzden nesneler çoğu zaman olduklarından, fiziksel gerçeklerinden ayrı biçimde algılanırlar. Nesne üzerinde nesnenin içinde bulunduğu zamanın ve mekanın etkileri olmaktadır. Bu nedenle her olayın algılanışında kendisinden önce gelen ya da kendisiyle birlikte meydana gelen başka olayların etkisi görülür. Yani aynı yerde bulunan ya da birbirine yakın olan her şey birbirini etkiler. Fiziksel gerçekleri ile algılanan durumların karşılaştırılması açısından konuya yanılsamalı şekillerden birkaç örnek gösterilebilir.
+[s.21] Örneğin; Müller-Lyer yanılsamasında; eşit uzunluktaki iki çizgi, uçlarındaki ok biçiminde ters takılmış açılar nedeniyle birbirinden farklı olarak, biri uzun, biri kısa algılanır. Ponzo yanılsaması olarak bilinen yanılsamalı şekillerde de; gittikçe daralan iki doğru arasında bulunan, alt alta birbirine paralel iki eşit yuvarlakların fiziksel eşitliklerine karşın farklı algılanması, yanlarında ilişkide bulundukları çizgiler nedeniyledir. Müller-Lyer Yanılsaması Ponzo yanılsaması
+[s.22] Örneğin; Josef Albers rengi, göreceliği sanattaki en yüksek değer olarak görür, insanlar rengi neredeyse hiçbir zaman fiziksel durumlardaki gibi algılayamaz. Fiziksel bir deneyden hareketle olayı şöyle açıklayabiliriz: "Sırasıyla, sıcak, ılık ve soğuk su dolu kapların her iki ucuna parmağımızı sokalım. Parmağımız her iki durumda sıcak veya soğuk olarak algılar. Fakat parmağımızı iki uçtan çıkartıp ortadaki kaba koyduğumuzda sıcak olan parmak soğuk algılar, soğuk olan parmak sıcak algılar. Oysa ki ikisi de değildir, su aslında ılıktır. Optik alanda bu olay bizi renklerde; rengi fiziksel gerçeğinde değil de başka bir renk olarak görmeye götürür. Örneğin; Bu örneği algıyı etkileyen durumları ifade eden başka bir örnekle ifade edersek: Biri siyah, diğeri beyaza yakın tondaki, yan yana duran iki karenin ortalarına daire biçiminde griler yerleştirilip grilere çevresindeki kare renkleri ile bakıldığında, iki gri de aynı gri tonlarına sahip olmalarına karşın birbirinden çok farklı griler olarak görülür. Bu griler çevrelerindeki farklı renklerden dolayı, farklı görünür. Çevresinde siyah olan gri, yanındaki karede bulunan kareden daha açık gri görünür. Sonuç olarak açık gri bir akromatik renk, beyaz üzerinde koyu etki, koyu üzerinde açık etki yapar.
+[s.23] Algılama Sürecini Etkileyen Faktörler Perspektifinden Algılama Süreci
+[s.24] Algılama sürecine ilişkin ortaya konan tabloda algılama sürecini etkileyen faktörlerin ön plana çıktığı dikkat çekmektedir. Bu model algılama sürecinde algılayan kişinin özelliklerinden etkilendiğinin altını çizmekle birlikte, buna ek olarak algılanan nesnenin özelliklerinin ve algılama sürecinin gerçekleştiği ortamın da algılama sürecine etki ettiğine değinmesi nedeniyle önem taşımaktadır. Bu modelde algısal sürecin evreleri uyarıcılara karşı dikkatin oluşması ve maruz kalınan uyarıcılar arasında bazılarının seçilmesi, bilgilerin organize edilmesi, bilgilerin yorumlanması, bilgilerin tekrar hatırlanması aşamaları şeklinde ortaya çıkmaktadır. Algısal sürecin evrelerinin gerçekleşmesinin ardından ise algılama sürecinin algılayan kişinin davranışsal cevabı ile sona erdiği görülmektedir. Burada algılayan kişinin davranışsal cevabı ile ise; uyarıcıya karşı geliştirilen inanç, duygu, kanaat ve değer oluşumundan bahsedilmekte, uyarıcıya karşı davranış ve tavırların belirlenmesi kastedilmektedir.
+[s.25] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
+
+# Hafta 4: Algılama türleri ve algılama eşikleri
+
+> Kaynak: hocanın UBIS'e yüklediği `4_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta algı türlerini (simgesel, görsel, duygusal, seçimleyici) ve algı eşiklerini öğreniriz. Üç eşik vardır: özel eşik, mutlak eşik, fark eşiği. Duyum uyumu ve Weber Oranı anlatılır. Mutlak eşik ile fark eşiği karşılaştırılır.
+
+
+## Algının başlıca türleri
+
+- Duyum şekli, yeri ve işlevine bağlı olarak dört algı türü vardır: **simgesel, görsel, duygusal, seçimleyici**. (s.2)
+- Simgesel algı: kitle iletişim araçlarıyla kamuoyunu yönlendirmek için sembol ve söylemler üzerinden yapılan siyasal iletişim, reklam ve propaganda faaliyetlerini kapsar. (s.3)
+- Simgesel algı örneği: gözleri bağlı, elinde terazi tutan genç kadın adaletin simgesidir. (s.3)
+- Görsel algı: dış çevreyle ilgili izlenimlerin edinildiği en önemli duyum süreci olan görme yoluyla meydana gelen algılama çeşididir. (s.6)
+- Duygusal algı: diğer algı türleriyle edindiğimiz mesajların yorumlanması sürecidir. (s.7)
+- Seçimleyici algı: bireylerin çevrelerinden edindikleri mesajları kendilerine özgü algılama ve değerlendirme sürecidir. (s.8)
+
+## Algı eşikleri
+
+- Bir uyarıcının dikkat çekmesi için insanların algı eşiğini aşması gerekir. (s.16)
+- Üç eşik vardır: **özel eşik** (özel alıcılar), **mutlak eşik** ve **fark eşiği**. (s.17)
+
+## Özel alıcılar
+
+- Özel alıcılar: göz ve kulak gibi alıcı organların yapısal olarak farklı olmasıdır. (s.18)
+
+## Mutlak eşik
+
+- Mutlak eşik: bir alıcı duyu organının uyarılabildiği en düşük uyarıcı şiddetidir. Bunun altındaki uyaran fark edilemez. (s.19)
+- Köpeklerin koku alma eşiği insanların mutlak eşiğinden 400 kat daha düşüktür. Bu yüzden güvenlik güçleri köpek kullanır. (s.21)
+- Uyarıcı sabit kalır ya da tekrarlanırsa mutlak eşik yükselir ve uyarıcıya dikkat edilmemeye başlanır. (s.22)
+- Duyum uyumu: bir süre sonra önceden algıladıklarımızı artık algılamamaya başlamaktır. Günlük sözü: "alıştım". (s.22)
+- Örnek: yeni girdiğimiz ortamdaki kokuyu hemen fark ederiz. Koku sürse bile sonra fark etmeyiz. (s.23)
+
+## Fark eşiği
+
+- Fark eşiği: uyarıcıda fark edilebilen en küçük şiddet değişimidir. Uyarıcı ne kadar büyükse fark için gereken değişiklik o kadar büyüktür. (s.26)
+- Alman fizyolog **E. H. Weber** fark eşiği çalışmaları sonunda **Weber Oranı** formülünü geliştirmiştir. (s.26)
+- Örnek: kısık sesli bir müzik ile yüksek sesli bir müzik arasındaki fark büyükse fark eşiği oluşur. (s.28)
+- Örnek: su sıcaklığı 10 dereceden 20 dereceye, hava sıcaklığı 15 dereceden 30 dereceye çıkarsa fark edilir. (s.31)
+- Örnek: **Pringles**, cips paketlerinde alışılmışın dışında silindir kutu kullanarak fark eşiği oluşturmuştur. (s.33)
+
+## Mutlak eşik ile fark eşiği
+
+- Mutlak eşik, bir uyaranı tespit etmek için gereken en az yoğunluktur. Fark eşiği, bir değişikliği tespit etmek için gereken en az yoğunluk farkıdır. (s.38)
+- Mutlak eşik insandan insana büyük farklılık gösterir. Farklı insanların fark eşiklerinde sadece küçük bir farklılık vardır. (s.38)
+- Ses örneği: mutlak eşik, sesi algılayabileceğimiz en az ses miktarıdır. Fark eşiği, sesi fark etmek için gereken en az ses değişimidir. (s.38)
+
+
+## Ders notunun metni: 4_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] ALGILAMA TÜRLERİ
+[s.2] ALGININ BAŞLICA TÜRLERİ (Duyum Şekli, Yeri ve İşlevine Bağlı Olarak) Simgesel Algı Görsel Algı Duygusal Algı Seçimleyici Algı
+[s.3] ALGININ BAŞLICA TÜRLERİ (Duyum Şekli, Yeri ve İşlevine Bağlı Olarak) Simgesel Algı : Özellikle kitle iletişim araçlarının yaygınlaşmasıyla beraber kamuoyunun yönlendirilmesi için oluşturulan sembol ve söylemler üzerinden yapılan siyasal iletişim, reklam ve propaganda faaliyetlerini kapsar. Örneğin; gözleri bağlı, elinde terazi tutan genç kadın, adaletin simgesidir.
+[s.6] ALGININ BAŞLICA TÜRLERİ (Duyum Şekli, Yeri ve İşlevine Bağlı Olarak) Görsel Algı : Bireyin dış çevresiyle ilgili etkileşime geçtiği izlenimlerini edindiği en önemli duyum süreci olan görme yolu ile meydana gelen algılama çeşididir.
+[s.7] ALGININ BAŞLICA TÜRLERİ (Duyum Şekli, Yeri ve İşlevine Bağlı Olarak) Duygusal Algı : Diğer algı türleri ile edindiğimiz mesajların yorumlanması sürecidir.
+[s.8] ALGININ BAŞLICA TÜRLERİ (Duyum Şekli, Yeri ve İşlevine Bağlı Olarak) Seçimleyici Algı : Bireylerin durumları, olayları, nesneleri kısaca çevrelerinden edindikleri mesajları kendilerine özgü algılama ve değerlendirme sürecidir.
+[s.15] ALGILAMA EŞİKLERİ
+[s.16] ALGI EŞİKLERİ Algı süreci, insanların çevresindeki birtakım uyarıcılara maruz kalmaları ile başlamaktadır. Çevremizde maruz kaldığımız pek çok farklı nitelikte uyaran bulunmaktadır ve insanlar beş duyu organı aracılığıyla bu uyaranlara ilişkin verileri toplamaktadır. Ancak uyaranların insanların dikkatini çekebilmesi için bazı niteliklere sahip olması, bir başka deyişle de insanların algı eşiklerini aşması gereklilik taşımaktadır.
+[s.17] İnsanların algılama faaliyetini gerçekleştirmesi ve algılama sürecinin başlaması için uyaranın aşması gerekli algı eşikleri özel eşik, mutlak eşik ve fark eşiği olarak üçlü bir sınıflandırma dahilinde ele alınabilmektedir.
+[s.18] ALGILAMA EŞİKLERİ 1. Özel Alıcılar: Göz ve kulak gibi alıcı organların yapısal olarak farklı olması
+[s.19] ALGILAMA EŞİKLERİ 2. Mutlak Eşik: Bir alıcı duyu organının uyarılabildiği en düşük/küçük uyarıcı şiddetine mutlak eşik denir. Kendisinden daha düşük seviyedeki bir uyaranın insanlar tarafından fark edilemeyeceği algı eşiği türüdür.
+[s.20] Farklı algı türleri ve duyular için mutlak eşik alt limitleri bulunmaktadır. Algı yönetimi açısından bu alt limitlerden daha düşük uyaranların dikkat çekmeyeceği ve fark edilmeyeceği bilgisinden hareket edilmeli ve uyaranların mutlak eşiğin üstünde olacak şekilde olmasına dikkat edilmelidir. Uyaranların dikkat çekebilmesi için, insanların Duyu Organlarının Yaklaşık Mutlak Eşik Değerleri algı eşiklerini aşması (D.Cüceloğlu) gerekmektedir.
+[s.21] Örneğin, köpeklerin koku alma eşikleri insanların mutlak koku alma eşiğinden 400 kat daha düşüktür, bizim maruz kalıp algılayamadımız kokuları algıladıkları için de güvenlik güçleri ya da sivil savunma ekiplerince kullanılırlar.
+[s.22] Uyarıcının sabit kaldığı, değişmediği ya da tekrarlandığı durumlarda mutlak eşik yükselir ve uyarıcılara dikkat edilmemeye başlanır. “Sıkıcı oldu”, “alıştım” gibi sözcükleri günlük yaşamımızda sıkça kullanırız. Böylece “duyum uyumu” kavramı ortaya çıkar. Bu kavram ise belirli bir süre sonra, maruz kaldığımız ve algıladığımız ve önceden algıladıklarımızı artık algılamamaya başladığımızı ifade eder.
+[s.23] Örneğin; genellikle yeni girdiğimiz ortamlardaki farklı kokuları hemen algıladığımız ve sonrasında ise koku devam etse bile kokuyu fark edemediğimiz durumlar olmaktadır. Bu örnek maruz kaldığımız kokuya artık alıştığımız, bu kokunun bize farklı gelmemesi nedeniyle artık uyaran olarak algılanmadığını göstermektedir. Örnek de ifade ettiği gibi bu ve buna benzer durumlarda duyum uyumunun ortaya çıktığı söylenebilmektedir.
+[s.24] Çevremizde karşılaştığımız birçok nesnenin duyu organlarını uyarabilmesi ve fark edilebilmesi için sahip olması gerekli en düşük düzeydeki uyaran eşiği mutlak eşik olarak tanımlanmaktadır.
+[s.25] Mutlak eşik bir insanda bir duyum oluşturmak için gereken en düşük düzeydeki uyaran şiddeti olarak ifade edilmekte; algı yönetimi açısından bu eşikten daha düşük seviyedeki bir uyaranın insanlar tarafından fark edilemeyeceği belirtilmektedir. Uyaranların bireylerin dikkatini çekerek, onları uyarabilmesi için mutlaka mutlak eşiğin üstünde bir uyarma gücüne sahip olması gerekmektedir. Mutlak eşiği aşan uyaranlara ilişkin veriler beş duyu organı aracılığıyla toplanarak duyum faaliyeti gerçekleşmektedir. Duyum faaliyetinin ardından uyaranların anlamlandırılması, değerlendirilmesi, yorumlanması ile ham verilerin çeşitli bilişsel süreçler ile işlenmesi ortaya çıkacak ve böylelikle algılama süreci gerçekleşecektir.
+[s.26] ALGILAMA EŞİKLERİ 3.Fark Eşiği: Uyarıcıda fark edilebilen en küçük şiddet değişimine fark eşiği denir. Uyarıcı ne kadar büyük ise fark için gereken değişiklik o kadar büyüktür. Alman Fizyolog E. H. Weber fark eşiği konusunda yaptığı çalışmalar sonunda “Weber Oranı” olarak bilinen formülü geliştirmiştir.
+[s.27] Fark eşiği iki uyarıcının birbiriyle kıyaslanması sonucunda aralarındaki farkın algılanması durumunu açıklamaktadır. Fark eşiğinin ortaya çıkmasında iki uyarıcı arasında gerçekten fark edilebilecek ve algılanabilecek bir farkın bulunması gerekmektedir.
+[s.28] Birbirine oldukça yakın düzeydeki müzik şiddeti arasındaki farkın anlaşılması pek mümkün değildir; kısık sesli bir müzik ve yüksek sesli bir müzik arasındaki ses farkının fazla olması fark eşiğinin ortaya çıkması anlamını taşımaktadır.
+[s.29] Genellikle büyük nesnelerin küçük nesnelere oranla daha fazla fark edilmesi iki nesne arasındaki boyut farkının fark eşiğinin oluşmasını sağlayacak düzeyde olmasından kaynaklanmaktadır. Büyük nesneler ile küçük nesnelerin, kısık sesli bir müzikle yüksek sesle bir müziğin kıyaslanması durumunda fark eşiği oluşmaktadır.
+[s.30] Fark eşiği iki uyarıcı arasındaki farkın idrak edilmesi dışında bir uyaranın uyarma şiddetinde meydana gelen değişimi de yansıtmaktadır.
+[s.31] Su sıcaklığında ya da hava sıcaklığında meydana gelen değişim eğer düşükse bunun fark edilememesi normaldir. Ancak su sıcaklığı 10 dereceden 20 dereceye yükselirse, aynı şekilde hava sıcaklığı da 15 dereceden 30 dereceye yükselirse bu durum, uyaranın uyarma şiddetinde fark edilir düzeyde bir değişim olduğunu ifade etmektedir. Bu gibi durumlarda da fark eşiğinin ortaya çıkması söz konusu olmaktadır.
+[s.32] İki uyarıcı arasındaki farklılıkların veya bir uyarıcının şiddetinde meydana gelen farklılaşmanın fark eşiğinin ortaya çıkacağı düzeyde olması gereklilik taşımaktadır. İki uyarıcının birbirleriyle kıyaslandıklarında birbirine benzer olarak algılanması fark eşiğinin yeterli düzeyde olmadığı anlamını taşımaktadır. Aynı şekilde bir uyaranın şiddetinde meydana gelen ufak değişimler de fark eşiğinin yeterli düzeyde olmadığını göstermektedir.
+[s.33] Pringles firması cips paketlerinde alışılmışın dışında silindir biçiminde kutular kullanarak fark eşiği oluşturmuş ve dolayısıyla tüketicilerin ürünü kolayca algılaması sağlanmıştır.
+[s.38] MUTLAK EŞİK VE FARK EŞİĞİ ARASINDAKİ TEMEL FARKLAR Mutlak eşik, bir kişinin bir uyaranı tespit edebilmesi için gereken minimum yoğunluk miktarı iken, fark eşiği bir değişikliği tespit edebilmesi için gereken minimum yoğunluk farkı miktarıdır. Fark eşiğinden farklı olarak, mutlak eşik uyaranın yoğunluğunda herhangi bir değişiklik içermez. Mutlak eşik yoğunluğun minimum değerini belirlerken, fark eşiği yoğunluktaki değişimin değerini belirler. Mutlak eşik insandan insana ve hayvanlardan hayvanlara büyük farklılıklar gösterirken, farklı insanların fark eşiklerinde sadece küçük bir farklılık vardır. Mutlak eşik, bir kişinin sesi algılayabileceği minimum ses miktarıdır. Öte yandan, fark eşiği, bir kişinin sesi algılayabilmesi için ses seviyesindeki minimum değişiklik miktarıdır.
+[s.40] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
+
+# Hafta 5: Algılamanın dinamikleri: seçici algılama ve Gestalt kuramı
+
+> Kaynak: hocanın UBIS'e yüklediği `5_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta algılamanın üç temel sürecini öğreniriz: seçici algılama, algısal örgütleme, algısal yorumlama. Seçici algılamanın dört aşaması vardır. Sonra Gestalt kuramı ve dört anahtar prensibi gelir: ortaya çıkış, cisimleştirme, çoklu stabilite, değişmezlik.
+
+
+## Üç temel süreç
+
+- Algılama işlevinin altında üç temel süreç vardır: **seçici algılama, algısal örgütleme, algısal yorumlama**. (s.2)
+- Seçici algılamayı uyarıcının etkisi (zıtlık-benzerlik, büyüklük, yoğunluk) gibi faktörler etkiler. (s.2)
+- **Algısal örgütleme** = Gestalt kuramı ve algı yasaları: şekil-zemin, tamamlama, devamlılık, yakınlık ilkesi, benzerlik. (s.2)
+- Algısal yorumlama: fiziksel görünüm, stereotipler (kalıp yargı), sonuçlara sıçrama, işaret ve semboller. (s.2)
+
+## 1. Seçici algılama
+
+- Kişi her an çok sayıda uyarıcıyla karşı karşıyadır. Birkaçı belirgin algılanır. Kişi sadece algılamak istediklerini algılar. (s.4)
+- Seçici algılama iki faktöre bağlıdır: **kişisel faktörler** ve **uyarıcının yapısı**. (s.4)
+- Kişisel faktörler: yaş ve yaş dönemi, meslek, ekonomik durum, yaşam tarzı, kişilik, sağlık. (s.5)
+- Birey, kendisine zıt gelen ya da iç dünyasıyla çatışan mesajlardan kaçınır. Uyarıcılar için bir süzgeç sistemi vardır. (s.9)
+
+## Seçiciliğin 4 aşaması
+
+- Seçicilik dört aşamadan oluşur: **seçici maruz kalma, seçici dikkat etme, seçici kabullenme, seçici hatırlatma**. (s.9)
+- Seçici maruz kalma: birey çevresindeki bütün bilgi ve dürtülere maruz kalmaz. Medya alışkanlığı, bilgi düzeyi, ihtiyaçlar etkiler. (s.10)
+- Seçici dikkat etme: yoğun ihtiyaçları karşılayan uyarıcıya dikkat yöneltmektir. Örnek: açlık duyan kişi gıda reklamlarına daha çok dikkat eder. (s.10)
+- Seçici kabullenme: uyarıcıların kişinin tutum ve inançlarına uygun yorumlanmasıdır. (s.10)
+- Seçici hatırlatma: bireyler hatırlamak istediklerini hatırlar. Kısa süreli bellekteki bilgi uzun süreli belleğe aktarılır. Uzun süreli bellek kapasite yönünden sınırsızdır. (s.10)
+
+## 2. Algısal örgütleme: Gestalt
+
+- Gestalt kuramının isimleri: **Kurt Koffka, Max Wertheimer, Wolfgang Köhler, Kurt Lewin**. (s.11)
+- Wolfgang Köhler Gestalt kuramcılarındandır. (s.11)
+- Duyum ve algıyla ilgili ilk açıklamaları antik dönem filozofları yapmıştır. (s.12)
+- 20. yüzyılda yapısalcılık (structuralism, **F. Saussure**) ve Gestalt yaklaşımları algıya farklı açılardan yaklaşmıştır. (s.12)
+- Gestalt psikolojisi 20. yüzyılın ilk yarısında **Almanya'da** ortaya çıkmıştır. (s.13)
+- Algılama ile ilgilenen psikologların öğrendiği ilk şey, algının bir örgütleme olduğudur. (s.13)
+- Algı, kendisini oluşturan duyusal girdilerin toplamından daha fazla anlam ifade eder. (s.13)
+- **Gestaltizm** Almancada şekil ve form anlamına gelir. Algı ve algısal örgütlenme üzerine yoğunlaşan bir psikoloji kuramıdır. (s.13)
+- Gestalt'ın ana prensibi: zihin, algıladığı şeylerde bir bütün görmeye kendini organize eder. (s.13)
+
+## Gestalt'ın dört anahtar prensibi
+
+- Dört anahtar prensip: **ortaya çıkış, cisimleştirme, çoklu stabilite, değişmezlik**. (s.17)
+- Ortaya çıkış: Dalmaçya köpeği resminde köpek, parçalarından değil, birdenbire bir bütün olarak görülür. (s.19)
+- Notta, Gestalt teorisinin köpeğin algısının nasıl oluştuğunu açıklamadığı belirtilir. (s.19)
+- Cisimleştirme: algının yapıcı ve üretken yönüdür. Çizilmemiş bir üçgeni algılamamız buna örnektir. (s.21)
+- Çoklu stabilite: belirsiz algısal deneyimlerin 2-3 alternatif yorum arasında gidip gelmesidir. Örnekler: **Necker küpü**, **Rubin figürü/vazo**. (s.23)
+- Notta Gestalt'ın çoklu stabilitenin nasıl oluştuğunu da açıklamadığı yazar. (s.23)
+- M. C. Escher'in çizimleri slayta örnek olarak konmuştur. (s.24)
+- Değişmezlik: basit şekillerin dönme, öteleme ve ölçeğinden, şekil bozulmasından, farklı ışıklandırmadan bağımsız olarak algılanmasıdır. (s.26)
+- Dört prensip ayrı yapılar değildir. Tek bir birleşik mekanizmanın farklı açılardan açıklanmasıdır. (s.26)
+
+
+## Ders notunun metni: 5_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] ALGILAMANIN DİNAMİKLERİ
+[s.2] ALGILAMANIN DİNAMİKLERİ Tüketicinin algılama işlevi altında yatan üç temel süreç bulunur. Bunlar; 1. SEÇİCİ ALGILAMA: uyarıcının etkisi (zıtlık-benzerlik, büyüklük, yoğunluk gibi) faktörler etkiler. 2. ALGISAL ÖRGÜTLEME (Gestalt Kuramı ve Algı Yasaları) : Şekil zemin, tamamlama, devamlılık, yakınlık ilkesi, benzerlik . 3. ALGISAL YORUMLAMA: Fiziksel görünüm, stereotipler (kalıp yargı) , sonuçlara sıçrama, işaret ve semboller.
+[s.3] 1. SEÇ İ C İ ALGILAMA
+[s.4] 1.SEÇİCİ ALGILAMA: Neyin algılanacağı ve nasıl algılanacağına etki eden birçok değişken söz konusudur. Kişi, her an sayılamayacak kadar çok sayıda uyarıcıyla karşı karşıyadır. Ancak, bunlardan birkaçı belirgin olarak algılanır. Kişi sadece algılamak istediklerini algılayacaktır. (zıtlık-benzerlik, büyüklük, yoğunluk gibi) Seçici algılama iki faktöre bağlıdır; •1-Kişisel faktörler, •2-Uyarıcının yapısı
+[s.5] 1-KİŞİSEL FAKTÖRLER: Yaş ve Yaş Dönemi, Meslek, Ekonomik Durum, Yaşam Tarzı, Kişilik, Sağlık,
+[s.9] 2-UYARICININ YAPISI: Bireyler kendisine zıt gelen ya da kendi iç dünyası ile çatışan mesajlardan kaçınır. Birey günlük yaşamında çok sayıda uyarıcı ile karşı karşıyadır ve bu uyarıcılar için süzgeç sistemine sahiptir. Dolayısıyla sadece algılamak istediklerini algılayacaktır. Algılamadaki bu seçicilik 4 aşamadan oluşur. 1 - Seçici maruz kalma 2 - Seçici dikkat etme 3- Seçici kabullenme 4-Seçici hatırlatma
+[s.10] 1 - Seçici maruz kalma: Birey çevresindeki bütün bilgi ve dürtülere maruz kalmaz. Bireylerin medya kullanım alışkanlığı, bilgi düzeyi, ihtiyaçları ve alışkanlıkları bireyi maruz kalacağı uyarıcılara karşı seçici olmaya yöneltir. 2 - Seçici dikkat etme: Tüketicilerin, yoğun ihtiyaç ve isteklerini karşılayan uyarıcıya karşı dikkatini yoğun bir biçimde yöneltmesidir. Birey için önem taşıyan uyarıcılar daha çabuk algılanır. Örneğin: Açlık duyan bir kişi gıda ile ilgili reklamlara daha çok dikkat edecektir. 3-Seçici kabullenme: Kabullenme çevreden gelen uyarıcıların ve bilgilerin tutum ve inançlarına uygun olacak şekilde yorumlanmasıdır. 4-Seçici hatırlatma: Bireyin çevreden gelen uyarıcı/bilgiyi tekrarlaması ve bellekte tutması da seçicilik gösterir. Bireyler hatırlamak istediği şeyleri hatırlama eğilimindedir. Bilgiye maruz kalındıktan sonra bu bilgi aktif belleğe gelir. Kısa süreli bellekte işleme tabi tutulan bilgi uzun süreli belleğe transfer edilir. Kapasite yönünden sınırsız olan uzun süreli bellekte eski ve yeni bilgiler bir araya getirilir, sınıflanır ve yorumlanır.
+[s.11] Kurt Koffka 2. ALGISAL ÖRGÜTLEME Max Wertheimer (GESTALT KURAMI VE ALGI YASALARI) Wolfgong Köhler Kurt Lewin
+[s.12] 2.Algısal Örgütleme (Gestalt Kuramı ve Algı Yasaları) Duyum ve algı ile ilgili ilk açıklamalar, antik dönem filozofları tarafından yapılmış, bu çalışmaların bir kısmı, duyumların gerçeğin kendisi olduğunu, bir kısmı ise duyumların gerçeği olduğu gibi yansıtmadığını, bireyler tarafından oluşturulduğunu öne sürmüşlerdir. İlk çağ filozoflarının açıklığa kavuşturmak istedikleri algılama sürecinin gerçekleşme biçimi 20. yüzyılda da bilim insanlarının dikkatini çekmeyi başarmış, yapısalcılık (structuralism- F. Saussure) ve Gestalt yaklaşımları ile algılama sürecine farklı açılardan yaklaşmışlardır.
+[s.13] 20.yy'ın ilk yarısında, Almanya'da ortaya çıkan Gestalt psikolojisi kaotik görünen bir dünyada anlamlı bir algıya sahip olmamızın temelde hangi kanunlara dayandığını anlamaya çalışır. Algılama ile ilgilenen psikologların öğrendikleri ilk şey, algının bir örgütleme olduğudur. Dünyayı rastgele bir araya gelmiş, nesnelerin dizildiği bir çevre olarak görmemekteyiz. Bize gelen duyuları birleştirip, organize edip anlamlandırmaktayız. Algı, kendisini oluşturan duyusal girdilerin toplamından daha fazla anlamlar ifade etmektedir. Bu gerçeği algısal psikoloji üzerinde çalışan ilk Alman psikologları gestalt kelimesi ile ifade etmişlerdir. Birey uyarıcılardan gelen verileri devamlı olarak işler ve karmaşık aşamalar sonunda bir algısal ürüne ulaşmaktadır. Gestaltizm Almanca’da şekil ve form anlamına gelmektedir. Bilişsel süreçler içerisinde özellikle "algı" ve "algısal örgütlenme" konularında yoğunlaşmış psikoloji teorisidir. Gestalt psikolojisi kaotik görünen bir dünyada anlamlı bir algıya sahip olmamızın temelde hangi kanunlara dayandığını anlamaya çalışır. Ana prensibi; zihin kendi kendini algıladığı şeylerde bir bütün görmeye organize eder. Birey uyarıcılardan gelen verileri devamlı olarak işler ve karmaşık aşamalar sonunda bir algısal ürüne ulaşır.
+[s.17] GESTALT ALGISININ ÖZELLİKLERİ Gestalt sisteminin dört anahtar prensibi vardır: •Ortaya Çıkış •Cisimleştirme •Çoklu Stabilite •Değişmezlik
+[s.18] 1) ORTAYA ÇIKIŞ
+[s.19] 1) ORTAYA ÇIKIŞ Bu prensip köpek resmiyle açıklanır. Bu resimde bir Dalmaçya köpeği tepesinde sarkan ağacın gölgesinde yeri koklamaktadır. İlk başta köpek, bedeninin parçaları (ayak, kulak, burun, vb.) tanımlanarak fark edilmez. Buna karşılık, köpek bir bütün olarak görünür birdenbire. Kimse resme bakıp köpeğin parçalarından yola çıkarak köpek gördüğünü söylemez. Köpeği bir bütün olarak birdenbire görür. Gestalt teorisinin köpeğin algısının nasıl oluştuğuna dair bir açıklaması yoktur.
+[s.20] 2) CİSİMLEŞTİRME
+[s.21] 2) CİSİMLEŞTİRME Cisimleştirme algının yapıcı ve üretken yönüdür. Bu yönü deneyimlediğimiz algıların, duyusal dürtülere dayanan bilgiden daha net uzaysal bilgileri içermesiyle açıklanabilir. Örneğin, resim A’da bir üçgen olmamasına rağmen üçgen algılarız. Resim B ve D’de gözlerimiz farklı şekilleri tek bir şekle aitmiş gibi tanır. Resim C’de, gerçekte böyle bir şey çizilmemesine rağmen gözlerimiz üç boyutlu, bütün bir şekil görür.
+[s.22] 3) ÇOKLU STABİLİTE Necker küpü Rubin figürü/Vazo
+[s.23] 3) ÇOKLU STABİLİTE Çoklu stabilite (veya çoklu stabilite algısı), dengesiz bir şekilde belirsiz algısal deneyimlerin 2-3 alternatif yorum arasında gidip gelme eğilimidir. Bunun örneklerini, yandaki resimlerde gösterilen Necker küpü ve Rubin figürü/Vazo illüzyonunda görebiliriz. Gestalt, çoklu stabilitenin nasıl oluştuğunu da açıklamaz. Necker küpü Rubin figürü/Vazo
+[s.24] M. C. Escher’in çizimlerine bir örnek
+[s.25] 4) DEĞİŞMEZLİK
+[s.26] 4) DEĞİŞMEZLİK Değişmezlik, basit geometrik şekillerin dönme, öteleme ve ölçeğinden, bunun yanı sıra bir sürü çeşitlilikten, mesela esnek şekil bozulması, farklı ışıklandırmalar ve farklı parça özelliklerinden bağımsız olarak algılanmasıdır. Ortaya çıkma, cisimleştirme, çoklu sabitlik ve değişmezlik mutlaka ayrılabilen yapılardan ziyade tek bir birleşik mekanizmanın farklı açılardan açıklanmasıdır. Örneğin, resim A’daki objeler ilk görüldüğü andan itibaren aynı basit şekiller olarak algılanır, bu objeler anında resim B’deki biçimlerden ayırt edilir. Bu objeler resim C’de gösterilen perspektif ve elastik şekil bozukluklarına ve resim D’de gösterilen farklı grafik elementlerine rağmen aynı objelermiş gibi algılanırlar. Görmenin bilgi sayım teorileri(mesela David Marr’ın teorisi) objelerin nasıl sınıflandırıldığına dair daha başarılı açıklamalara sahiptir.
+[s.27] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
+
+# Hafta 6: Gestalt algı ilkeleri
+
+> Kaynak: hocanın UBIS'e yüklediği `6_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta Gestalt algı ilkelerini öğreniriz. Altı ilke vardır: şekil-zemin, tamamlama, devamlılık, yakınlık, benzerlik, basitlik. Her ilke logo, afiş ve amblem örnekleriyle anlatılır. Tasarımcı bu ilkelerle mesajı daha hızlı iletir.
+
+
+## Altı ilke
+
+- Gestalt algı ilkeleri altıdır: **şekil-zemin, tamamlama, devamlılık (süreklilik), yakınlık, benzerlik, basitlik**. (s.4)
+
+## 1. Şekil-zemin ilişkisi
+
+- Algının gerçekleşmesi için çevredeki çok uyarıcıdan birinin seçilip öne çıkarılması gerekir. Her algılamada bir **şekil** bir de **zemin** vardır. (s.5)
+- Şekil, zemin içinde anlamını kazanır. Örnek: **Rubin vazosu**. (s.5)
+- Şekil-zemin ilişkisi bütün duyu organlarını ilgilendirir. (s.5)
+- Şekil bize daha yakındır, nesne izlenimi verir, biçimi vardır. Zemin ise tanımlaması zor bir madde izlenimi taşır. (s.6)
+- Şekil, zeminden daha iyi bir izlenim yapar ve daha iyi hatırlanır. (s.6)
+- Ses örneği: kuş sesini dinlerken trafik sesi zemin olur. Koku örneği: oturma odasının kokusu zemin, mutfaktan gelen soğan kokusu şekildir. (s.7)
+- Logo örnekleri: **Pittsburgh Hayvanat Bahçesi ve PPG Akvaryumu, Toblerone, Afrikalı Çocuklar İçin Umut Girişimi**. (s.20)
+- Görme sistemimiz şekil ve zeminin aynı anda algılanmasına izin vermez. Önce birini, sonra diğerini algılarız. (s.30)
+- Japon grafik tasarımcı **Shigeo Fukuda**'nın 1975 tarihli kişisel sergi afişi, şekil-zemin örneğidir. (s.30)
+- **Yossi Lemel**'in 1995 tarihli Uluslararası Af Örgütü afişinde beyaza odaklanınca beyaz şekil, kırmızı zemin olur. Kırmızıya odaklanınca tersi olur. (s.31)
+
+## 2. Tamamlama ilkesi
+
+- Nesnenin tümü görünmese de tümü görülüyormuş gibi algılanır. (s.32)
+- Tamamlama kuralı yalnız görsel alana özgü değildir. Yarım duyulan bir söz de tamamlanarak algılanır. (s.33)
+- Bu eğilim görsel uyarandaki boşlukları doldurup kopuk parçaları bütün olarak algılamamızı sağlar. Buna **tamamlama eğilimi** denir. (s.34)
+- Örnek: kapıya takılmış bir kilidin tamamını görmesek de kilidin kapalı olduğunu algılarız. (s.35)
+- Boşluk, tasarımın bütünsel algılanmasını sağlar. Örnek: **Pierre Mendell**'in Don Carlo operası afişi (1999). (s.50)
+- **Julia Hasting**'in 1994 afişinde boşluk iki farklı imgeyi gösterir: koşan adam figürü, afiş nesnesi ve tipografi. (s.51)
+
+## 3. Devamlılık (süreklilik)
+
+- Aynı yöne giden noktalar, çizgiler ve birimler birlikte gruplanarak algılanır. Bu eğilimin adı **sürekliliktir**. (s.54)
+- Ani değişikliklerden çok düz giden sürekliliği algılamaya yöneliriz. (s.54)
+- Olimpiyat bayrağındaki beş halka beş kıtayı temsil eder: mavi Avrupa, sarı Asya, siyah Afrika, kırmızı Amerika, yeşil Avustralya. (s.57)
+- Afiş dizisi ve yayınevi dil birliği bu ilkenin izini taşır. Örnek: **Chaz Maviyane**'nin 2011 tarihli Sri Lanka afişi. (s.68)
+
+## 4. Yakınlık ilkesi
+
+- Birbirine yakın olan nesneler gruplandırılarak algılanır. (s.69)
+- Örnek: sokakta birkaç kişiyi birlikte gördüğümüzde onları grup olarak algılarız. (s.70)
+- Logo örneği: **Adidas** logosunda parçaların birbirine yakınlığı farklı bir algı yaratır. (s.74)
+- Logo örneği: **Unilever** amblemindeki semboller yakınlıkları sayesinde "U" harfini oluşturur. (s.75)
+- Logo örneği: **Norway** logosunda üç renk lekesi yakın konumlandırılmıştır. Kollarını kaldırmış rahatlamış bir insan figürü görülür. (s.76)
+- **Gürbüz Doğan Ekşioğlu**'nun resimlemesinde birbirine yakın konumlandırılmış fareler kedi formunu algılatır. (s.83)
+
+## 5. Benzerlik ilkesi
+
+- Şekil, renk, doku gibi özellikler bakımından birbirine benzeyen uyarıcılar birlikte gruplanır. (s.86)
+- Koyu ve açık renkli noktaları farklı gruplar olarak algılarız. (s.86)
+- Dalmaçyalı köpek örneğinde çok sayıda daire vardır ama yalnızca iki şekil kullanılmıştır: içi boş sarı daireler ve içi dolu siyah daireler. (s.97)
+- Logo örneği: **CNBC** logosundaki tavus kuşunun kuyruğu benzer nesnelerin tekrarıyla oluşur. Burada şekil-zemin ilkesi de görülür. (s.98)
+- Logo örneği: **MOCA** (Çağdaş Sanat Müzesi), Ivan Chermayeff ve Tom Geismar, 1979. (s.101)
+- Afiş örneği: Michal Batory'nin "Centre des Arts" etkinlik afişi. (s.102)
+
+## 6. Basitlik ilkesi
+
+- İnsan algısı yalın görselleri daha kolay algılar. Düzenli şekiller karmaşık olanlardan daha kolay algılanır. (s.103)
+- Tasarımın amacı basitlik, yani yalınlık ile akılda kalmak olmalıdır. (s.105)
+- Basitlik algılamanın ilk kuralıdır. Yalın olanı her yaş grubu algılar, daha geniş kitleye ulaşılır. (s.106)
+
+## Amblem örnekleri
+
+- Nintendo GameCube: lacivert kısım "G", beyaz alan "C" harfini oluşturur. Şekil-zemin ilkesine uygundur. Bütünü iç içe küpleri oluşturur. (s.117)
+- Spartan Golf Club: golf sopasını sallayan adam, sopanın açısıyla miğferli bir Spartalıya dönüşür. Tamamlama ilkesine uygundur. (s.118)
+- **Unilever** amblemi yakınlık ve benzerlik ilkelerine uygun tasarlanmıştır. (s.119)
+- **Sun Microsystems** amblemi yakınlık ve devamlılık ilkelerine uygundur. Şekiller grup olarak "S" harfini, bütün olarak "SUN" yazısını verir. (s.120)
+- **Elettro Domestici** amblemi basitlik ve şekil-zemin ilkelerine uygundur. Bir elektrik fişinden "E" ve "D" harfleri çıkar. (s.121)
+
+
+## Ders notunun metni: 6_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] ALGILAMANIN DİNAMİKLERİ
+[s.2] ALGILAMANIN DİNAMİKLERİ Tüketicinin algılama işlevi altında yatan üç temel süreç bulunur. Bunlar; 1. SEÇİCİ ALGILAMA: uyarıcının etkisi (zıtlık-benzerlik, büyüklük, yoğunluk gibi) faktörler etkiler. 2. ALGISAL ÖRGÜTLEME (Gestalt Kuramı ve Algı Yasaları) : Şekil zemin, tamamlama, devamlılık, yakınlık ilkesi, benzerlik . 3. ALGISAL YORUMLAMA: Fiziksel görünüm, stereotipler (kalıp yargı) , sonuçlara sıçrama, işaret ve semboller.
+[s.3] Kurt Koffka 2. ALGISAL ÖRGÜTLEME Max Wertheimer (GESTALT KURAMI VE ALGI YASALARI) Wolfgong Köhler Kurt Lewin
+[s.4] GESTALT ALGISININ İLKELERİ 1. Şekil- Zemin İlişkisi 2. Tamamlama İlkesi 3. Devamlılık İlkesi (süreklilik) 4. Yakınlık İlkesi 5. Benzerlik İlkesi 6. Basitlik İlkesi
+[s.5] 1. Şekil- Zemin İlişkisi Algının gerçekleştirilebilmesi için çevrede bulunan birçok uyarıcıdan sadece birinin seçilmesi, öne çıkarılması gerekmektedir. Bütün algılamalarda bir şekil bir de zemin vardır. Şekil, arka yüzeyi oluşturan zemin içinde anlamını kazanmaktadır. Şekil – Zemin İlişkisi (Rubin Vazosu) Şekil-zemin ilişkisi, bütün duyu organlarını ilgilendirmektedir.
+[s.6] Görsel alanda şekil bize daha yakındır ve bir nesne izlenimi verip, bir biçime sahip olup; zemin ise tanımlaması zor bir madde izlenimini taşımaktadır. Şekil, aynı aydınlık şiddetinde olsa dahi, zeminden daha aydınlık görünmektedir. Şekil daha iyi bir izlenim yapmakta ve daha iyi hatırlanmaktadır.
+[s.7] Kuş sesini dinlerken, trafik sesi arkadan bir zemin oluşturmaktadır. Birisi sırtımıza dokunduğunda, elbisemizden sürekli gelen duyum zemine, kişinin dokunmasıyla oluşan duyum şekle örnek teşkil etmektedir. Oturma odasının kokusu zemin, mutfaktan gelen soğan kokusu şekildir.
+[s.20] Figure-ground logos example: Pittsburgh Zoo & PPG Aquarium, Toblerone, Hope for African Children Initiative. Şekil-zemin logoları örneği: Pittsburgh Hayvanat Bahçesi ve PPG Akvaryumu, Toblerone, Afrikalı Çocuklar İçin Umut Girişimi.
+[s.30] Şekil ve zemin algısı, tasarım yüzeyinde fiziksel olarak değişkenlik gösteren bir yapıya sahiptir. Bakışımızı yoğunlaştığımız noktalara göre şekil ve zemin algısı sürekli yer değiştirir. Ancak görme sistemimiz şekil ve zeminin aynı anda algılanmasına imkan tanımaz. Önce birini, sonra diğerini algılayabiliriz. Sanatın tarihsel serüveninde Gestalt’ın şekil ve zemin organizasyonunu örnekleyen birçok yapıtla karşılaşırız. Japon grafik tasarımcı Fukuda yapıtları, iletişim tasarımının Gestalt şekil ve zemin öğretisini örnekleyen eserler sunmuştur. Bu türden algılamalar, beynimizin şekli zeminden ayırma yeteneği ile görüntüyü anlamlandırma çabasını örnekler. Kişisel Sergi Afişi, Shigeo Fukuda, 1975. Kaynak: Alan and Isabella Livingston, Graphic Design and Designers, London: Thames and Hudson Ltd., 1992, s.81.
+[s.31] Şekil ve zemin ilkesi ışığında bazı afiş tasarımları incelendiğinde, bu algılama biçiminden izler taşıdığı gözlenmektedir. Yossi Lemel’in 1995 yılında “Uluslararası Af Örgütü” için tasarladığı afişte şekil ve zemin algısının değişken yapısı izlenebilir. Dikkatimizi beyaz renkte olan yüzeye yoğunlaştırırsak bu şekil, kırmızı yüzey ise zemin olur. Eğer algı odağımız kırmızı renkli yüzey olursa bu defa kırmızı yüzey şekil, beyaz yüzey ise zemine dönüşüverir. Böylece şekil, arka plandan ayrılarak bize daha yakınmış gibi algılanır. Amnesty International, Yossi Lemel, 1995. Kaynak: Posters. (t.y.) http://black-hands.tumblr.com/post/27046514324/amnesty-poster- by-israeli-graphicdesigner-lemel.
+[s.32] 2. Tamamlama İlkesi Tamamlama ilkesinde, bir nesnenin tümü görünmese de o nesnenin tümü görülüyormuş gibi algılanmaktadır.
+[s.33] Gerçekte algılama, nadiren tüm olarak nesnelerden gelen duyulara dayanmaktadır. Ancak, bize gelen parça parça duyumları ise biz tamamlamaktayız. Şekil-zemin ilişkisinde olduğu gibi tamamlama kuralı da, yalnız görsel alana özgü olmaktadır. Bu durum bütün duyu alanları için geçerli bir kuraldır. Örneğin, konuşmakta olan birsinin sözleri yarım yamalak duyulduğu halde, o kişinin ne dediği tamamlama kuralına dayanarak algılanmaktadır.
+[s.34] İnsan algısının tam olmayan şekilleri tamamlamaya yani bütünlemeye doğru bir eğilimi vardır. İnsan önceden tanıdığı nesne, olay, ses ve etkinliklerin bazı parçalarını eksik olsa bile tamamlayarak algılar. Gestalt ilkelerinde tamamlama eğilimi olarak adlandırılan bu eğilim insanların görsel uyarandaki boşlukları doldurarak örgütlenmelerine ve böylece kopuk parçaların yerine bir bütün olarak algılanmalarına yol açar.
+[s.35] Burada görülen kilitte de aynı şekilde bir algılama olmakta. Kapıya takılmış bir kilidin aslında tamamını görmesek bile kilidin kapalı olduğunu algılayabiliriz. Demek ki nesnelerin görünmeyen kısımlarını algımızla tamamlayabiliyoruz. Gözün tamamlaması fotoğraf içinde geçerlidir.
+[s.50] Boşluk kavramının, sanatın bütün disiplinleri için önemli bir yapı elemanı olduğu bilinmektedir. Tasarımın problemlerinin çözümlenme sürecine katkı sağlayan bu kavram, tasarımın bütünsel bir yapıda algılanmasını sağlar. Herhangi bir tasarımda, tamamlama ilkesi ışığında boşluk kavramını değerlendirmek, tamamlanmamış veya fazla sayıda parçalanmış bir görüntünün grup olarak algılanabileceğini gösterir. Görme duyumuzun zihinsel faaliyetini kapsayan bu algılama biçimi, aynı zamanda farklı bir imgenin varlığını da gösteren bir etken olabilir. Örneğin, Pierre Mendell’in ‘Don Carlo’ operası için tasarladığı afişte bu türden bir yapı gözlenir. “Don Carlo” operası için afiş, Pierre Mendell ve Oberer, 1999. Kaynak: Pierre Mendell and Lars Müller Publishers, Pierre Mendell. Plakate für die Oper, München: Passavia Druckservice GmbH, Passau, 2006, s. 75.
+[s.51] Görme sistemimiz, afiş yüzeyindeki görsel öğeleri birbiriyle ilişkilendirerek görüntüye bir yama yapar ve boşluktan ibaret olan eksik bilgi anlamlandırılmış olur. Böyle bir algılamayı belirleyen unsur, tasarım yüzeyinde bilinçli yer verilen boşluktur. Julia Hasting tarafından tasarlanan afişte de boşluk kavramı, iki farklı imgeyi gösteren olur. Görme ve algı sistemimiz afiş yüzeyinde birinden diğerine atlayarak değişen ve böylece gruplama eğilimi ile afişin tümünü algılatan üç farklı yapıyı birbiriyle ilişkilendirir. Bunlar; Dört parçadan oluşmasına rağmen grup halinde algılanabilen koşan adam figürü, afişin orta kısmındaki boşlukla algılanan afiş nesnesi ve tipografidir. “Die 100 Plakate des Jahres 1994” etkinliği için tasarlanmış afiş serisinden biri, Julia Hasting, 1994. Kaynak: Vlerie Vago Laurer (Ed.), 100 Graphic Designers, London: Phaidon Press Limited, 2003, s. 139.
+[s.54] Gestalt algı yasalarına göre aynı yöne doğru giden noktalar, çizgiler, birimler birlikte 3. Devamlılık İlkesi gruplanarak algılanırlar. Bu algısal eğilimin adı sürekliliktir. Süreklilik yasası, ani değişikliklerden (Süreklilik) çok, düz giden sürekliliği algılamaya yöneldiğimizi ifade etmektedir. Birbirlerinden kopuk bir şekilde bir doğru üzerinde oturan objeler sürekli bir doğru gibi açık ve kırılmış figürler tamamlanmış ve kapalı figürler gibi görünürler. Algısal alanımızda bulunan ve aynı yönde giden birimler birbiriyle ilişkili görünmektedir. Bu algısal eğilimin adı devamlılıktır. Şekilde (a) ve (b)’de gösterildiği gibi iki çizgi birbirinden bağımsız görünmektedir. Ancak, (c) ve (d)’de görüldüğü gibi üst üste çakıştırıldığı zaman, eski çizgiler ortadan kalkar ve devamlılık kuralının etkisi altına girilmektedir.
+[s.57] Olimpiyat bayrağındaki 5 halka yeryüzündeki 5 kıtayı temsil eder. • Mavi renkli halka Avrupa kıtasını, • Sarı renkli halka Asya kıtasını, • Siyah renkli halka Afrika kıtasını, • Kırmızı renkli halka Amerika kıtasını, • Yeşil renkli halka Avustralya kıtasını temsil eder.
+[s.68] Devamlılık (Süreklilik) ilkesi tasarımcının üretme arzusunu geliştiren önemli bir yapı elemanıdır. Örneğin, bir yayınevi için oluşturulan dil birliği veya aynı yalınlıkla oluşturulmuş bir afiş dizisinin de temelde bu algılama ilkesinden izler taşıdığı düşünülebilir. Dolayısıyla beynimiz, bir tasarım yüzeyindeki dikey, yatay ya da diyagonal doğrultuda konumlanmış benzer ya da farklı imgeler bütünsel bir yapıda kodlamak ister. Görsel iletişimin tarihsel sürecinde farklı afiş tasarımları incelendiğinde, afiş tasarımlarında aynı doğrultuda konumlanmış tipografi, renk, şekil, fotoğraf ve illüstrasyon gibi farklı öğelerin, süreklilik algısından izler taşıdığı gözlenmektedir. Örneğin, Sri Lanka Başbakanı Ratnasiri Wickremanayake’in konuşmasında yola çıkılarak “Sri Lanka” politik temalı afiş, Chaz Maviyane ve Davies, 2011. Kaynak: Projests. (t.y.) http://www.maviyane.com/?id=social-politics-9. tasarlanmış afişte, aynı yönde ilerleyen biçim öğeleri grup olarak algılanır.
+[s.69] 4. Yakınlık İlkesi Birbirine yakın olan nesneler, gruplandırılarak algılanmaktadırlar. Görsel alanda olduğu gibi, diğer alanlarda da bu durum geçerli olmaktadır. Şekilde gösterildiği gibi duyular yoluyla elde edilen uyarıcılar birbirine olan yakınlıklarına göre gruplanarak bir bütün olarak algılanmaktadır.
+[s.70] Örneğin, sokakta birkaç kişiyi birlikte toplu olarak gördüğümüzde onları grup olarak algılayıp sokakta kendi başına yürüyen kişilerden ayırt etmekteyiz.
+[s.74] Tasarım yüzeyindeki görsel elemanların yerleştirilme yerlerine göre, birbirlerine yakın olan nesneler birlikte gruplandırılarak algılanırlar. Böylece birbirine yakınlık algıyı kolaylaştırır. Logo tasarımında ise kurallara göre yakınlık ilkesi önemlidir. Burada Adidas logosunu incelediğimizde logoyu oluşturan görsel parçaların birbirinden bağımsız ve uzak olarak konumlandırılması ile farklı bir algı oluşmaktadır. Birbirlerine yakın bir şekilde bütünlük içerisinde yakınlık kuran parçalarla görsel algı farklı bir boyut kazanır.
+[s.75] Dünyaca ünlü olan unilever ambleminde ise çok fazla sembol vardır. Bu sembollere ilk baktığımızda birbirleriyle olan yakınlık ilişkisi sayesinde "U" harfini oluşturduğunu hemen anlarız. Ancak içinde yer alan sembolleri birden algılamamız mümkün değildir. Eğer göz algısal olarak birbirlerine yakın algılamasaydı, gördüğümüz karmaşa içindeki şekiller olurdu. Gestalt psikologlarının fark ettiği bu ilkeyi tasarımlarımızda unileverin yapmış olduğu gibi yaparak hedef kitleye farklı mesajları farklı birleşimleri kolaylıkla iletebiliriz.
+[s.76] Norway firmasının logosunda sembolü oluşturmak için tasarımcı üç renk lekesini birbirlerine yakın olarak konumlandırarak yakınlık ilkesini etkili bir biçimde kullanmıştır. Bu renk lekelerinin kullanılması ileride orta kısımda kollarını yukarıya doğru kaldırmış rahatlamış bir insan figürü görmekteyiz. Aslında bu logo şekil zemin ilişkisine de dokunmaktadır. Bizde tasarımlarımızda yakınlık ilkesini kullanarak birbirinden anlamsız öğelerden farklı mesajlar, farklı algılar oluşturabiliriz.
+[s.83] Tasarım yolu ile anlam üretme çabası, yakınlık öğretisi ışığında bir biçim öğesine faklı anlamlar yükleme yetisi kazandırabilir. “…Aynı birim elemanı farklı şekilde düzenlenerek değişik bir anlam ifade edebilir.” Tevfik Fikret Uçar’ın bu türden bir tespiti, bilinçli örgütlenmiş bir dairenin nasıl ok şekline dönüşebileceğini gösterir. Gürbüz Doğan Ekşioğlu’nun resimlemesinde ise, birbirine yakın konumlandırılmış fareler kedi formunu algılatır. “İkisi Bir Arada”, İllüstrasyon, Gürbüz Doğan Ekşioğlu, 50x70 cm, 2011. Kaynak: Gürbüz Doğan Ekşioğlu Dijital Arşivi, Mayıs 2014.
+[s.84] Tasarımcının içeriğe uygun olarak yapılandırdığı kişisel eğilimleri farklı formlara sahip görsel öğeleri tek bir birim olarak algılatabilir. Örneğin afişte farklı gazete haberleri ile oluşturulan görsel doku, benzer 329 öğeyi tek bir birime indirger. Bu afişin herhangi bir bölümündeki bazı birimler de kendi içinde grup olarak algılanabilir. Ancak zihnimiz, bu türden bir görüntüyü öncelikle bütün olarak algılamaktadır. “Richness and Variety” temalı afiş, 128 x 89.5 cm, Emine Alili, 2013. Kaynak: Projekte. (t.y.) http://www.eminealili.ch/ProjektPlakatAPG.html (08 Temmuz 2014).
+[s.85] Hayali sınırlar bir tasarım yüzeyinde de farklı imgeleri benzer yapıda algılatabilir. Bu durum tasarımcının doğru bir formu bulmak için yapılandırdığı düş halini betimler. Kuş imgesinin varlığını belirleyen hayali sınırlar, 61 biçim öğesini (imgelerin formu ve büyüklükleri birbirinden farklı olmasına rağmen) benzer birimler olarak algılatır. Beynimizde benzerlik algısını belirleyen şey, görsel öğelerin birbirleriyle olan ilişkilerinin olduğu düşünülebilir. “Peace” temalı afiş, Luba Lukova, 2008. Bu poster, Luba Lukova’nın “Sosyal Adalet 2008” Sosyal Sorumluluk Projesi için tasarladığı 12 farklı afişten biridir. Kaynak: Luba Lukova. (t.y.) http://altpick.com/lubalukova (12 Temmuz 2014).
+[s.86] Şekil, renk, doku, cinsiyet vb. pek çok özellik 5. Benzerlik İlkesi bakımından birbirine benzeyen uyarıcılar birlikte gruplandırılarak algılanma eğilimindedirler Örneğin; bazı durumlarda cinsiyet farklılıkları göz önüne almaksızın (kadınlar ve erkekler olarak ayırmadan) bir topluluğu insanlar olarak algılayabiliriz. Benzerlik yasasında uyarıcıların bir grup olarak algılanmalarının altında yatan sebep; renk şekil vb. yönlerden birbirlerine benzer olmalarıdır. Şekilde koyu ve açık renkli noktaları farklı gruplar olarak algılanmaktayız. Benzetme ilkesine göre şekillerin yapılarını yönlerini renk ve tonlarını büyüklük ve küçüklüklerini yani boyutlarını benzeterek algılayabiliriz.
+[s.97] İçi boş sarı daireler ve içleri dolu siyah daireler kullanılmış değil mi içi boş sarı daireler ile fon olarak ise içleri dolu siyah daireler ile de figür oluşturulmuştur. Böylelikle dalmaçyalı köpek ön plana itilmiştir. Çok sayıda farklı şekil olmasına rağmen birbirinden farklı sadece iki şekil var. Sarı içi boş daireler ve siyah içi dolu daireler. Gözümüz bu benzer nesneleri çok veya az olarak değil de gruplayarak algıladığı için köpeği ve arka planı rahatlıkla ayırt edebiliyoruz.
+[s.98] Dünyaca ünlü CNBC logosunda yer alan tavus kuşunun kuyruk kısmında da yine aynı nesnelerin benzer şekilde tekrar edilmesi ile oluşturulmuştur. Aslında burada şekil zemin ilkesini de görmekteyiz. Sonuç olarak birbirlerine benzeyen formlara, renklere ve yönlere sahip görseller bir bütünlük içerisinde algılanırlar ve böylelikle daha hızlı bir biçimde algı gerçekleşir. Tasarımlarımızda bu ilkeden yararlanarak mesajı daha algılanabilir bir biçime doğru yontarak daha hızlı bir şekilde iletebilir ve geniş kitlelere yayabiliriz.
+[s.101] Similarity logo example: MOCA (Museum of Contemporary Art), by Ivan Chermayeff and Tom Geismar, 1979. Benzerlik logosu örneği: MOCA (Çağdaş Sanat Müzesi), Ivan Chermayeff ve Tom Geismar, 1979.
+[s.102] Beynimiz benzer görüntüleri algısal olarak gruplama eğilimindedir. Geçmişteki deneyimlerden de etkilenen bu özelliğimiz, görüntüyü organize etme yetisi kazandırır. Örneğin; uçak kokpiti, otomobil konsolu ya da bir bilgisayar klavyesindeki benzer birimlerin ne şekilde tasarlandığı düşünülebilir. Algı sistemimiz, tasarım yüzeyindeki imajları birbiriyle ilişkilendirir. Bu özelliğimiz de görsel alanımızda bulunan benzer imajları gruplama yetisi kazandırır. Örneğin bu sayfa içindeki bu paragraf, benzer satır uzunluğuna bağlı olarak tek bir birim halinde algılanır. Benzerlik ilkesi ışığında farklı afiş tasarımları izlendiğinde, algı sistemimizin tasarım yüzeyindeki benzer yapıları daha çabuk algıladığı düşünülebilir. Bu türden bir algılamaya Michal Batory’nin tasarladığı etkinlik afişini örnek verebiliriz. “Centre des Arts” etkinlik afişi, Michal Batory. Kaynak: /danse, musique. (t.y.) http://www.michalbatory.com/aff_danse1_17.html.
+[s.103] 6. Basitlik İlkesi Basitlik ilkesine göre insan algısı yalın olan görselleri daha kolay algılama eğilimindedir. Organizma karmaşık zor olaylar yerine daha basit ve düzenli olanı algılar. Kısacası basit yani düzenli bir şekilde organize edilmiş şekiller karmaşık olanlardan daha kolay algılanırlar. Oldukça karmaşık bir yapıya sahip bir problemin daha kolay ve tek boyutlu bir probleme göre algılanması daha zordur. Sağdaki tek bir nesneden oluştuğu için çok daha basit aynı zamanda daha basit algılanabilir , soldaki üç farklı renk ve üç farklı şekilden oluştuğu için çok daha karmaşıktır ve daha geç algılanır.
+[s.105] Tasarımın amacı basitlik yani yalınlık ile akılda kalmak olmalıdır. Tasarımlarımızda kısaca yalın görseller ile markayı anlatma çabası içerisinde olmalıyız.
+[s.106] Basit olan, yalın olan daha kolay algılanıyor ise bu iki ayakkabı markasının basılı ilan çalışmasını incelediğimizde hangisinin daha akılda kaldığını söyleyebilirsiniz. Aslında farkettiyseniz daha çok global markalarda Gestalt ilkelerinin uygulandığını gözlemekteyiz. Algısal örgütleme yasaları etkilemek istediğimiz kitlenin algılamasını kolaylaştırırlar. Basitlik ilkesi de algılamanın aslında ilk kuralıdır. Basit olan bir şeyi her yaş grubu algılar ve daha geniş bir kitleye hitap etmiş oluruz.
+[s.113] Gestalt Etkisindeki Afiş Örnekleri
+[s.114] Gestalt Etkisindeki Afiş Örnekleri
+[s.115] Gestaltın Resim Sanatı üzerine Etkisi
+[s.116] Gestaltın Resim Sanatı üzerine Etkisi
+[s.117] Yukarıda yer alan “NINTENDO GAMECUBE” amblem tasarımında Lacivertle yer alan kısım “G” harfini oluştururken beyaz alanlar ise “C” harfini oluşturmaktadır. Gestalt ilkelerinden Şekil- Zemin ilişkisi doğrultusunda tasarlanmış olan amblem tasarımı tamamı ise iç içe küpleri oluşturmaktadır. Gestalt kuramına uygun amblem tasarımı
+[s.118] Yukarıda yer alan “SPARTAN GOLF CLUB” amblem tasarımının Gestalt ilkelerinden tamamlamaya uygun bir tasarım olduğunu görmekteyiz. Golf oynayan bir adam, golf sopasını sallarken oluşturduğu açı yardımı ile miğfer takmış bir Spartalıya dönüşmektedir. Her ne kadar birbirlerinden ayrı olgular gibi görünseler de görsel algımızın gruplama eğilimi sayesinde eksik parçaları da tamamlayabilmekteyiz. Gestalt kuramına uygun amblem tasarımı
+[s.119] Yukarıda yer alan “UNILEVER” amblem tasarımının Gestalt ilkelerinden yakınlık ve benzerlik’e uygun şekilde tasarlandığını görmekteyiz. Birbirlerine yakın olarak tasarlanan bir çok farklı ürün gruplama eğilimimiz sayesinde “U” harfine benzeştirerek algılamamızı sağlamaktadır. Gestalt kuramına uygun amblem tasarımı
+[s.120] Yukarıda yer alan “Sun microsystems” amblem tasarımının Gestalt ilkelerinden yakınlık ve devamlılık’a uygun şekilde tasarlandığını görmekteyiz. Birbirlerine yakın olarak tasarlanan şekiller grup olarak algılanarak “S” harfine ortaya çıkarmaktadır. Ve yakın olan şekiller bir bütün halinde algılanarak bir devamlılık oluşturmakta ve çok sayıda Gestalt kuramına uygun amblem tasarımı “SUN” yazısını ortaya çıkarmaktadır.
+[s.121] Yukarıda yer alan “Elettro Domestici” amblem tasarımının Gestalt ilkelerinden basitlik ve şekil-zemin ilişkisine uygun şekilde tasarlandığını görmekteyiz. Çok basit bir anlatım yardımı ile bir elektrik fişinden “E” ve “D” harfleri çıkmaktadır. Gestalt kuramına uygun amblem tasarımı
+[s.122] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
+
+# Hafta 7: Algısal yorumlama ve göstergebilim
+
+> Kaynak: hocanın UBIS'e yüklediği `7_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta algısal yorumlamayı ve göstergebilimi (semiyotik) öğreniriz. Yorumlama, uyarıcıya verilen kişisel anlamdır. Reklam örnekleriyle renk, ses ve sembollerin anlam taşıdığı gösterilir. Her pazarlama mesajı nesne, işaret ve yorumdan oluşur.
+
+
+## Algısal yorumlama
+
+- Algısal yorumlama: insanların karşılaştıkları uyaranlara anlam yüklemesi, onları anlamlandırması eylemidir. (s.4)
+- Algılama kişiden kişiye farklıysa uyaranlara yüklenen anlamlar, yani algısal yorumlama da farklıdır. (s.6)
+- Kişinin belirli bir uyarıcıya verdiği anlama **yorumlama** denir. (s.7)
+- Yorumlama kişiseldir. Örnek: aynı reklamı izleyenler farklı yorumlar yapabilir. (s.7)
+- Yorumlama farklarının nedenleri: algılama zamanındaki ilgiler, güdüler ve geçmiş deneyimler. (s.8)
+- Uyarıcı açık algılanamazsa ya da birden fazla anlam yüklenirse karmaşık olur. Tüketici kendi arzusuna göre anlam vermeye çalışır. (s.9)
+- Reklamcılıkta uyarıcıların açık ve net algılanması için çalışılır. (s.10)
+- Kişinin kendini yansıtmasını ölçen testlerde cümle tamamlama ve isimlendirilmemiş resimler kullanılır. (s.11)
+
+## Metafor örnekleri
+
+- **Mutlu Makarnacılık** reklamı: çatal kadın eline, makarna tanesi yüzüğe benzetilmiştir. "Mutlu birliktelik" evliliği çağrıştırır. (s.15)
+- **Doğanay Gıda** reklamı: limon dilimleri yelpazeye benzetilmiştir. Limon ferahlığı yelpaze ferahlığına benzetilir. (s.16)
+
+## Göstergebilim (semiyotik)
+
+- **Semiyotik (gösterge bilim)**, işaret ve sembollerle onların anlamlandırmadaki rolleri arasındaki ilişkiyi inceler. (s.19)
+- Tüketiciler ürünleri sosyal kimliklerini ifade aracı olarak kullanır. Bu yüzden göstergeler önemlidir. (s.19)
+- **Garanti Bankası** reklamında markanın yeşil rengi etrafa serpiştirilir. Renk tekrarıyla semiyotik kodlama yapılır. (s.20)
+- **ING** reklamında aynı oranda turuncu renk vardır. (s.21)
+- **Coca-Cola**'nın açılma, dökülme ve içilme sesi markayı düşündürür. (s.22)
+- **Netflix ve HBO** film ve dizi girişlerindeki açılış sesleriyle kendilerini markalıyor. (s.23)
+- **Starbucks** kahveciden "güvenli sosyal alana" dönüştü. Notta bu, semiyotik kodlamanın "kahveden ortama" dönüşmesi olarak anlatılır. (s.24)
+- **Apple** teknoloji algısını sıkıcı, monoton ve zevksiz algısından çıkarıp çekici hale getirmiştir. (s.25)
+
+## Semboller
+
+- Semboller, pazarlamacıların ürün özelliklerini aktarmada yararlandıkları güçlü bir yöntemdir. (s.26)
+- Reklamlarda pahalı otomobiller statüyü, evrak çantası iş adamlarını ifade eder. (s.27)
+- Reklam bir kültür ve tüketim sözlüğüdür. Sözcükler ürünlerdir, tanımlar kültürel anlamlardır. (s.28)
+- Her pazarlama mesajının üç bileşeni vardır: **nesne, işaret (sembol), yorum**. (s.29)
+- **Marlboro** örneğinde nesne sigaradır, imaj kovboydur. (s.29)
+- Apple'ın "Think different" (farklı düşün) sloganı ve Steve Jobs slaytta örnek olarak yer alır. (s.33)
+- Slaytta **Nike / Michael Jordan** örnek olarak yer alır. (s.34)
+
+
+## Ders notunun metni: 7_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] ALGILAMANIN DİNAMİKLERİ
+[s.2] ALGILAMANIN DİNAMİKLERİ Tüketicinin algılama işlevi altında yatan üç temel süreç bulunur. Bunlar; 1. SEÇİCİ ALGILAMA: uyarıcının etkisi (zıtlık-benzerlik, büyüklük, yoğunluk gibi) faktörler etkiler. 2. ALGISAL ÖRGÜTLEME (Gestalt Kuramı ve Algı Yasaları) : Şekil zemin, tamamlama, devamlılık, yakınlık ilkesi, benzerlik . 3. ALGISAL YORUMLAMA: Fiziksel görünüm, stereotipler (kalıp yargı) , sonuçlara sıçrama, işaret ve semboller.
+[s.3] 3. ALGISAL YORUMLAMA
+[s.4] 3.ALGISAL YORUMLAMA Algısal yorumlama insanların karşı karşıya kaldıkları uyaranlara anlam yükleme, uyaranları anlamlandırma eylemi olarak ifade edilebilmektedir.
+[s.5] İnsanlar pek çok uyaranın yer aldığı dış dünyayı anlamlandırırken karşılaştıkları uyaranları yorumlama eylemini gerçekleştirmekte, algısal yorumlama faaliyetlerine başvurmaktadır.
+[s.6] Algılamanın kişiden kişiye farklılık gösterdiği tekrar hatırladığında, uyaranlara yüklenen anlamların yani algısal yorumlamanın da kişiden kişiye farklılık göstereceği söylenebilmektedir.
+[s.7] Kişinin belirli bir uyarıcıya verdiği anlama yorumlama denir. Bir şeyi algıladığımızda ne olduğunu belirlemeye ve bizim için ne anlam içerdiğini anlamaya çalışırız. Yorumlama kişiseldir, dolayısıyla kişiler arasında farklılıklar gösterir. Örneğin, aynı reklamı izleyenler farklı yorumlarda bulunabilirler.
+[s.8] Algılama zamanındaki ilgiler, güdüler ile geçmiş deneyimler yorumlamadaki farklılıkların nedeni olarak gösterilebilir. Kişinin algısal yorumunun gerçeğe ne kadar yakın olduğu, uyarıcıların netliği ile kişinin geçmiş deneyimi, ihtiyaçları ve güdülerine bağlıdır.
+[s.9] Bazı uyarıcılar karmaşık yapıdadır ve anlam verilmede zorluklar yaratır. Uyarıcının açık biçimde algılanamaması ya da birden fazla anlam yüklenilmesi durumunda böyle bir karmaşıklık oluşur. Bu durumda, tüketici kendi arzu ve isteğine bağlı olarak uyarıcıya bir anlam vermeye çalışır.
+[s.10] Reklamcılıkta böyle bir durum çok arzu edilmez. Genellikle uyarıcıların açık ve net algılanması için çalışmalar yapılır. Ancak, ender de olsa bazı reklamcılar bu olayı reklamlarında kullanarak, kendi ürünlerinin ve markalarının reklamlarını, üzerinde çok tartışılan bir boyuta taşımak isteyebilirler. Algılama ile ilgili bazı testler aracılığıyla kişinin kendini yansıtması ölçülmeye çalışılır.
+[s.11] Örneğin, cümle tamlamalarının, isimlendirilmemiş resimlerin, cümlelerin, kişi tarafından anlamlandırılması ve yorumlanması istenir. Bu süreçte uyarıcının etkisinin yanında kişinin ihtiyaçları, istekleri ve arzularının da ortaya çıkartılmasına çalışılır.
+[s.15] Mutlu bir birliktelik Bu reklamda kullanılan metaforlara bakıldığında öncelikle reklam metniyle reklamdaki görselin arasında herhangi bir bağ olup olmadığına baktığımızda reklam fotoğrafında bir çatal olduğu görülmektedir. Çatalın toplam 4 tane dişi vardır ve 3.dişine bir makarna takılmıştır. Bu reklamda kullanılan çatal kadın eline benzetilmiştir. Sadece bu değil insanlar için önemli olan ve elin 5 parmağından 4.süne takılan evliliği simgeleyen yüzüğün çatalında toplamda 4 parmağından 3.süne takılmış gibidir. Bu durum reklam metinindeki “mutlu bir birliktelik” sözüyle desteklenmiştir. Burada benzeyen mutlu bir birliktelik benzetilen evliliktir. Çağrıştırılmak istenen evlilik yüzük kullanılarak desteklenmiş. Makarna tanesi yüzüğün yerine geçmiştir. Mutlu olmak ve mutlu makarnanın birbirlerine benzetilmesine bakıldığında mutlu makarna yemek kişileri mutlu eder düşüncesi verilmeye çalışılmıştır Mutlu Makarnacılık Reklamı
+[s.16] Marka ve logo dışında herhangi bir şey yoktur. Yandaki fotoğrafa bakıldığında yelpazeye benzetilmiş ve yelpazenin içerisine yerleştirilmiş limon dilimleri görülmektedir. Burada limon ferahlığı yelpaze ferahlığına benzetilmiştir. Yani benzeyen limon ferahlığı, benzetilen yelpaze ferahlılığıdır. Doğanay Gıda Reklamı
+[s.19] Tüketicilerin sembollerin anlamlarını nasıl yorumladığını anlayabilmek için semiyotik (gösterge bilim) alanının bilinmesi gerekmektedir. Semiyotik, işaret ve sembollerle onların anlamlandırılmadaki rolleri arasındaki ilişkiyi incelemektedir. Tüketiciler, ürünleri kendi sosyal kimliklerini ifade aracı olarak kullanmakta olduğundan, göstergeler tüketici davranışlarında semiyotik açıdan önemli bir yere sahiptir.
+[s.20] Garanti Bankası reklamı izlediğinizde etrafa özenle serpiştirilmiş markanın yeşil rengini görürsünüz. Böylelikle, renk tekrarıyla seyirciye semiyotik bir kodlama yapmaya çalışırlar.
+[s.21] ING reklamı olunca aynı oranda turuncu renk vardır. Böylelikle, renk tekrarıyla seyirciye semiyotik bir kodlama yapmaya çalışırlar.
+[s.22] Coca-Cola’nın açılma, dökülme ve içilme sesini irdeleyebiliriz bu sesi duyduğunuzda bu markayı düşünürsünüz.
+[s.23] https://www.youtube.com/watch?v=IKhxRdN2UkQ Netflix ve HBO giderek film ve dizi girişlerindeki açılış sesleriyle kendilerini markalıyorlar. https://www.youtube.com/watch?v=P_Oh7HizY5I&t=2s
+[s.24] Starbucks’ın kahveciden “güvenli sosyal alana” dönüşümü tam olarak semiyotik bir kodlama barındırıyor. Daha önceden Starbucks’a kahve almak için giden insanlar, daha sonradan Starbucks’a rahat, huzurlu ve sakin bir ortamda oturmak, dinlenmek, çalışmak, sohbet etmek vs. için gitmeye başladılar. Starbucks’ın semiyotik kodlaması “kahveden”, “ortama” dönüştü.
+[s.25] Apple da bu konudaki dahiyane markalardan bir tanesi; teknoloji algısının sıkıcı, monoton ve zevksiz algısından çıkarıp çekici, şık ve cazibeli bir hale getirdi. Bütün bu örneklerin derinindeki işlem semiyotik bir işlemdir.
+[s.26] Sembollerin kullanılması pazarlamacıların tüketicilere ürün özelliklerini aktarmada yararlandıkları güçlü bir yöntemdir. Birçok yüksek fiyatlı ürünlerin (mücevherler, lüks arabalar) pazarlanmasında, başarıyı içeren semboller ile ürün bağlantısı kurulmaya çalışılmaktadır.
+[s.27] Örneğin, reklamda kullanılan pahalı otomobiller statüyü, evrak çantası ise iş adamlarını ifade etmektedir.
+[s.28] Ürünlerin öğrenilmiş anlamları bulunmakta ve bu anlamların neler ifade edebileceğini belirleyebilmek için en etkili yöntem reklamları incelemektir. Bir bakıma, reklam bir kültür ve tüketim sözlüğüdür; sözcükler ürünlerdir, bu sözcüklerin tanımları ise kültürel anlamlardır.
+[s.29] Her pazarlama mesajının üç temel bileşeni bulunmaktadır. Bu bileşenler; Nesne, mesajın odağı olan üründür. Örneğin; Marlboro sigarası gibi. İşaret (sembol), nesnenin istenilen amacını temsil eden imajdır. Marlboro örneğinde imaj kovboydur. Yorum, üretilen anlamdır. Bu ilişki Şekilde gösterilmeye çalışılmıştır. Anlam-Sembol İlişkisi ve İlişkinin Bileşenleri
+[s.33] Apple ‘ın ‘’Think different’’ (farklı düşün) Apple / Steve Jobs
+[s.34] Nike/Michael Jordan
+[s.35] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
+
+# Hafta 8: Algı türleri: görsel, işitsel, koku, tat, dokunma
+
+> Kaynak: hocanın UBIS'e yüklediği `8_HAFTA.pdf`. Bu notlar o dosyadaki bilgilerden hazırlandı. Parantezdeki sayı dosyadaki sayfadır.
+
+Bu hafta duyu organlarına göre beş algı türünü öğreniriz: görsel, işitsel, koku, tat, dokunma. Her tür pazarlama örnekleriyle anlatılır. Renk psikolojisi, reklam müziği, koku, kör test ve kültüre göre dokunma kuralları işlenir.
+
+
+## Genel
+
+- Algılamanın ön koşulu **duyum faaliyetinin** gerçekleşmesidir. Bilgiler duyu organlarıyla toparlanır. (s.2)
+- Duyu organlarına bağlı olarak beş algı türü vardır: **görsel, işitsel, koku, tat, dokunma**. (s.5)
+
+## 1. Görsel algı
+
+- Görsel algı: görme duyusuyla fark edilen uyaranlara ilişkin bilgilerin göz aracılığıyla alınması ve algılanmasıdır. (s.6)
+- Görsel algı biyolojik olarak görme yeteneğine dayanır. Ayrıca gözle alınan verilerin yorumlanması gerekir. (s.8)
+- İnsan çok sayıda görsel nesne arasından seçim yaptığında, bakmanın ötesine geçip görme faaliyetine girdiğinde görsel algı oluşur. (s.9)
+- Görsel algının oluşmasında kişinin gereksinimleri, güdüleri, motivasyonu ve deneyimleri etkilidir. (s.10)
+- Renk algısı görsel algının bir parçasıdır. Renkler görsel unsurlara anlam yüklemede belirleyicidir. (s.11)
+- Renklerin tür, değer ve doygunluğa göre sıcaklık, soğukluk, aktiflik, pasiflik gibi psikolojik etkileri vardır. (s.12)
+- Yeşil güven ve huzur anlamına gelir. Bankaların çoğu iç dizaynda bu rengi kullanarak "paranız güvende" algısı yaratır. (s.14)
+- Kırmızı açlığı simgeler, fast-food markaları tabelada kullanır. Kahverengi daraltan bir renktir, iç konseptte masa meşguliyetini önler. (s.15)
+
+## 2. İşitsel algı
+
+- İşitsel algı: uyaranlara ilişkin verilerin kulak aracılığıyla toplanmasıdır. Müziğin ve sesin tonu, ritmi, yüksekliği algıyı şekillendirir. (s.16)
+- Chrysler uzmanları, kapı kapandığında çıkan sesin güçlü, güven veren, tok bir ses olmasının tüketiciyi etkilediğini fark etmiştir (1970'ler). (s.19)
+- İşitsel algı duygulara daha hızlı hitap eder ve akılda daha uzun kalır. Reklamlarda bu yüzden işitsel unsurlar kullanılır. (s.20)
+- Örnek: "Baba Beni Okula Gönder" kampanyası melodik bir kampanya müziğiyle sunulmuştur. (s.21)
+- Reklam müziği örneği: Dalin reklamında "Dalin hiç göz yakmaz ki" sözleri. (s.22)
+
+## 3. Koku algısı
+
+- Koku algısı: buruna hitap eden uyaranlara anlam yükleme faaliyetidir. Hafızada uzun süre kalır. (s.25)
+- Koku, yıllar sonra başka bir yer ve zamanda duyulduğunda geçmişi hatırlatır. Örnek: parfüm, sevilen birinin yemeği. (s.27)
+- Şampuan, krem, duş jeli ve parfümde koku önemlidir. Bu yüzden testerlar (numune) kullanılır. (s.28)
+- Örnek: Starbucks'ın AVM içinde yaydığı kahve kokusu. (s.29)
+- Süpermarkette sıcak ekmek kokusu verilir: gıda satışı artar, mağazaya olumlu tutum oluşur ("anne keki"). Açken daha çok alışveriş yapılır. (s.30)
+
+## 4. Tat algısı
+
+- Tat algısı: ağız aracılığıyla tadarak uyaranlara anlam yüklenmesi ve yorumlanması sürecidir. Gıda sektöründe önemlidir. (s.31)
+- Pazarlamada en çok araştırılan test **kör test (blind test)**tir. Marka ismi verilmeden algılar değerlendirilir. (s.32)
+- Tat duyusu bireysel farklılıklara göre değişir. Kültür de tat değerlendirmelerimizi etkiler. (s.33)
+- Örnek: **McDonald's** ülkelerin tadına uyum sağlar. Türkiye'de köfteli hamburger satar. Japonya'da yosun, Hindistan'da körili burger örnekleri verilir. (s.35)
+
+## 5. Dokunma algısı
+
+- Dokunma algısı: deri aracılığıyla fark edilen uyaranlara ilişkin verilerin toplanması ve anlamlandırılmasıdır. (s.36)
+- Satın almadan önce ürüne dokunma ihtiyacı duyarız. Elbise, ayakkabı, mücevher örnek verilir. (s.37)
+- Dokunmayı kolaylaştıran pazarlama stratejileri: örnek ürün dağıtımı, basılı ilana kumaş parçası, raf düzeni, ele uygun ambalaj. (s.38)
+- Kültürden kültüre dokunuş kuralları farklıdır. Bir İngiliz, Türk stili selamlaşmayı tuhaf ve fazla samimi bulur. (s.39)
+- Endonezya'da çocukların başını okşamak hoş karşılanmaz. İşaret parmağıyla göstermek orada görgüsüzlük sayılır. (s.41)
+
+## Sınıf alıştırması
+
+- Notta bir kurgu sorusu vardır: Tuğba'nın sabahında Başak Teyze'yi görmesi, kuş sesleri, poğaça kokusu, poğaçanın tadı ve kumaşın yumuşaklığı hangi algı türleridir? Cevap notta yazmıyor. Tanımlardan çıkar: görsel, işitsel, koku, tat, dokunma. (s.42)
+
+
+## Ders notunun metni: 8_HAFTA.pdf
+
+> Slaytlardan alınan ham metin. Sayfa numaraları dosyadakiyle aynıdır. Resim olan slaytların metni yoktur.
+
+[s.1] ALGI TÜRLERİ
+[s.2] ALGI TÜRLERİ Algılamanın gerçekleşmesi için ön koşul duyum faaliyetinin gerçekleşmesi, uyaranlara ilişkin bilgilerin duyu organları aracılığıyla toparlanmasıdır. İnsanlar çevresindeki uyaranlara ilişkin bilgileri görerek, duyarak, koklayarak, tadarak ve dokunarak edinmekte; ham haldeki bu bilgilerin çeşitli bilişsel süreçlerle işlenmesi ile de algılama eylemi gerçekleştirilmektedir.
+[s.3] İnsanların yazılan ya da konuşulanın dışında enformasyon alma yeteneğine sahip olması durumu dokunma, tat alma, görme, duyma, koklama gibi duyularla aldıkları sözsüz mesajların ana kaynağını oluşturmaktadır. İnsanların çevrelerinden enformasyon edinmelerini sağlayan bu duyular bizleri farklı algı türleri ile karşı karşıya bırakmaktadır.
+[s.4] Algı türlerinin neler olduğu ve kapsamlarına ilişkin bilgiler algı yönetimi açısından yönlendirici olabilmeleri açısından önem arz etmektedir.
+[s.5] Algı türleri, uyaranlara ilişkin verilerin edinildiği duyu organlarıyla bağlantılı olarak; Görsel algı, İşitsel algı, Koku algısı, Tat algısı ve Dokunma algısı olarak beşli sınıflandırma dahilinde ele alınabilmektedir.
+[s.6] 1. GÖRSEL ALGI Görsel algı; görme duyumuzla fark edebildiğimiz uyaranlara ilişkin bilgilerin göz aracılığıyla alınması ve algılanması şeklinde ortaya çıkmaktadır. Kişi, içinde yer aldığı dış çevreye ilişkin izlenimlerinin önemli bir kesitini görme yoluyla oluşturur. O halde görme duyusu, insanın çevresini algılama ve anlamlandırmasında, dolayısıyla çevresiyle ilişki kurmasından önemli bir boyut olarak karşımıza çıkmaktadır.
+[s.7] Dış çevremizdeki uyaranların algılanmasında görme duyusu oldukça önem taşımaktadır. İnsanlar genellikle uyaranları değerlendirirken ve anlamlandırırken ilk yaptıkları görme duyusuyla edindikleri bilgileri kullanmaktadır; bu nedenle dış dünyayla kurulan ilişkide görsel ilişkinin ön plana çıktığını söylemek mümkündür. Bir Resme Bakarken ki Göz Hareketleri
+[s.8] Görsel algılamanın oluşması temelde biyolojik olarak görme yeteneğinin olmasına dayanmaktadır. Görsel algının oluşması ise biyolojik bu yeterliliğin dışında göz yoluyla edinilen verilerin yorumlanması ve anlamlandırılması gereklilik taşımaktadır.
+[s.9] Çevremizde göz aracılığıyla fark edilebilecek uyaranların hepsinin algılanması durumu söz konusu olmamaktadır. İnsanlar çevresindeki çok sayıdaki görsel nesne arasında bir seçim işlemi gerçekleştirdiklerinde, bakmanın ötesine geçip görme faaliyeti ile meşgul olduklarında görsel algı meydana gelmektedir.
+[s.10] Her insanın gördüğü nesnelere aynı anlamları yüklemedikleri, aynı şekilde yorumlamadıkları dikkat çekmektedir. Bu durum görsel algının da kişiden kişiye farklılaştığını göstermektedir. Görsel algının oluşmasında kişinin gereksinimleri, güdüleri, motivasyonu ve deneyimleri de etkili olmaktadır.
+[s.11] Görsel algı kapsamında ele alınması gerekli algılardan biri de renk algısıdır. Renkler, görsel algı açısından kritik bir rol oynamakta; görsel unsurlara anlam yüklemde renkler belirleyicilik gücüne sahip olmaktadır.
+[s.12] Renklerin, tür değer, doygunluklarına göre değişen sıcaklık, soğukluk, aktiflik, pasiflik, hafiflik, uyarıcılık, dinlendiricilik, sevinç, üzüntü gibi pek çok psikolojik etkileri olduğu günümüzde de deneylerle kanıtlanmıştır. Çeşitli kültürler ve inanç sistemlerinde renklerin canlılar üzerindeki etkilerinden faydalanılmış, renklerle meditasyon teknikleri kullanılmış, bir enerji şekli olan renklerle notalar arasında bağlantı kurulmuştur. Bu nedenle renk algısı ve rengin meydana getirdiği psikolojinin iyi bilinmesi verilmek istenen anlam ve imgenin güçlenmesini sağlayacaktır.
+[s.13] Akşam güneşinin yansımaları
+[s.14] Örneğin; Yeşil renk güven ve huzur anlamına geldiğinden bankaların çoğu iç dizaynda bu rengi kullanarak ‘’Paranız güvende’’ algısını yaratır.
+[s.15] Örneğin; Kırmızı renk açlığı simgelediğinden fast-food markaları tabelalarında bu rengi kullanıyor. Üstelik kahverengi daraltan bir renk olduğundan yine fast-food markaları iç konseptlerinde kahverengiyi kullanıp sürekli bir masa meşguliyetini önlüyor.
+[s.16] 2. İŞİTSEL ALGI İşitsel algı, uyaranlara ilişkin verilerin kulak aracığıyla toplanması şeklinde ifade edilebilmektedir. Sesler genel olarak algılar üzerinde etkili olmaktadır. Müziğin ve sesin tonu, ritmi, yüksekliği ya da düşüklüğü algılarımızı şekillendirmektedir.
+[s.17] Bir köpeğin havlaması
+[s.19] 1970’li yıllarda “Chrysler” da çalışan uzmanlar otomobil galerine gelen müşterileri gözlemleyerek otomobil satışlarını arttırmada sesten faydalanabileceklerini fark etmişlerdir. Otomobil firmasındaki araştırma ve geliştirme uzmanları otomobilin Kapısı kapatıldığında çıkan sesin güçlü, güven veren ve hoşa giden tok bir ses olmasının tüketiciyi etkilediğini fark etmişlerdir.
+[s.20] Yazılı olan bir metnin algılanışıyla, aynı metnin seslendirilmiş halinin algılanması arasında farklılıklar bulunmaktadır. Bunun nedeni işitsel algının duygulara daha hızlı ve etkili biçimde hitap etmesidir. Aynı zamanda işitsel algıya hitap eden uyaranların insanların aklında daha uzun süre kalması da söz konusu olmaktadır. Bundan ötürü reklam faaliyetlerinde genellikle akılda kalıcılığı sağlamak üzere işitsel unsurlara yer verilmektedir.
+[s.21] Bir reklam faaliyeti olarak “Baba Beni Okula Gönder” kurumsal sosyal sorumluluk projesinin melodik bir kampanya müziği ile hedef kitleye sunulduğu, aynı şekilde reklamlarda da işitsel algıya hitap edecek unsurlara başvurulduğu dikkat çekmektedir. https://www.youtube.com/watch?v=WyGXNjY0sgA
+[s.22] Örneğin; ‘’Annem bana dedi ki. Hadi doğru banyoya. Dalin aldım bak sana. Gözlerini açsana. Annem bana dedi ki. Dalin hiç göz yakmaz ki. Açtım baktım gözümü. Gözlerim yanmadı ki.’’ https://www.youtube.com/watch?v=Z6GgAvc5FMM
+[s.23] Örneğin; ‘’Kötüyüm ben kötüyüm, kötüyüm, kötüyüm. Herkesi hasta ederim, ederim’’ https://www.youtube.com/watch?v=yxZFzrKHjKM
+[s.24] Örneğin; ‘’Tut, şunun ucunu döşeyelim abi. Kolonları kirişleri döşeyelim abi. Mutfağa banyoya ulaşalım abi.’’ https://www.youtube.com/watch?v=qIAKrF_PhuI
+[s.25] 3. KOKU ALGISI Koku algısı buruna hitap eden uyaranlara yönelik anlam yükleme faaliyeti şeklinde ortaya çıkmaktadır. Genellikle koku algısı hafızada uzun süre kalması ile bilinmekte; pazarlamada ve iletişim faaliyetlerinde ürünlere ilişkin koku algısı oluşturmak üzere girişimlerde bulunulmaktadır.
+[s.26] Bir gül buketinin büyüleyici kokusu
+[s.27] Koku algısının kalıcılık özelliğine sahip olması, algısal çağrışımlar yoluyla bir koku duyulduğunda bazı nesnelerin, olayların, kişilerin ya da durumların hatırlanmasına da yardım etmesi nedeniyle önem taşımaktadır. Örneğin; en sevdiğinizin kokusunu (parfüm kokusu) ya da sevdiğiniz birinin pişirdiği bir yemeğin kokusunu yıllar sonra başka bir yer ve zamanda algıladığınızda geçmişte bıraktığınız o ana gidersiniz.
+[s.28] Şampuanların, kremlerin, duş jellerinin ve parfümlerin kokusu tüketici açısından önemli olduğu için işletmeler ürünlerini magazin dergilerine iliştirilmiş testerlarıyla (numune) ya da mağazalarda deneme ürünlerinin sergilenmesiyle tüketiciler tarafından ürünün denenmesini mümkün kılmaktadırlar.
+[s.29] Örneğin Starbucks’ın avm içinde yaydığı kahve kokusu
+[s.30] Süper marketlerde sıcak ve yeni pişirilmiş ekmek kokusu süper marketin içine verilerek hem gıda ürünlerinin satışının artışı hem de mağaza ile ilgili genel olarak olumlu bir tutumun (anne keki!) sağlanması amaçlanır. (Ayrıca açken daha çok alışveriş yapılır)
+[s.31] 4. TAT ALGISI Tat algısı ağız aracılığıyla tadarak uyaranlara anlam yüklenmesi ve uyaranların yorumlanması sürecidir. Tat algısı özellikle gıda sektöründe oldukça önemsenen ve ürünlerin özelliklerinin tatları yönünden aynı kalması ya da geliştirilmesi için özen gösterilen bir algı türüdür.
+[s.32] Pazarlama uygulamalarında tat ve algı konusunda en çok araştırılan ve üzerinde en çok tartışılan konu “blind test (kör test)” diye bilinen testlerdir. Bu tür testlerde, aynı ürün kategorisindeki farklı markalar, marka ismi teste katılanlara verilmeksizin yarattıkları algılar itibariyle değerlendirilirler. Ürün ve tatma konusunda, tatma işini profesyonel meslek edinenlerden (şarap ya da dondurma eksperleri gibi), süper marketlerde ürün tattırma standlarından, restoranlarda mönüye yeni eklenen yemeklerin firma ikramı olarak sunulması gibi örneklerden bahsedilebilir.
+[s.33] Tat duyusu çoğunlukla bireysel farklılıklarla değişebilir, bir kimse için iyi olan bir tat diğeri için olmayabilir. Tıpkı diğer duyumsamalarımızda olduğu gibi, kültür tat değerlendirmelerimizi de etkiler.
+[s.34] Oreo’nun tadı
+[s.35] Bu nedenledir ki, McDonalds farklı ülkelerin tatlarına uyum çabası içindedir. Bu yüzden Japonya’da yosun çoprası, Hindistan’da körili burger, Türkiye’de ise köfteli hamburger satmaktadır.
+[s.36] 5. DOKUNMA ALGISI Dokunma algısı deri aracılığıyla fark edilebilecek uyaranlara ilişkin verilerin toplanması şeklindeki duyum faaliyeti ile başlamaktadır ve bu yolla elde edilen verilerin anlamlandırılmasıyla dokunma algısı ortaya çıkmaktadır. Dokunma algısı pazarlama ve iletişim çabalarında da ön plana çıkan bir algı türüdür.
+[s.37] Dokunma duyumuz algılarımızda son derece önemli olsa da tüketici davranışı ve dokunma ile ilgili sınırlı sayıda araştırma yapılmıştır. Oysa satın almadan önce ürüne dokunma ihtiyacı duyarız. Elbisenin, ayakkabının, mücevherin tenimizle teması önemli bir satın alma kriteridir.
+[s.38] Dokunma ile ilgili olarak algılamalarımıza yardımcı olmak üzere uygulanılan en yaygın pazarlama stratejileri; örnek ürün dağıtımı, kumaş parçalarının basılı reklamlara iliştirilmesi, süpermarket raflarında ürünlere dokunmayı kolaylaştırıcı raf düzenlemeleri, ambalaj dizaynlarının el yapısına uygun olarak tasarlanmasıdır.
+[s.39] Pazarlamada dokunma duyusu konusunda sözü edilmesi yerinde olacak bir diğer nokta ise kişisel satış ortamında dokunuşun nasıl olması gerektiğidir. Kültürden kültüre kabul edilebilir dokunuş kuralları farklılaşmaktadır ve olması gereken fiziksel teması (ilk tanışma anında tokalaşma gibi) beden dilinin kurallarını belirler. Bir İngiliz, Türk stili selamlaşmayı kesinlikle tuhaf ve gereğinden fazla samimi bulur. Kültürler arasında farklı dokunuş kurallarının varlığının bilincinde olunması ise uluslar arası pazarlama çabalarında sağlıklı iletişim kurmak açısından önemlidir.
+[s.40] Beden dili aracılığıyla ortaya çıkan dokunma algısı kültürlere göre farklılık taşımaktadır. İletişim kurarken karşımızdaki kişiye dokunma ihtiyacı da farklı kültürlerde birbirinden ayrılabilmektedir. Bir kültürde yaptığımız olumlu ve iyi niyet taşıyan bir hareket ya da dokunuş, diğer bir kültürde farklı biçimde yorumlanarak hakaret anlamı içerebilmektedir.
+[s.41] Kültürden kültüre değişen beden dili, öğrenmeyle oluşur ve kazanılmış beden dillerinin içinde değerlendirilir. Avrupa ve Amerika’da bir şeyi göstermek için işaret parmağı kullanılırken bu tür hareket Endonezya’da görgüsüzlük, bizdeyse küçümseme belirtisi olarak düşünülür. Yine Endonezya’da çocukların başını okşamak pek hoş karşılanmaz. Çocukların geri zekalı olacağına inanılır. Bu nedenle dokunma algısına hitap eden her türlü beden dili hareketinin, dokunuşun kültürden kültüre farklı biçimde algılanacağının bilinmesi ve dokunma algısına yönelik algı farklılıklarının bilinçli biçimde ele alınması, yönetilmesi gereklilik taşımaktadır.
+[s.42] Şuan sınıfça bir kurgu yapalım… Tuğba evden üniversiteye gitmek üzere çıktığında komşusu Başak Teyze’yi görmüştür. Kuşların sesini dinleyerek fırına doğru giden Tuğba, fırına girer girmez poğaçaların kokusunu fark etmiştir. Tuğba fırından aldığı poğaçayı oturduğu bankta yemiş ve poğaçanın çok lezzetli bir tadı olduğunu düşünmüştür. Üniversiteye giderken önünden geçtiği mağazada gördüğü elbise hoşuna giden Tuğba elbisenin kumaşına dokunduğunda kumaşın oldukça yumuşak olduğunu hissetmiştir. Tuğba’nın evden çıkıp üniversiteye giderken komşusu Başak Teyze’yi görmesi, kuşların seslerini dinlenmesi, fırına girdiğinde poğaça kokusunu fark etmesi, poğaçanın lezzetli bir tadının olduğunu düşünmesi ve elbisenin kumaşına dokunduğunda yumuşak olduğunu hissetmesi hangi algı türleri kapsamında değerlendirilebilmektedir?
+[s.43] KAYNAK 1. John BERGER-Görme Biçimleri-Metis Yayıncılık 2. METİNAY İNCEOĞLU-Tutum Algı, İletişim, Beykent Üniversitesi Yayınları 3. MAURICE MERLEAU PONTY, Algılanan Dünya, Metis Yayınları 4. KEVIN ROBINS, İmaj, Ayrıntı Yayınları 5. RUDOLF ARNHEIM, Görsel Düşünme, Metis Yayınları 6. RON BURNETT, İmgeler Nasıl Düşünür?, Metis
+
+---
