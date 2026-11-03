@@ -1,8 +1,8 @@
 # TUR101 Türk Dili-I: Gemini dosyası
 
-Bu dosya, TUR101 Türk Dili-I dersinin vize öncesi 7 dersinin notlarını, konuşma metinlerini ve hocanın yüklediği ders notlarından eklenen maddeleri içeriyor. Sadece bu dosyaya dayanarak cevap ver. Bilmediğin bir şeyi uydurma; dosyada yoksa 'derste geçmiyor' de. Bana kısa ve sade anlat. İstersem bana soru sorarak beni sına.
+Bu dosya, TUR101 Türk Dili-I dersinin vize öncesi 8 dersinin notlarını, konuşma metinlerini ve hocanın yüklediği ders notlarından eklenen maddeleri içeriyor. Sadece bu dosyaya dayanarak cevap ver. Bilmediğin bir şeyi uydurma; dosyada yoksa 'derste geçmiyor' de. Bana kısa ve sade anlat. İstersem bana soru sorarak beni sına.
 
-Not: Ara sınav kapsamı hocanın listesine göredir: dil ve dilin özellikleri, dil-düşünce ilişkisi, dilin gücü, dil ile ilgili terimler, kültür, kültür çeşitleri, dil-kültür ilişkisi, Türkçenin dünya dilleri arasındaki yeri, dil aileleri ve dil grupları, Türk dilinin tarihî dönemleri ve gelişmesi, ses bilgisi, şekil bilgisi. Şekil bilgisi için dosya yok, dersi işlenince eklenecek. Cümle bilgisi, yazım ve noktalama yalnız finaldedir. Her notun altındaki "Ders notundan eklenenler" bölümü hocanın UBIS'e yüklediği slayt PDF'inden alındı.
+Not: Ara sınav kapsamı hocanın listesine göredir: dil ve dilin özellikleri, dil-düşünce ilişkisi, dilin gücü, dil ile ilgili terimler, kültür, kültür çeşitleri, dil-kültür ilişkisi, Türkçenin dünya dilleri arasındaki yeri, dil aileleri ve dil grupları, Türk dilinin tarihî dönemleri ve gelişmesi, ses bilgisi, şekil bilgisi. Şekil bilgisi 3 Kasım dersinde işlendi (öğretmen o derste 'bu hafta dahil değil' dedi, koordinatör listesi dahil diyor: hocaya sor). Cümle bilgisi, yazım ve noktalama yalnız finaldedir. Her notun altındaki "Ders notundan eklenenler" bölümü hocanın UBIS'e yüklediği slayt PDF'inden alındı.
 
 Not: Konuşma metinleri otomatik yazıya çevrildi (09-22 ve 09-29 Scribe, diğerleri Whisper). Yazım hataları var. Notlardaki ad ve bilgi doğrudur. Metinde bir ad ya da tarih notlarla uyuşmazsa notlar doğrudur. Düzeltme listesi dosyanın sonundadır.
 
@@ -2542,3 +2542,347 @@ Kaynaştırma ünsüzü bunu da eledik. Evet dersimiz bu kadar. Kaynaklarımız 
 | Buddenbrooks hangi toplum | 10-06 20:12: "İngiliz toplumu" | kapakta Thomas Mann yazıyor | Doğrulanamadı, ders notunda belirtildi |
 | 7. ünite numarası | 10-27 01:07: "PDF'de 8. ünite yazıyor, yanlış" | slayt başlığı VII. ÜNİTE | 7. ünite |
 | 13 Ekim soru 3 cevabı | 10-13 39:19: "Korece Türkçe ile akraba bir dildir" yanlış denildi, açıklama çelişiyor | V s.27 | Soru alınmadı |
+
+---
+
+# DERS 2026-11-03: NOTLAR
+
+# 3 Kasım 2026: Şekil bilgisi: kök, gövde, çekim ekleri, yapım ekleri, kelime yapısı (Ünite VIII)
+
+Hafta 8. Süre yaklaşık 46 dakika. Öğretmen: Melih Can Kara. Bu not dersin sesinden hazırlandı. Bu derse ait ayrı bir ders notu PDF'i yok.
+
+## Önemli: sınav kapsamı uyarısı
+
+- Öğretmen dersin başında şunu dedi: "Sınavda sorumlu olduğunuz konular gördüğünüz gibi birinci ve yedinci üniteler arası. Yani geçtiğimiz hafta dahil bu hafta dahil değil." (ses 00:35)
+- Koordinatörün 29 Eylül listesi ise **Şekil Bilgisi**'ni içeriyor. İkisi çelişiyor. Dikkatli seçenek: Şekil Bilgisi'ni de çalış, ama önceliği 1-7. ünitelere ver. Emin olmak için hocaya sor.
+
+## Sınav bilgisi (dersin ilk dakikaları)
+
+- Ders Şekil Bilgisi'ni (Ünite VIII, 8. hafta) işledi: kök, gövde, çekim ekleri, yapım ekleri ve kelime yapısı. (ses 00:01)
+- Sınav bilgisi: Türk Dili ve Atatürk İlkeleri sınavları aynı oturumda, her biri 20'şer dakikadır. Dersin sonunda çözülen 4 örnek soru sınav tarzıdır. (ses 00:35)
+
+## Kök ve gövde
+
+- Şekil bilgisi, bir dildeki kelime köklerini ve eklerini inceleyen dil bilimi dalıdır. Eklerin anlamını, görevini, türetme ve çekim özelliklerini de inceler. (ses 02:46)
+- Kök: bir sözcüğün parçalanamayan, anlamlı en küçük kısmıdır (masa, çiçek, duymak, bakmak, yürümek). Kökler ikiye ayrılır: isim kökleri (varlık ve kavramlar) ve fiil (eylem) kökleri. (ses 03:22)
+- Gövde: kökün yapım eki almış hâlidir. Örnek: sev- fiil kökü, yapım eki gelince isim olur. Güzel isim, güzelleşmek isimden fiil olmuş bir gövdedir. (ses 04:23)
+- İsim kökleri tek başlarına kelime olarak kullanılabilir (kul, söz, dağ, masa, yüz). Fiil kökleri tek başlarına kullanılamaz. (ses 04:55)
+
+## İsim çekim ekleri
+
+- İki çeşit ek vardır: çekim ekleri (isim ve fiil çekim ekleri) ve yapım ekleri (isim ya da fiil köklerini başka isim ya da fiillere dönüştürür). (ses 05:25)
+- Çekim ekleri yeni kelime, yeni anlam türetmez. Kelimeye cümlede görev kazandırır ve diğer kelimelerle ilişkisini belirler. Yeni kelime türetmek yapım ekinin işidir. (ses 06:26)
+- Çokluk eki (-lar, -ler) her zaman isme gelir, fiile gelmez. (ses 06:59)
+- İyelik eki bir kişiye ya da varlığa aitlik bildirir ve tamlanan ekidir: silgim, silgin, silgisi. Ünsüzle biten kelimede 3. tekil -ı/-i/-u/-ü, ünlüyle biten kelimede -sı/-si/-su/-sü gelir (araya kaynaştırma ünsüzü girer). (ses 07:30)
+- İyelik ekinin çokluk şahısları: bizim silgimiz, sizin silginiz, onların silgileri. 'Onların silgileri' çokluk ekiyle karıştırılmamalı: aitlik anlamı vardır. (ses 08:01)
+- Hal ekleri isimleri fiillere, edatlara ve başka isimlere bağlayıp cümlede görev kazandırır. İsmin bu ekleri alarak yüklendiği göreve ismin hâlleri denir. (ses 08:33)
+- Yalın hâl: hiçbir hâl eki almamış sözcüktür. Yalın hâldeki sözcük çokluk ya da iyelik eki alabilir (kitaplar, sizin arabanız), yeter ki hâl eki almasın. (ses 09:12)
+- Belirtme (yükleme) hâli eki -ı/-i/-u/-ü: 'neyi, kimi?' sorusuna cevap verir ve sözcüğü belirtili nesne yapar (masayı taşıdık, Kerem'i kaldırdı). (ses 10:18)
+- Yönelme (yaklaşma) hâli eki -a/-e: 'nereye, neye?' sorusuna cevap verir. Zaman, amaç, sebep gibi başka görevleri de olabilir (akşama gelecek). (ses 11:52)
+- Bulunma hâli eki -da/-de/-ta/-te: 'nerede, kimde?' sorusuna cevap verir. Konum dışında zaman da bildirebilir (ileride yapacak). (ses 14:01)
+- Ayrılma hâli eki -dan/-den/-tan/-ten: 'nereden, kimden?' sorusuna cevap verir. 'de/den' sorulara cevap vermiyorsa başka bir görevde kullanılmıştır. (ses 15:08)
+- İlgi hâli eki (tamlayan eki) -ın/-in/-un/-ün/-nın...: isim tamlaması kurar. Evin bahçesi: -in tamlayan eki, -si iyelik (tamlanan) ekidir. (ses 17:22)
+- Vasıta hâli (-la/-le, ile): 'kimle, neyle?' sorusuna cevap verir. Eşitlik hâli -ca/-ce/-ça/-çe: 'nasıl, kime göre?' sorusuna cevap verir (bizce, kardeşçe, yavaşça). Sert ünsüzden sonra -ça/-çe olur. (ses 18:55)
+
+## Fiil çekim ekleri
+
+- Fiil çekim ekleri kip ekleri ve şahıs ekleridir. Bildirme (haber) kipleri zaman bildirir: şimdiki zaman (-yor, -makta/-mekte), geniş zaman (-r; olumsuzu -maz/-mez), duyulan geçmiş zaman (-mış), görülen geçmiş zaman (-dı), gelecek zaman (-acak/-ecek). (ses 20:30)
+- Duyulan geçmiş zamanda olayı anlatan kişi olaya şahit olmamıştır. Görülen geçmiş zamanda olayı anlatan kişi olaya şahit olmuştur. (ses 21:06)
+- Tasarlama (dilek) kipleri eylemin henüz gerçekleşmediğini, tasarı hâlinde olduğunu bildirir: gereklilik (-malı/-meli), şart (-sa/-se), istek (-a/-e), emir. (ses 21:37)
+- İstek eki -a/-e fiile gelir, yönelme hâli eki -a/-e isme gelir. İkisi karıştırılmamalı. (ses 22:10)
+- Şahıs ekleri fiildeki hareketi şahsa bağlar, iyelik ekinin fiil hâlidir. 1. tekil -m/-ım (geldim), 2. tekil -sın (geliyorsun), 3. çokluk -lar (geliyorlar). 'Çokluk şahıs eki' fiile gelir, 'çokluk eki' isme gelir. (ses 23:11)
+- Şahıs ekleri tasarlama ekleriyle de kullanılır: gelsek (gel + şart -sa + 1. çokluk -k), gelmeliyiz (gel + gereklilik -meli + y + 1. çokluk -iz). (ses 25:44)
+- Soru eki mı/mi/mu/mü her zaman ayrı yazılır, ses uyumuna uyar ve isimden de fiilden de sonra gelebilir (doğru mu, özlüyor muyum). (ses 26:14)
+
+## Kelime yapısı: basit, türemiş, birleşik
+
+- Türkçe sondan eklemeli bir dildir. Bütün ekler kelimenin ya da kökün sonuna gelir. (ses 27:17)
+- Yapıya göre kelimeler üçe ayrılır: basit (yalın), türemiş ve birleşik kelimeler. (ses 27:17)
+- Basit (yalın) kelimeler yapım eki almamış kök hâlindeki kelimelerdir (masa, şişe, din, hece, kelime, sus). Yalın hâl ile karıştırılmamalı: yalın hâl hâl eki almamış demektir. (ses 27:49)
+- Türemiş kelime, kök ya da gövdeye yapım eki gelerek oluşur. Dört yol vardır: isimden isim, isimden fiil, fiilden isim, fiilden fiil. (ses 28:21)
+- İsimden isim: duygu > duygusuz, zeytin > zeytinlik. Fiilden isim: -mak/-mek (konuşmak), -ma/-me, -gın (bezgin, bitkin), -ış/-iş/-uş/-üş; çakmak, yemek, ekmek kalıplaşmış örneklerdir. (ses 28:55)
+- İsimden fiil: -la/-le (baş > başlamak), sarı > sararmak. Önemli ayrım: az isimken azalmak fiildir. (ses 29:27)
+- Fiilden fiil yapım ekleri: -n (kendi kendine yapma: gezinmek, süslenmek), -l (edilgen: kesilmek, görülmek; kimin yaptığı belli değil), -ş (birlikte yapma: uçuşmak, tartışmak), -r (yaptırma, oldurma: kaçırmak, içirmek). Öğretmen -ma/-me olumsuzluk ekini de bu başlıkta gösterdi. (ses 29:58)
+- Birleşik isimler genellikle belirtisiz isim tamlamasıdır: hanımeli, yavruağzı. Özel isim olarak kullanılan birleşik isimlerde ilgi ve iyelik eki düşer: Edirne'nin kapısı yerine Edirnekapı. (ses 32:16)
+- Birleşik kelimeler söz varlığını genişletmenin önemli bir yoludur. (ses 32:52)
+- Bazı birleşik isimler sıfat görevi üstlenir (camgöbeği vazo, nur topu bebek, eli sıkı kadın, iki canlı kadın). Birleşik fiillerin çoğu yardımcı fiille oluşur: teşekkür etmek, yardımcı olmak. (ses 34:02)
+
+## Dersin sonunda çözülen 4 örnek soru (ses 36:07-43:51)
+
+- **Soru 1:** Altı çizili sözcüğün aldığı ek işlevi bakımından farklı olan cümle. Cevap: "Kimsesizlere sokağın lambası eşlik ediyor". Sokağın = **ilgi hâli (tamlayan) eki**. Diğerlerinde (senin evin, elbisen, baban, sevdan) **iyelik eki** var. (ses 36:37)
+- **Soru 2:** -lar ekinin işlevi farklı olan cümle. Cevap: "dağa tırmandılar". Burada -lar fiile gelen **çokluk şahıs eki**. Diğerlerinde isme gelen **çokluk eki** var (yıllarca, yazları, kitapları). "Oturanlar" isimleşmiş sözcüktür, çokluk ekidir. (ses 38:52)
+- **Soru 3:** Yapı bakımından diğerlerinden farklı sözcük. Cevap: **başarabilirdi** (başar-abil-: yardımcı fiille **birleşik fiil**). Diğerleri fiilden isim türemiş kelimedir: dalgın, soru, duygu, büyük. (ses 40:44)
+- **Soru 4:** Yapım eki almamış sözcük. Cevap: **gözlerimden** (göz + çokluk + iyelik + ayrılma hâli: hepsi çekim eki). Yorgun (yor-gun), süzülsün (-l), örülmüş (-l), görünüyor (-n) yapım eki almıştır. (ses 43:21)
+
+## Öğretmenin sınav ipuçları (ses 43:51-45:25)
+
+- Sorular dersin sonunda çözülen örnek sorular gibi olacak. "Çok abartılı şeyler beklemeyin."
+- Uzun kompozisyon sorusu olmayacak. Gerekirse **3-4 cümlelik bir paragraf** verilebilir.
+- "20 soruyu ben 4-5 dakikada yapıyorum. Sizin de normal şartlarda 10-15 dakikada yapıyor olmanız lazım. 20 dakika veriyoruz."
+- "Benim anlattıklarıma bakın. Yeterli. Sadece pdf'den çalışırsanız olmaz."
+- Dil ailelerinden "Uralı Altay'ı bilin". Çok zor soru olmayacak.
+
+
+---
+
+# DERS 2026-11-03: KONUŞMA METNİ
+
+# TUR101 2026-11-03 konuşma metni
+
+Kaynak: Whisper large-v3-turbo (tr), yerel. Süre işaretleri [dk:sn].
+
+[00:01]
+Aydınlığımız başladı. Herkese merhaba. Türk Derseniz 8. ünitesiyle bugün sizlerleyiz. Ayın 15'inde sınavınız var. Ona dair bir bilgilendirme yapalım. Online olarak yapılacak üniversitedeki bilgisayar odalarında girmiş sorunuz var. Hepsi şıklı. Çoktan seçmeli yazılı değil yani. Asıl Türk Yelkeleri ve İnkılap tarihleri aynı saatte olacak.
+
+[00:35]
+İki sınavına da aynı oturumda giriyorsunuz arkadaşlar. İkisinin de süresi 20'şer dakika. İstediğinizden başlayabiliyorsunuz ama birini bitirmeden diğerine geçmeyin. Her iki dersin sınavına girecek olan arkadaşlar her iki derste aynı oturumda yapılıyor. Saat 1'de ise her ikisine 1'de giriyorsunuz. Sınavda sorumlu olduğunuz konular gördüğünüz gibi birinci ve yedinci üniteler arası. Yani geçtiğimiz hafta dahil bu hafta dahil değil arkadaşlar. Bu hafta sekizinci hafta.
+
+[01:08]
+Bu biz kullanıcı adınızı ve şifrenize giriş yapıyorsunuz. O yüzden mutlaka kontrol edin arkadaşlar. En sık yaşadığımız problem bu oluyor. Kullanıcı adının şifrenizi mutlaka ve mutlaka tekrar tekrar kontrol edin. Sınava 10 dakika ve üstü geç kalmanız durumunda. Sistem otomatik olarak kapınıyor. O yüzden mutlaka ve mutlaka sınavdan önce gelin arkadaşlar. Sınav salonunuza iyi bakın. Bazen onun kargaşası da oluyor.
+
+[01:40]
+Mutlaka sınav salonunuzu öğrenin. Ve mutlaka saat 12'de ise sınavınız. Daha erkenden gelmeye dikkat edin. Gayret gösterin. 10 dakikadan sonra bizim yapabileceğimiz hikaye. Hiçbir şey olmuyor. Sistem otomatik kapanıyor arkadaşlar. Giremiyorsunuz. Sınav başladıktan sonra zaten stres oluyorsunuz. Geç kaldığımız durumda hepten o stres artıyor. Bu sefer çok fazla giremeyen öğrenci oluyor. O yüzden mutlaka ve mutlaka erkenden gelmeye gayret edin.
+
+[02:12]
+Bu biz kullanıcı adınızı, şifrenizi tekrar tekrar kontrol edin. Bazen işte şey oluyor. Kayıtlı oluyor. Unutuyorsunuz şifreyi falan. Onlara tekrar tekrar bakın. Dediğim gibi Atatürk Gelir ve İnkılam dersiyle birlikte olacak sınav. İkisine de girecek olan öğrenciler istediğinden başlayabiliyor. Her ikisi de aynı oturumda 20'şer dakika süreleri oluyor. Her katta Türk Dili Koordinatörlüğü'nden bir hoca olacak. Kat sorumlusu olarak bir sorunuz olduğu takdirde zaten biz katları dolaşıyor olacağız.
+
+[02:46]
+Bu şekilde özetleyelim. Şimdiden hepinize başarılar diliyorum. Olay gelsin. Evet bu haftaki konu başlıklarımız gördüğünüz gibi şekil bilgisi temel kavramları, çekim ekleri, kelime, ekip, mu olmak üzere dersi işleyeceğiz. Ne diyor? Şekil bilgisi bir dildeki kelime köklerini ve eklerini inceleyen dil bilimi dalıdır. Ek ve kökleri incelerken aynı zamanda bu ek ve köklerin kelimelerin nasıl ve hangi yolla bağlandıkları eklerin anlam ve görevleri,
+
+[03:22]
+küretme ve çekim özellikleri üzerinde de duruyor arkadaşlar. Şekil bilgisi. Evet, kök nedir ile başlayalım. Nedir kök? Bir sözcüğün parçalamayan anlamlı en küçük kısmına kök diyoruz. Bunlar kelimelerin yapısında yer alan bütün ekler çıkarıldıktan sonra daha küçük parçalara ayıramadığımız ve kelimelerin temel anlamlarını oluşturan öğeler arkadaşlar. Tamam mı? Daha ufağına bölemiyoruz.
+
+[03:52]
+Masa, masadan daha azına gitmiyor. Çiçek, duymak, bakmak, yürümek bunların hepsi kök. En küçük anlamlı yapı birimi arkadaşlar. Dildeki. bunlar ikiye ayrılıyor. Ne bakımdan? Varlıkları ve kavramları karşılayan kökleri. İkisi kökleri diyoruz. Hareketleri karşılayan kökleri de tabii ki fiil kökleri ya da eylem kökleri diyoruz arkadaşlar. Kökün yapıp eki almış haline ise
+
+[04:23]
+ne diyoruz? Ona da gövde diyoruz. Mesela hayat sevgiyle güzelleşir diyor. Burada kökümüz nedir arkadaşlar? Aslında sevmek. Sev kökü, fiil kökü. Ne oldu bu? Bir yapım eki geldi ve isim halini aldı. Ne oldu? Bu şekilde gövde halini aldı. Ne diyoruz? Kökün yapım eki almış haline gövde diyoruz arkadaşlar. Mesela bu fiilden isimde.
+
+[04:55]
+Güzelleşir. Güzel isim. Güzelleşmek nedir? İsimden fiil olmuş bir gövdedir. Ne diyor? Türkçe kelimelerde kökler isim ve fiil kökü olmak üzere iki grupta incelenir. Demin dedik zaten. İsim kökleri tek başlarına kelime olarak kullanılabiliyor arkadaşlar. Mesela kul, söz, dağ, masa, yüz bunlar tek başına kelime olarak anlamlı bir şekilde kullanılabiliyor.
+
+[05:25]
+Ama fiil kökleri tek başlarına kullanamıyorlar arkadaşlar. Mutlaka bir nesneye, şahsa, zamanı bağlanmaları gerekiyor. Devam edelim. Eklere geçelim. Bildiğiniz gibi iki çeşit eklerimiz var. Çekim ekleri ve yapım ekleri. Bunlar da kendi içlerinde çekim ekleri isim ve fiil çekim ekleri. Yapım ekleri de isim ya da fiil köklerini farklı isimlere ya da fiillere dönüştüren
+
+[05:56]
+ekler olmak üzere ayrılacak. Devam edelim. Çekim ekleriyle başlayalım. Demin de belirttiğim üzere isim çekim ekleri ve fiil çekim eklerimiz var. Bu şekilde hepsini tek tek işleyeceğiz arkadaşlar. Çok uzatmadan zaten bildiğiniz şeyler isim çekim ekleriyle başlayalım. İsim sıfat, zamir ve edat gibi isim soylu sözcüklere gelerek onlara cümlede görev ve anlam kazandıran eklerdir diyor. Çekim eklerinin olayı neydi?
+
+[06:26]
+Çekim ekleri yeni bir kelime, yeni bir anlam türetmiyor. bunu yapım ekleri çekim eki ne yapıyor? bir kelime, bir sözcü isim ya da fiil olabilir şu an isimdeyiz sıfat zamir edat gibi isim soru sözcüklere gelerek diyor farklı bir görev kazandırıyor diğer kelimelerle etkileşimlerini bunlar belirliyor arkadaşlar isim çekim eklerine de ilk olarak neye bakıyoruz? çokluk eki ya da diğer adıyla çoğul ekine bakıyoruz sayı bakımdan çokluk bildiren eklere
+
+[06:59]
+çoğul eki, çokluk eki diyoruz. Tabii ki larlar ekleriyle ifade ediyoruz. İsme gelmesine dikkat edin arkadaşlar. Çokluk eki. Larlar birazdan farklı şekilde de göreceğiz. Aklınız karışmasın. Çokluk eki her zaman ve her zaman isme geliyor. Fiile değil. İyilik eklerine baktığımızda bu da nedir? Bir aitlik bildirecek arkadaşlar. İsme ekleniyor. Eklendiği isme
+
+[07:30]
+bir aitlik bildirecek. Bir kişiye ya da varlığa ait olduğunu bildiren eke iyilik eke diyoruz arkadaşlar. Bunlara aynı zamanda tamlanan eki de deniyor. Gördüğünüz gibi ekler. Bu şekilde birinci şahıs. Silgim M şeklinde ikinci şahıs. Benim silgim. Senin silgin. Üçüncü teklif şahıs da şu şekilde oluyor. Ünsüzle biten kelimelerde
+
+[08:01]
+I, I, U, D geliyor Ünlüyle biten kelimelerde ise Sı, Si, Su, Su geliyor arkadaşlar Mesela onun silgisi onun suyu derken ne oluyor? Araya bir kaynaştırma ünsüzü koymak zorunda kalıyoruz Çokluk eklerine baktığımızda birinci şahıs da bizim silgimiz şeklinde. İkinci
+
+[08:33]
+çokluk şahısta sizin silginiz şeklinde. Üçüncü şahısta da onların silgileri şeklinde. Larileri şeklinde olacak arkadaşlar. Çokluk ekiyle bunu karıştırmayın. Onların anlamı katması lazım. Onlara ait bir şeyden bahsediyor olmamız lazım. Çokluk ekiyle karıştırmayın. Larileri şeklinde ifade ediyoruz. Hal eklerine baktığımızda isimleri isimlere, fiillere, edatlara bağlayan diğer kelimelerle ilişki kurarak isimlerin cümlede görev kazanmasını sağlayan eklere isim hal ekleri denir.
+
+[09:12]
+İsimlerin bu ekleri alarak yüklendikleri görevlere ismin halleri denir. Hal ekleri isim sorulu sözcüklere gelerek onları çoğunlukla eylemlere bağlar, elimin bulunduğu, yöneldiği, ayrıldığı yeri belirtir diyor. Zaten şu en alttaki yer hangi hal eklerinin olduğunu söylüyor. Belirtme, bulunma, ayrılma gibi hal eklerimiz mevcut. Onlara birazdan geleceğiz. Önce yalın hale bakalım. Sözcüğün hal eki almamış halidir diyor arkadaşlar. Yalın hal. Sözcüğün hiçbir şekilde hal eki almamış hali.
+
+[09:46]
+Bulunma, da, de, dan, den, ı, i, u, ü, belirtme, hal eki. Bunların hiçbirini almayacak arkadaşlar. Çiçek, arabanız, uçak, kitaplar mesela burada ne var? Çokluk eki var. Burada ne var? Sizin arabanız. Ne var? Burada bir iyilik eki var. Ne diyor? İkinci ve dördüncü sözcükle göründüğü gibi yalın haldeki bir sözcük iyilik veya çokluk eki alabilir. Yeter ki ne almayacak? Hal eki almayacak arkadaşlar. Hal eklerine de başlayalım.
+
+[10:18]
+Yükleme yer adıyla belirtme hali eki. İsim soylu sözcüklere eklenen yükleme hali eki. I, I, U, Ü şeklindedir. Bunu nasıl bulacağız arkadaşlar? Yükleme. Soru soracağız. Hangi soruları soracağız? Neyi, kimi sorusunu soracağız? Neyi, kimi sorusunu sorduğumuzda bize cevap veriyorsa bu nedir? Belirtme hali ekidir. Eklendiği sözcüğü de ne yapacak? Belirtili nesne haline getirecek. Mesela masayı cam kenarına taşıdık.
+
+[10:52]
+Taşıdık. Yüklem. Kim? Biz taşıdık. Biz gizli özle. Biz neyi taşıdık? Masayı taşıdık. Neyi sorusuna cevap verdi. Aynı zamanda neyi? Belirtili nesneyi bulmak için de soruyoruz. Dolayısıyla ne oldu? Belirtili nesne görevi de almış oldu. Cümlenin öyesi olarak belirtili nesne halini almış oldu. Öğretmen Kerem'i tahtaya kaldırdı. Tahtaya kaldırdı. Yüklem. Kimi kaldırdı tahtaya?
+
+[11:22]
+Kerem'i kaldırdı. Kimi sorusuna cevap verdiği için ne diyeceğiz? Kerem'i diyeceğiz. Belirtme hali eki gelmiştir diyeceğiz. Evi kiraya verecekmiş. Kiraya verecekmiş. Yüklem neyi verecekmiş? Evi verecekmiş. Yükleme sorduğumuz neyi sorusuna cevap verdiği için ne diyoruz buna? Belirtme hali ekidir buradaki i i. Neyi kimi sorusunu soracağız arkadaşlar.
+
+[11:52]
+Yönelme yaklaşma hali eki, isim soycu sözcüklere eklenen yönelme hali eki a e şeklindedir. Bu eke yaklaşma hali eki de denir diyor. Eylemin yöneldiği yeri belirtecek. Bunun haricinde asıl görevi eylemin yöneldiği, yaklaştığı yeri belirtmek. Bunun haricinde hile amaç, sebep ilgisiyle bağlama, hile hareketin yerini belirleme, zarf görevinde ikilemeler kurma, edatlı grupları oluşturma gibi daha birçok farklı görevde yükleniyor arkadaşlar.
+
+[12:28]
+Siz bunların görevlerini bilmek zorunda değilsiniz. Ama gördüğünüzde buna yönelme, yaklaşma hali eki diyebilmeniz gerekiyor. Onda nasıl olacağız? Yine yükleme soru soracağız. Çocuk telaşla odaya girdi. Nereye girdi? Odaya girdi. Asıl kullanımı budur. Neye, nereye? Şekilde soru soracağız. Ve yönelme hali ekini bulacağız. Misafirler akşama gelecek dermiş. geleceklermiş yüklem
+
+[12:59]
+ne zaman geleceklermiş akşama geleceklermiş arkadaşlar ne dedik mesela filin hareketin filin hareketin yerini dedik sebep sonuç oluşturma dedik zaman dedik burada da zaman söylüyor misafirler akşama geleceklermiş ne zaman akşama asıl görev bu nereye neye sorusunu sorduğumuza cevap verecek ama bunun haricinde bir de farklı Bu sorulara da cevap verebiliyor olması lazım.
+
+[13:31]
+O an satıcıyla göz göze geldim. Nasıl geldim? Göz göze geldim. Nereye? Şeklinde esas itibariyle sorumuzu soruyoruz. Nereye? Neye? Bunun haricinde yine farklı anlamlarda kazanabilir diyoruz. Ama zaten kelimeyi parçaladığınızda ortaya çıkıyor arkadaşlar. O da yardımcı ünsüz. Ne oldu bu? Yönelme hali 2. oldu. Akşam kelime
+
+[14:01]
+kökümüz. Buradaki anedir. Ne olacak? Yönelme hali eki. Kelimeyi ekine köküne parçaladığınızda zaten ortaya çıkıyor. Bulunma hali eki dağ de taht şeklinde ne yapıyor? Konum bildiriyor. Konum belirtiyor. Ama bulunma hali ekinin yüklendiği anlam sadece konum ifade etmek değil. Aynı zamanda yine Yine zaman bildirme, zarf türleri oluşturma, aracı olma, karşılaştırma gibi yine birçok anlamı içerisinde barındırıyor arkadaşlar.
+
+[14:36]
+Dediğim gibi bunların hangi anlamları barındıklarını bilmeniz gerekmiyor. Ama sadece lokasyon konum bildirmediğinde bilin diye söylüyorum. Sadece nerede olduğunu söylemiyor bize. İleride başarılı işler yapacak bu çocuk. Mesela ne zaman yapacak? İleride yapacak. Nerede değil. Sorduğumuz soru ne zaman? İleri de. Nedir bu? Bulunma hali 2. Okulda yaşadığı olayları evde asla anlatmaz.
+
+[15:08]
+Nerede? Okulda yaşadığı. Burada tam olarak kendi anlamıyla kullanılmış. Önce nerede sorusuna cevap verecek arkadaşlar. Nerede? Kimde sorusuna cevap verecek. Bunun haricinde bir daha de görüyorsak dediğim gibi farklı görevlerde kullanılmış olabilir. Ayrılma ahli ekine baktığımızda danden tanten şeklinde bu da bir yerden çıkma bir ayrılma bildirecek. Bu ekin eklendiği cümleye yine kattığı farklı anlamlar var.
+
+[15:42]
+Nedir bu anlamlar? Bir sebep sonuç ilişkisi, bir nesneye ait olma, karşılaştırma, yer yön gösterme gibi farklı anlamlar oluşturabiliyor. Mesela bütün sevgileri atıp içimden varlığımı yalnız ona verdim ben. El verir ki bir gün bana derinden, ta derinden bir gün bana geldi desin Ahmet Kıbsi Tejer. İçimden. Nereden? İçimden. Bunda da esas sorumuz ne olacak? Nereden? Kimden? Olacak arkadaşlar. Zaten yükleme sorduğumuz soruya göre cevap da alıyoruz.
+
+[16:16]
+Nerede? Kimde? Sonunda ne var arkadaşlar? D var. Nerede? Kimde? Sonda ne var? D var. O zaman cevapta ne olacak? Yine aynı şekilde bulunma hali olacak. Nereden? Kimden? O zaman ne olacak? Cevapta yine ayrılma hali 2 olacak. Atıp içimden. Nereden? İçimden. Bana derinden. Nereden? Derinden.
+
+[16:49]
+Aynı şekilde. Nereden, kimden sorularını sorduğunuzda bize cevap verecek. Ama buna eğer bu şekilde cevap vermiyorsa ve bizden,den görüyorsak bu da nedir? Farklı bir görevde kullanılmış anlamına geliyor. Yani burada den ya da deyi gördük bir kelimede. Ekine köküne parçalık, de ya da den çıktı, ayrılma ya da bulunma hali sadece kendi anlamlarıyla olmayabilir. O yüzden ne yapmak gerekiyor? farklı şekillerde de buna hazırlıklı olmak gerekiyor.
+
+[17:22]
+İlgi hali eki isim soylu sözcüklere eklenen ilgi hali eki ın in nın nın nın şeklindedir diyor. Bu diğer çekim ekleri yani şurada gördüğümüz diğer çekim ekleri altında başta altında ilgi hali eki bakıyoruz. Diğer çekim ekleri bazen hal ekleri kategorisinde de değerlendirilebiliyor arkadaşlar. Ama karışıklık olmaması için bu üç ek kategorisine ayrı değerlendirmek bizim için daha kolay
+
+[17:53]
+olacak. Bunlar da isimleri isimlere bağlayan, isim tamlaması kuran, iki isim arasında ilgi kuran eklere ilgi hali eki diyoruz arkadaşlar. Tamamen isimlerle ilişkili olacak. Bunlara aynı zamanda tamlayan eki de diyoruz. Tamlayan eki. Evin bahçesi mesela evin bahçesi buradaki si ne oldu? İyelik eki oldu. Nedir iyelik ekine? Aynı zamanda tamlanan eki dedik. Burada ne var?
+
+[18:23]
+Evin bahçesi derken ne oldu? Burada bir tamlama oluşmuş oldu. Tamlamadan da buradaki in tamlayan eki yani diğer adıyla ilgi hali eki. Buradaki si de ne oldu arkadaşlar? İyelik eki yani tamlanan eki oldu. Evin bahçesi masanın üstü bizim evimiz. Gördüğünüz gibi hep bir anlam ilişkisi kurmak üzerine. Sonraki kelimelerin hep bir anlam ilişkisi içerisine giriyor.
+
+[18:55]
+ın in, nın nin, nun nün şeklinde ilgi hali ekini ya da diğer adıyla tanılayan ekini görüyoruz. Vasta durumu yani çok da anlatmaya gerek yok aslında ile şeklinde ya da yardımcı ünsüz kaynaştırarak yele şeklinde. Bir aracı, eyleme aracı olarak ya da birlikte kullanıldığını belirtmek için kullandığımız ek, sevgili
+
+[19:25]
+aileyle, Aliyle, arabayla gibi neyle sorusunu soruyoruz ya da burada kimle sorusunu soruyoruz. Eşitlik durumu bu ek cc, çç şeklindedir. Burada da tabii ki asıl görevi eşitlik ama bunun haricinde benzerlik karşılaştırma miktar gibi anlamlarda katabiliyor arkadaşlar. Bizce. Nasıl? Kime göre? Bizce. İnsanca, akıllıca,
+
+[19:57]
+kardeşçe. Nasıl yaşayın? Kardeşçe yaşayın. Yavaşça, yavaşça ilerliyor. Nasıl ilerliyor? Yavaşça ilerliyor gibi. Buradaki cace, çarçe. Şunların da nasıl çarçeye döndüğünü hatırlarsınız. sert dünsüzlere gelince fıstıkçı şapa gelince ne oluyordu? Bu şekilde gelen ek de sertleşiyordu. Fıstıkçı şap gördüğünüz gibi fıstıkçı şaptaki şeyle bitmiş. Dolayısıyla ne olmuş? Çağ'ya dönüşmüş arkadaşlar.
+
+[20:30]
+Fil çekim eklerine baktığımızda burada da şekil ve zaman kip ekleriyle başlayacağız. Öncelikle bildirme haber kiplerini göreceğiz. Bunlar bir zaman anlamı taşıyan kipler. Bu kiplerle çekimlenen fiillerin ne zaman gerçekleştiği bellidir arkadaşlar. Şimdiki zaman nedir? Olayın şu anda hali hazırda yapılmakta olduğunu belirtmek. Çoğu zaman yorla karşılıyoruz ama gördüğünüz gibi matta, mekteyle de karşılıyoruz arkadaşlar.
+
+[21:06]
+Şu anda oturmaktayım, şu anda konuşmaktayım şeklinde ifade edebiliriz. Geri zaman eylemi rutin olarak yapıldığını, bir alışkanlık olduğunu ya da her zaman yapıldığını ifade eder. R, R, R şeklinde. Olumlusu, olumsuzu ise mazmez şeklinde arkadaşlar. Duyulan geçmiş zaman eylemi geçmişte yapıldığını ama eylemi anlatan kişinin bu duruma şahit olmadığını gösteren ek. Mışmış, muşmuş şeklinde.
+
+[21:37]
+Görülen geçmiş zaman yine geçmişte yapılan eylemin anlatan kişinin bu duruma şahit olduğunu ifade ediyor. Dıdı, tutü, tıdı şeklinde. Gelecek zamanda eylemin henüz gerçekleşecekliği olacağını bize ifade edecek. Acak, ecek şeklinde ikimiz mevcut. İkinci olarak tasarlama kiplerine bakıyoruz. Tasarlama kipleri eylemin henüz gerçekleşmediğini, tasarı halinde olduğunu bildiren kiplerdir diyor.
+
+[22:10]
+Gereklilik kipleri nedir bu? Malı, meli, yapmalı, etmeli bir gereklilik ifade edecek. Şart kipi sağa S ile karşılıyoruz. İstek kipi A, E ile karşılıyoruz. Ama bunu sakın yönelme ile karıştırmayın. Yönelme neydi? İsme geliyor. tasarlama burada istek kipine fiile geliyor arkadaşlar. Gönelme isme geliyor.
+
+[22:40]
+İstek fiile geliyor arkadaşlar. Şu an zaten hangi kısımdayız? Fiil çekim eklerindeyiz. Emir kipi bu kipin ekleri şahıslara göre değişmektedir diyor. Mesela birinci teklikte yapayım. İkinci teklikte yap. Üçüncü teknikte de aynı şekilde o yapsın şeklinde değişiyor. Biraz da zaten burada göreceğiz. Çağız ekleri bu eklerde
+
+[23:11]
+fiillerdeki hareketi zamana göre şahsa bağlıyor arkadaşlar. İyilik ekinin fiil hali diyebiliriz. İyilik ekin neydi? Bir isme aitlik bildirecekti. Bir isme varlığa aitlik bildirecekti. Burada da eylemin kimi yaptığını ifade edecek bize. Bunlar aynı zamanda tasarı ekleriyle de kullanılabiliyor. Demin gördüğümüz sağ, s, şart, gereklilik gibi bunlarla birlikte de kullanılabiliyor. Bakalım. Birinci teknik şahıs. M, im
+
+[23:43]
+ya da um, im şeklinde ya da m şeklinde oluyor arkadaşlar. Burada da yine ünsüz durumuna göre, geldiği kelimeye göre değişiyor. Mesela geldim nedir? zaman kipiyle birlikte kullandığımız şahıs eki. Geldim. Gel. Fiil. Görülen geçmiş zaman birinci teknik şahıs ekimiz. Şahıs ekimiz iyilik değil. İyilik
+
+[24:13]
+isme geliyor. İkinci teknik ne, sın, sin, sun, sın şeklinde gel. Mesela gelsin. Ne oldu burada? İkinci teknik oldu. Pardon. Bu, bunun üçüncü tekniği. Emir kipi olmuş oldu. Burada işte mesela geleceksin, geliyorsun derken sınsini bu
+
+[24:43]
+şekilde kullanıyoruz. Üçüncü teknik. Demin yazdımın karlamasaydım burada kullanırdık. Gelsin şeklinde. Ne oluyor? Bu aynı zamanda bir emir de bildirmiş oluyor arkadaşlar. Gelir. gelecek, geldi, o geldi, o gelecek, o gelsin, sınsin yapınca bunu üçüncü teknik halinde emir halini alıyor arkadaşlar. Birinci çokluğa baktığımızda burada da k, ız, iz, buz,
+
+[25:13]
+üst şeklinde mesela geldik, geliyoruz gibi. İkinci çoklukta da nız, nız, nız, düz, sınıs, sınıs, sınıs, geliyorsunuz, gitmişsiniz gibi. Üçüncü çokluk şahısa baktığımızda ne dedik? Çoklukla, çokluk ekiyle karıştırmayacağız arkadaşlar. Aradaki fark ne? Çokluk eki isme geliyor. Çokluk şahıs eki fiile geliyor arkadaşlar. Bakmışlar, bakıyorlar, geliyorlar,
+
+[25:44]
+bakarlar ne? Bunlar hep fiile gelen çokluk eki arkadaşlar. Çokluk şahıs eki diyeceğiz. Çokluk ekiyle karıştırmayacağız. Çokluk eki neydi? İsme geliyordu. Mesela bir de ne dedik? Tasarı ekleriyle birlikte kullanabiliriz dedik. Mesela gelsek derken ne olacak bu? Gel ilk ökümüz şart ekimiz k'de birinci çokluk şahıs ekimiz arkadaşlar. Gelsek
+
+[26:14]
+bu şekilde de kullanımlarımız mevcut. Ya da mesela gelmeliyiz. Gel fiil kökü meli. Gerekledik gibi y yardımcı ünsüz iz ne oldu? yine birinci çoğul şahıs iki oldu gelmeliyiz devam edelim soru ekleri mı mı mı şeklinde tabi ki bunlardan bunlar her zaman ve her zaman ayrı yazılıyor bunlara ek geldikten sonra mesela özlüyor muyum şeklinde
+
+[26:45]
+ek geldiğinde ne oluyor ek de aynı şekilde ses uyumuna ayak uydurmak zorunda arkadaşlar. Yani ses uyumuna uymak durumunda. Mi ise ince ünlü ise ince ünlü kalın ünlü ise kalın ünlü şeklinde ekin gelmesi gerekiyor. Hem isimlerden hem fiillerden sonra gelebiliyor. Hiçbir sıkıntı yok. Mesela doğru mu? İsim köküne gelmiş. Bitiyor mu? Fiil köküne gelmiş.
+
+[27:17]
+Devam edelim. Kelime yapımına baktığımızda Türkçelik kelimeler yapı bakımından oluşum şekli itibariyle aşağıdaki gibi sınıflandırılır. Basit, türemiş ve birleşik kelimeler olmak üzere. Hatırlarsanız ne demiştik? Bu çekim ekleri için de geçerli. Yapım ekleri için de geçerli. Türkçe sondan eklemeli bir dildir. Dolayısıyla bütün ekler kelimenin ya da kökün sonuna gelecek arkadaşlar. Tamam mı? Basit kelimeler herhangi bir yapım eki almamış kelimelerdir.
+
+[27:49]
+Basit kelimeler yalın kelimeler de denmektedir. diyor. Yalın hal ile karşılaştırmayın arkadaşlar. Yalın hal neydi? Hal eki almamış kelimelere diyorduk. Yalın kelimeler diğer adıyla basit kelimeler nedir bu? Hiçbir şekilde yapım eki almamış kelimelere basit kelimeler diyoruz. Bunlar kök halindeki kelimelerdir de diyebiliriz. Bazol, şişe, din, hece kelime, sus, duyup gördüğünüz gibi bunların hiçbirinde bir yapım eki yok arkadaşlar.
+
+[28:21]
+Türemiş kelimelere baktığımızda kelime kök ve gövdelerinde ek getirilerek yeni anlama gelen bir kelime oluşturulur. Ve bu kelimeler dilimizde türemiş kelime olarak isimlendiriliyor. Kelime türetmenin dört yolu varmış. İsimden isim, isimden bil, fiilden isim ve fiilden bil olmak üzere. İsimden isim gördüğünüz gibi tabi burada sayamayacağımız kadar çok fazla ek var. En fazla birkaç tanesini gösterebiliriz. Gördüğünüz gibi mesela duygu nedir bu? İsim sızsız eki getirerek ne yaptık?
+
+[28:55]
+Yeni bir anlam kattık. Duygu duygusuz oldu. Mıklık, zeytin, tek bir meyve iken zeytinlik nedir? Bütün zeytinlerin olduğu yere kullandığımız isim. Bilden isme baktığımızda burada da makmeki oldukça fazla görüyoruz. Konuşmak, duymak, görüşmek gibi. Ve mame şeklinde de karşınıza çıkabilir. Bunların bir de kalıplaşmış halleri de var. Mesela çakmak, yemek, ekmek. Bunlar da aslında fiilden isim türeten eklerdir.
+
+[29:27]
+Ama bunlar kalıplaşmıştır arkadaşlar. Göngin, bezgin, bitkin gibi ışış, uş, uş gibi de yine oldukça fazla kullandığımız ekler bunlar diyebiliriz arkadaşlar. En sıkılaştığımızda ekler bunlar. İsimden fiil türeten ekler. La, la, le, işte baş nedir isim? Başlamak isimden fiil olmuş artık. Başlamak oluyor.
+
+[29:58]
+Az isimken azalmak değil. Oyun isimken oynamak değil. Sarı isimken sararmak nedir? Fiildir arkadaşlar. Fiilden fiil türeten eklere baktığımızda Bunlar da yine kök ve gövdelere getirilerek fiillerden yine fiil oluşturmaya yarıyor. Mame olumsuzluk eki olarak kullanılıyor. Birkaç işçisi daha dışında bütün fiillerde kullanılıyor. Yapma, kaçırılma deme, bilme gibi bilmiyorum derken buradaki mide ne oluyor?
+
+[30:35]
+Bizim mame, filden fil yapım ekimiz oluyor. Neye baktığımızda bu da oldukça fazla rastladığımız bir ek. Cümle kendi kendine gerçekleştirme anlamı katıyor. Mesela gezmek, gezinmek, süslemek, süslenmek kendi kendine yapılıyor anlamı katıyor. L'ye baktığımızda bu da oldukça fazla kullanılan bir ek. Zaten bunların hepsi bu şekilde oldukça fazla kullanılıyor. Bu da eklendiği fiili pasif duruma sokuyor arkadaşlar.
+
+[31:08]
+Yani bu fiillerde eylemin kimin tarafından yapıldığı belli olmuyor. Mesela kesmek, kesilmek. Ağaç kesildi. Ben ağacı kestim. Herhangi bir şey yok. Kes, il, ti. Görülen geçmiş ama m'de birinci şahıs 2. Birinci teknik şahıs 2. Ama ağaç kesildi dediğimizde kimin tarafından yapıldığı bilinmiyor arkadaşlar. Ya da görüldü, duyuldu nedir? Kim tarafından yapıldığı belli olmayan bir anlam katıyor. Bir pasiflik anlamı katıyor.
+
+[31:44]
+Şeye baktığımızda bu da birlikte yapılan eylemler için ve oluş fiillerini göstermek için kullanılıyor. Mesela uçmak, uçuşmak. Kuş ötüyor. Benim sakam ötüyor. Ama kuşlar ötüyor nereden? Benim sakam uçuyor. Benim kuşum uçuyor. Ama uçuşmak dediğimde birlikte yapılan bir eylem değil mi? Kuşların bir arada yaptığı bir eylem. Yani kuşlar uçuştular, kuşlar ötüştüler.
+
+[32:16]
+Biz tartıştık. En az iki kişinin olması gerekiyor bir tartışmada. R ekine baktığımızda bu da yaptırma, oldurma anlamı katıyor. Kaçırdım, şaşırdım, içirdim, düşürdüm işte. Ben kaçtım ama ben kaçırdım dersen bir başkasına yaptırdım. Bir eylemden bahsetmiş olurum. Birleşik kelimeler baktığımızda. Oluşan birleşik isimler genellikle belirsiz isim tamlaması şeklindedir diyor. Hanım, eli gördüğünüz gibi iki tane ismin yan yana gelerek oluşturduğu tek bir isim.
+
+[32:52]
+Yavru, ağzı aynı şekilde. Özel isim olarak kullanılan birleşik isimlerde hem ilgi hem iyilik ekini düşürüldüğü görülür. Neydi bu? Tamlayan ve tamlanan ekinden bahsediyor aslında. Nedir bu? Bahçenin kapısı değil de bahçe kapı olmuş. Edirne'nin kapısı değil de Edirne kapısı, Edirne kapı olmuş arkadaşlar. Bu şekilde özetleyebiliriz. Tabii ki birleşik kelimeler bizim dilimiz için önemli. Neden? Çünkü söz varlığını genişletmenin, geliştirmenin önemli bir yolu da birleşik kelimelerdir arkadaşlar.
+
+[33:27]
+Kelimeleri birleştirsek yeni birer kelime elde etmiş oluruz. Dolayısıyla dilde bu anlamda bir gelişim, bir artış gösterir. Birleşik isimlerden bazıları bir sıfatla bir ismin birleşmesinden oluşmuştuk diyor. Bugün hangi gün bugün gibi, nasıl göz, kara göz gibi. İki zamirin yan yana gelmesiyle oluşmuş birleşik isimler de vardır diyor. Bizsiz falan filan gibi. Bazı birleşik isimler kendilerinden sonra gelecek isim için sıfat görevini üstlenirler.
+
+[34:02]
+Mesela cam göbeği vazo. Nasıl vazo? Hangi renk? Cam göbeği vazo. Bir renk olduğu için sıfat anlamı almış. Nur topu nedir? İçik yazılması gerekiyor. Nur topu nedir? Nasıl bebek? Nur topu bebek. Nasıl kadın? Eli sıkı kadın. Şeklinde ne oluyor? Sıfat halini almış oluyor arkadaşlar. İki sıfatın birleşmesi sonucu oluşan birleşik yapılarda bulunur diyor.
+
+[34:33]
+İki canlı gibi. Nasıl kadın? İki canlı kadın mesela. Hem tek başına bir isim oluyor hem de tek başına bir sıfat halini alabiliyor. Bunlar genellikle buradaki bu ekrandaki çoğu genellikle birleşik. Pardon. Kalıplaşıyor arkadaşlar. Ve duruma göre işte deyim olarak da kullanılıyor. Bu şekilde oluşan sözcük gruplarına da istinat grubu diyoruz arkadaşlar.
+
+[35:06]
+Bunu çok bilmeseniz de olur. İstinat grubu deniyor. Birleşik söz gruplarından bir diğerine de bir diğerine de fiiller oluşturur. Birleşik fiillerden bazıları aşağıdaki gibidir diyor. Teşekkür etmek, iş buyurmak, yardımcı olmak, bakta kalmak, duru vermek, el ayağını dolaşmak, bel bağlamak, deliksiz uyumak gibi. Gördüğünüz gibi çoğu bunların yardımcı fiille oluşur arkadaşlar. Ne diyebiliriz?
+
+[35:36]
+Bu şekilde gördüğünüzde zaten aklınızda kalır. E kalmak, e vermek, e yazmak, e durmak bunlar nedir? Yardımcı fiille oluşturulan birleşik kelimeler. Teşekkür etmek, yardımcı fiil, iş buyurmak, yardımcı olmak bunlar nedir? yardımcı fiillerdir arkadaşlar. Ya da el ayağı dolaşmak. Bunlar da nedir? Artık deyimleşmiş kelimelerdir. Sorularımıza geçelim. Aşağıdaki cümlenin hangisinde 6 çizili sözcük işlevi bakımından
+
+[36:07]
+farklı bir ek almıştır diyor. İşlevi bakımından farklı bir ek almış. Evin çok güzel bir yerde bu elbisen yepyeni duruyor. Kimse sizlere sokan lambası eşlik ediyor. Babam bu tarafa gelecek miydi? Senin sevdan her şeyden üstün. Geliyor.
+
+[36:37]
+Var mı başka cevap? 110 kişisiniz. 3 kişi cevap veriyor. Geri kalanlar nerede? C denmiş. Evin çok güzeldi. Senin evin çok güzel bir yerde. Ne oldu burada arkadaşlar? İyilik eki oldu. Senin evin. Bu elbisen yepyeni duruyor.
+
+[37:09]
+Senin elbisen. Ne oldu? Yine iyilik oldu. Kimsesizlere sokağın lambası eşlik ediyor. Sokağın. Neyin? Sokağın. Ne oldu bu arkadaşlar? İlgi hali eki oldu. Nerelik? Tanlayan eki ilgi hali ekidir. Böyle yapalım da. İlgi hali eki oldu. Dolayısıyla bu farklı. Baban. Senin baban. Yine iyilik eki.
+
+[37:39]
+Senin sevdan. Yine iyilik eki. Kime ait olduğunu bildiriyor. Ama C şıkkına baktığımızda ilgi hali eki. yani tanlayan eki diyoruz arkadaşlar. Devam. Aşağıdaki cümlelerin hangisinde laller ekinin işlevi ötekilerden farklıdır. Yıllarca kızının gelmesini bekledi. Şurada oturanları buraya çağırın hemen. Yazlara harçlığımı çıkarmak için bu dükkanda çalışırdım. Soğuk bir kış günü dağa tırmandılar. Kitapları tek tek kütüphaneye
+
+[38:10]
+yerleştirdi. Neydik? Bir çokluk eki var. Bir de ne vardı? Şahıs eki var.
+
+[38:52]
+İtibariyle D denmiş. Farklı cevaplar da var. Yıllarca isme gelmiş nedir? Çokluk eki. Oturanlar nedir? Oturan. Nedir bu? Artık isimleşmiş halledir. Yani burada fiil söz konusu değil arkadaşlar. Oturan kişiler. Dolayısıyla nedir? Çokluk eki. Yazları. İsme gelmiş. Çokluk eki. Tırmandılar. Ne var burada? Fiile gelmiş arkadaşlar. Tırmanmak. İlk. D. D, D, D.
+
+[39:23]
+Görülen geçmiş zaman. Buradaki lar nedir? Şahıs ekidir. Eyleme fiile gelmiş. Dolayısıyla ne olacak? D şıkkı. Doğru cevap olacak. Kitapları yine isme gelmiş. Çokluk eki diyoruz. Ama tırmandılar nedir? Tırmanmak fiil olduğu için. Dile geldiği için. Bu şahıs ekidir arkadaşlar. Onlar tırmandılar. Üçüncü çokluk şahıs eki. Ne dedik? Larler. İsme gelen çokluk eki. İyle gelen çağır seke. Tamam mı? Bunu karıştırmayın.
+
+[39:56]
+Aşağıdaki cümlelerin hangisinde altı çizili sözcük yapısına göre diğerlerinden farklıdır? Dalgın tavırları hepimizin çekti. Bu soruyu yanıtlamak o günlerde de kolay değildi. Ona bu zor günlerinde ayakta tutan şey bu duyguydu. Gerçeği kendisi de görmüştü çok büyük. Dolasılıkla her insan farklı bir insan yaşatmayı başarabilirdi. Yapı bakımından. Yapı.
+
+[40:44]
+Evlenmiş bakalım. Dalmaktan dalgın olmuş. Fiilden isim olmuş. Sormaktan soru olmuş. Yine fiilden isim söz konusu. Duyguydu. Duymaktan duygu olmuş. Yine fiilden isim. Remiş. Büyük diyor. Büyümekten büyük olmuş.
+
+[41:14]
+Fiilden isim. Remiş. Başarabilirdi. Bunda ne var? Ebilmek, yardımcı fiili var. Ebilmek, başarabilmek nedir bu? Birleşik kelimedir arkadaşlar. Başarabilmek, ebilmek yardımcı fiil. Dolayısıyla nedir? Başarabilmek birleşik fiil oldu arkadaşlar. Diğerleri nedir? Fiilden isim, süremiş kelimedir. Aşağıdaki altı çiziliği sözcüklerden hangisi yapım eki almamıştır diyor.
+
+[41:47]
+O çay ağır akar yorgun mu bilmem. Gözlerimden döksam sevinç yaşını. Mahmur gözlerimde süzülsün. Uykun sarp dağlardan örülmüş dört duvar içindeyim. Karşıdan renk içinde solgun ay görünüyor. Yok mu cevap?
+
+[42:20]
+E denmiş, B denmiş. İrem cevap mı değişti?
+
+[42:50]
+Genel itibariyle B denmiş. Bakalım. İrem de yazsın. Yormaktan yorgun Nedir bu? Yapım eki Almış dilden isim Eledik Gözlerimden Göz isimler Çokluk benim gözlerim Yelik eki Danden ayrılma hali
+
+[43:21]
+Eki ne var burada? Yapım eki Var mı? Yok arkadaşlar Dolayısıyla ne olacak? Beş bir zor cevap Olacak. Süzülsün Süzmekten süzülmek ne dedik? L fiilden fiil yapım 2 dedik. Örmekten örülmek yine aynı şekilde L fiilden fiil görülmek. Bu da görmekten görünmek ne var burada? Ne fiilden fiil yapım 2. Bunu da
+
+[43:51]
+eledik. Dolayısıyla ne oldu? Cevap 5. Oldu. Evet dersimiz bu kadar. Kaynaklarımız bunlar. Var mı soru? anlamadığınız bir yer. Sam olacak örnek bir soru söyleyebilir misiniz? Örnek sorular bunlar işte bu roman. Bu tarz olacak. Yani çok böyle abartılı şeyler beklemeyin. Bu tarz sorular olacak. Çok uzun öyle kompozisyon soruları falan olmayacak. Tabi bir paragraf verebiliriz. 3-4 cümlelik.
+
+[44:21]
+Oradan soru çıkarabiliriz. Ama uzun sorular olmayacak. Şöyle söyleyeyim. 20 soruyu ben 4-5 dakikada yapıyorum. Sizin de normal şartlarda 10-15 dakikada yapıyor olmanız lazım. 20 dakika veriyoruz. Ne dedim ben şimdi? Bana kolay. Sana zor mu bilmiyorum. Bilip bilmediğine bağlı bir şey. Dediğim gibi çok böyle abartılı şeyler olmayacak arkadaşlar. Bu her ders nasıl
+
+[44:53]
+son 4-5 tane soru yapıyorsak her dersin sonunda bu tarzda sorular olacak. Bu tarzdaki sorular da bundan daha kolay da olmaz diye düşünüyorum. Çok abartılı şeyleri ezberlemenize gerek yok. Benim anlattıklarıma bakın. Yeterli. Sadece pdf'den çalışırsanız olmaz. Onu söyleyeyim. Dedim ki. Çünkü sadece ekranı okumuyoruz. Onun haricinde bilgiler veriyoruz. Ama mesela yani dil ailelerini işlerken tutup da sana şey sormayacağım yani.
+
+[45:25]
+Soğumudur, hoğumudur şeklinde soru sormayacağız. Mesela Uralı Altay'ı bilin. Çok zor olmayacak. Dediğim gibi. 20 dakikada kolayca halledebileceğiniz sorular. Ama Ama tabii çalışmanızda fayda var. Var mı başka bir soru? Haydi bitirelim. Hepinize sınavlarınıza başarılar diliyorum arkadaşlar. Görüşmek üzere. Hoşçakalın.
+
